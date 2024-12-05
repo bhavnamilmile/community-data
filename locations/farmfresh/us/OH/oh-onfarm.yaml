@@ -1,1 +1,7027 @@
-data: []
+data:
+- Address: 67800 Mall Rd, Saint Clairsville, Ohio, 43950
+  Blog: null
+  City: Saint Clairsville
+  ContactEmail: null
+  ContactName: null
+  ContactPhone: null
+  Dates: .nan
+  Description: null
+  Facebook: null
+  Image: default-farmersmarket-4-3.jpg
+  Instagram: null
+  Latitude: '40.069469507567'
+  ListingID: '313845'
+  Longitude: '-80.863696463509'
+  ModifyDate: null
+  Name: Ohio Valley Farmers' Market
+  Pinterest: null
+  Products: ''
+  State: Ohio
+  Street: 67800 Mall Rd
+  Twitter: null
+  Type: farmers market
+  Website: null
+  Youtube: null
+  Zip: '43950'
+- Address: 901 Elm St, Youngstown, Ohio, 44505
+  Blog: null
+  City: Youngstown
+  ContactEmail: jwconverse@gmail.com
+  ContactName: null
+  ContactPhone: null
+  Dates: .nan
+  Description: null
+  Facebook: https://www.facebook.com/northsidefarmersmarkets/
+  Image: default-farmersmarket-4-3.jpg
+  Instagram: null
+  Latitude: '41.112536988739'
+  ListingID: '313856'
+  Longitude: '-80.645236019346'
+  ModifyDate: null
+  Name: 'Northside Farmers Market '
+  Pinterest: null
+  Products: ''
+  State: Ohio
+  Street: 901 Elm St
+  Twitter: null
+  Type: farmers market
+  Website: null
+  Youtube: null
+  Zip: '44505'
+- Address: 205 Broadway St, Loveland, Ohio, 45140
+  Blog: null
+  City: Loveland
+  ContactEmail: null
+  ContactName: null
+  ContactPhone: null
+  Dates: .nan
+  Description: null
+  Facebook: null
+  Image: default-farmersmarket-4-3.jpg
+  Instagram: null
+  Latitude: '39.266593038188'
+  ListingID: '300011'
+  Longitude: '-84.259985758056'
+  ModifyDate: Apr 4th, 2024
+  Name: Loveland Farmers Market
+  Pinterest: null
+  Products: ''
+  State: Ohio
+  Street: 205 Broadway St
+  Twitter: null
+  Type: farmers market
+  Website: http://www.lovelandfm.com/
+  Youtube: null
+  Zip: '45140'
+- Address: S Front St & Garrison St, Fremont, Ohio, 43420
+  Blog: null
+  City: Fremont
+  ContactEmail: null
+  ContactName: null
+  ContactPhone: null
+  Dates: .nan
+  Description: null
+  Facebook: null
+  Image: default-farmersmarket-4-3.jpg
+  Instagram: null
+  Latitude: '41.345400005274'
+  ListingID: '300066'
+  Longitude: '-83.113580021594'
+  ModifyDate: Apr 4th, 2024
+  Name: Croghan Colonial Bank Farmers Market
+  Pinterest: null
+  Products: ''
+  State: Ohio
+  Street: S Front St & Garrison St
+  Twitter: null
+  Type: farmers market
+  Website: https://nfmd.org/oh/fremont/1002470/
+  Youtube: null
+  Zip: '43420'
+- Address: 15425 Detroit Ave, Lakewood, Ohio, 44107
+  Blog: null
+  City: Lakewood
+  ContactEmail: null
+  ContactName: null
+  ContactPhone: null
+  Dates: .nan
+  Description: null
+  Facebook: null
+  Image: default-farmersmarket-4-3.jpg
+  Instagram: null
+  Latitude: '41.484694998471'
+  ListingID: '300068'
+  Longitude: '-81.804253990671'
+  ModifyDate: Apr 4th, 2024
+  Name: Lakewood Earth and Food (LEAF) Community Farmers' Market
+  Pinterest: null
+  Products: ''
+  State: Ohio
+  Street: 15425 Detroit Ave
+  Twitter: null
+  Type: farmers market
+  Website: No Website to Date
+  Youtube: null
+  Zip: '44107'
+- Address: 701 E State St, Athens, Ohio, 45701
+  Blog: null
+  City: Athens
+  ContactEmail: null
+  ContactName: null
+  ContactPhone: null
+  Dates: .nan
+  Description: null
+  Facebook: null
+  Image: default-farmersmarket-4-3.jpg
+  Instagram: null
+  Latitude: '39.336220011737'
+  ListingID: '300150'
+  Longitude: '-82.075942988543'
+  ModifyDate: Apr 4th, 2024
+  Name: Athens Farmers Market
+  Pinterest: null
+  Products: ''
+  State: Ohio
+  Street: 701 E State St
+  Twitter: null
+  Type: farmers market
+  Website: https://www.athensfarmersmarket.org/
+  Youtube: null
+  Zip: '45701'
+- Address: Franklin Ave & W Summit St, Kent, Ohio, 44240
+  Blog: null
+  City: Kent
+  ContactEmail: null
+  ContactName: null
+  ContactPhone: null
+  Dates: .nan
+  Description: null
+  Facebook: null
+  Image: default-farmersmarket-4-3.jpg
+  Instagram: null
+  Latitude: '41.150120017654'
+  ListingID: '300506'
+  Longitude: '-81.360229962207'
+  ModifyDate: Apr 4th, 2024
+  Name: Haymaker Farmers' Market
+  Pinterest: null
+  Products: ''
+  State: Ohio
+  Street: Franklin Ave & W Summit St
+  Twitter: null
+  Type: farmers market
+  Website: http://www.haymakermarket.com/
+  Youtube: null
+  Zip: '44240'
+- Address: 4000 Sunset Blvd, Steubenville, Ohio, 43952
+  Blog: null
+  City: Steubenville
+  ContactEmail: null
+  ContactName: null
+  ContactPhone: null
+  Dates: .nan
+  Description: null
+  Facebook: null
+  Image: default-farmersmarket-4-3.jpg
+  Instagram: null
+  Latitude: '40.376321994875'
+  ListingID: '300532'
+  Longitude: '-80.672363965154'
+  ModifyDate: Apr 4th, 2024
+  Name: Farmers' gateway Market
+  Pinterest: null
+  Products: ''
+  State: Ohio
+  Street: 4000 Sunset Blvd
+  Twitter: null
+  Type: farmers market
+  Website: https://www.facebook.com/profile.php?id=100064850281646
+  Youtube: null
+  Zip: '43952'
+- Address: 21 S State St, Westerville, Ohio, 43081
+  Blog: null
+  City: Westerville
+  ContactEmail: null
+  ContactName: null
+  ContactPhone: null
+  Dates: .nan
+  Description: null
+  Facebook: null
+  Image: default-farmersmarket-4-3.jpg
+  Instagram: null
+  Latitude: '40.125298998377'
+  ListingID: '300874'
+  Longitude: '-82.931752988571'
+  ModifyDate: Apr 4th, 2024
+  Name: Westerville Saturday Farmers Market
+  Pinterest: null
+  Products: ''
+  State: Ohio
+  Street: 21 S State St
+  Twitter: null
+  Type: farmers market
+  Website: https://www.uptownwestervilleinc.com/farmersmarket.html
+  Youtube: null
+  Zip: '43081'
+- Address: 1567 Pilgrim Dr, Stow, Ohio, 44224
+  Blog: null
+  City: Stow
+  ContactEmail: null
+  ContactName: null
+  ContactPhone: null
+  Dates: .nan
+  Description: null
+  Facebook: null
+  Image: default-farmersmarket-4-3.jpg
+  Instagram: null
+  Latitude: '41.168689998411'
+  ListingID: '300924'
+  Longitude: '-81.451931000432'
+  ModifyDate: Apr 4th, 2024
+  Name: Stow Community Farmers Market
+  Pinterest: null
+  Products: ''
+  State: Ohio
+  Street: 1567 Pilgrim Dr
+  Twitter: null
+  Type: farmers market
+  Website: https://www.stowfarmersmarket.com/
+  Youtube: null
+  Zip: '44224'
+- Address: 151 Main St, Wadsworth, Ohio, 44281
+  Blog: null
+  City: Wadsworth
+  ContactEmail: null
+  ContactName: null
+  ContactPhone: null
+  Dates: .nan
+  Description: null
+  Facebook: null
+  Image: default-farmersmarket-4-3.jpg
+  Instagram: null
+  Latitude: '41.024020989902'
+  ListingID: '301029'
+  Longitude: '-81.728517041415'
+  ModifyDate: Apr 4th, 2024
+  Name: Main Street Wadsworth Farmers Market
+  Pinterest: null
+  Products: ''
+  State: Ohio
+  Street: 151 Main St
+  Twitter: null
+  Type: farmers market
+  Website: https://www.wadsworthfarmersmarket.com/
+  Youtube: null
+  Zip: '44281'
+- Address: 1445 Compton Rd, Cincinnati, Ohio, 45231
+  Blog: null
+  City: Cincinnati
+  ContactEmail: null
+  ContactName: null
+  ContactPhone: null
+  Dates: .nan
+  Description: null
+  Facebook: null
+  Image: default-farmersmarket-4-3.jpg
+  Instagram: null
+  Latitude: '39.231475013882'
+  ListingID: '301041'
+  Longitude: '-84.540945964186'
+  ModifyDate: Apr 4th, 2024
+  Name: Fibonacci's Mount Healthy Farmers Market
+  Pinterest: null
+  Products: ''
+  State: Ohio
+  Street: 1445 Compton Rd
+  Twitter: null
+  Type: farmers market
+  Website: http://fibbrew.com/
+  Youtube: null
+  Zip: '45231'
+- Address: 2925 W Broad St, Columbus, Ohio, 43204
+  Blog: null
+  City: Columbus
+  ContactEmail: null
+  ContactName: null
+  ContactPhone: null
+  Dates: .nan
+  Description: null
+  Facebook: null
+  Image: default-farmersmarket-4-3.jpg
+  Instagram: null
+  Latitude: '39.954223013462'
+  ListingID: '301056'
+  Longitude: '-83.078550958577'
+  ModifyDate: Apr 4th, 2024
+  Name: Westgate Farmers Market
+  Pinterest: null
+  Products: ''
+  State: Ohio
+  Street: 2925 W Broad St
+  Twitter: null
+  Type: farmers market
+  Website: http://www.westgatefarmersmarket.com/home
+  Youtube: null
+  Zip: '43204'
+- Address: 5955 W Broad St, Galloway, Ohio, 43119
+  Blog: null
+  City: Galloway
+  ContactEmail: null
+  ContactName: null
+  ContactPhone: null
+  Dates: .nan
+  Description: null
+  Facebook: null
+  Image: default-farmersmarket-4-3.jpg
+  Instagram: null
+  Latitude: '39.950255020498'
+  ListingID: '301063'
+  Longitude: '-83.158938020076'
+  ModifyDate: Apr 4th, 2024
+  Name: Prairie Township Farmer's Market
+  Pinterest: null
+  Products: ''
+  State: Ohio
+  Street: 5955 W Broad St
+  Twitter: null
+  Type: farmers market
+  Website: 'https://www.prairietownship.org/219/Farmers-Market '
+  Youtube: null
+  Zip: '43119'
+- Address: 36 E Canal St, Newark, Ohio, 43055
+  Blog: null
+  City: Newark
+  ContactEmail: null
+  ContactName: null
+  ContactPhone: null
+  Dates: .nan
+  Description: null
+  Facebook: null
+  Image: default-farmersmarket-4-3.jpg
+  Instagram: null
+  Latitude: '40.056709152313'
+  ListingID: '301065'
+  Longitude: '-82.400410890823'
+  ModifyDate: Apr 4th, 2024
+  Name: Canal Market District
+  Pinterest: null
+  Products: ''
+  State: Ohio
+  Street: 36 E Canal St
+  Twitter: null
+  Type: farmers market
+  Website: https://www.canalmarketdistrict.org/
+  Youtube: null
+  Zip: '43055'
+- Address: 700 S 3rd St, Columbus, Ohio, 43206
+  Blog: null
+  City: Columbus
+  ContactEmail: null
+  ContactName: null
+  ContactPhone: null
+  Dates: .nan
+  Description: null
+  Facebook: null
+  Image: default-farmersmarket-4-3.jpg
+  Instagram: null
+  Latitude: '39.948103008768'
+  ListingID: '301073'
+  Longitude: '-82.994641989001'
+  ModifyDate: Apr 4th, 2024
+  Name: Saint Mary Farmers Market
+  Pinterest: null
+  Products: ''
+  State: Ohio
+  Street: 700 S 3rd St
+  Twitter: null
+  Type: farmers market
+  Website: https://nfmd.org/oh/columbus/1019825/
+  Youtube: null
+  Zip: '43206'
+- Address: 143 W Chestnut St, Lancaster, Ohio, 43130
+  Blog: null
+  City: Lancaster
+  ContactEmail: farmersmarket@kellermarkethouse.com
+  ContactName: null
+  ContactPhone: 740-277-6305
+  Dates: .nan
+  Description: Downtown Lancaster, Chestnut Street between Broad & Columbus in the
+    Municipal Courts Parking Lot
+  Facebook: https://www.facebook.com/lancasterohfarmersmarket/ https://www.instagram.com/lancasterohfarmersmarket/
+  Image: default-farmersmarket-4-3.jpg
+  Instagram: null
+  Latitude: '39.712547311228'
+  ListingID: '301090'
+  Longitude: '-82.603709982989'
+  ModifyDate: Apr 4th, 2024
+  Name: Lancaster Farmers Market
+  Pinterest: null
+  Products: ''
+  State: Ohio
+  Street: 143 W Chestnut St
+  Twitter: null
+  Type: farmers market
+  Website: https://kellermarkethouse.org/lancaster-ohio-farmers-market/
+  Youtube: null
+  Zip: '43130'
+- Address: 39 Public Sq, Ste 305, Medina, Ohio, 44256
+  Blog: null
+  City: Medina
+  ContactEmail: null
+  ContactName: null
+  ContactPhone: null
+  Dates: .nan
+  Description: null
+  Facebook: null
+  Image: default-farmersmarket-4-3.jpg
+  Instagram: null
+  Latitude: '41.137790992455'
+  ListingID: '301095'
+  Longitude: '-81.863747985039'
+  ModifyDate: Apr 4th, 2024
+  Name: Medina Square Farmers Market
+  Pinterest: null
+  Products: ''
+  State: Ohio
+  Street: 39 Public Sq
+  Twitter: null
+  Type: farmers market
+  Website: https://www.medinafarmersmarket.com/
+  Youtube: null
+  Zip: '44256'
+- Address: 845 W Maple St, North Canton, Ohio, 44720
+  Blog: null
+  City: North Canton
+  ContactEmail: null
+  ContactName: null
+  ContactPhone: null
+  Dates: .nan
+  Description: null
+  Facebook: null
+  Image: default-farmersmarket-4-3.jpg
+  Instagram: null
+  Latitude: '40.876983004099'
+  ListingID: '301354'
+  Longitude: '-81.415559994716'
+  ModifyDate: Apr 4th, 2024
+  Name: North Canton Farmers' Market
+  Pinterest: null
+  Products: ''
+  State: Ohio
+  Street: 845 W Maple St
+  Twitter: null
+  Type: farmers market
+  Website: https://www.ncantonfarmersmarket.com/
+  Youtube: null
+  Zip: '44720'
+- Address: E Park Pl, Oxford, Ohio, 45056
+  Blog: null
+  City: Oxford
+  ContactEmail: null
+  ContactName: null
+  ContactPhone: null
+  Dates: .nan
+  Description: null
+  Facebook: null
+  Image: default-farmersmarket-4-3.jpg
+  Instagram: null
+  Latitude: '39.510930012684'
+  ListingID: '301422'
+  Longitude: '-84.741776123275'
+  ModifyDate: Apr 4th, 2024
+  Name: Oxford Farmers Market
+  Pinterest: null
+  Products: ''
+  State: Ohio
+  Street: E Park Pl
+  Twitter: null
+  Type: farmers market
+  Website: https://oxfordfarmersmarket.com/
+  Youtube: null
+  Zip: '45056'
+- Address: 105 Norton Park Dr, Columbus, Ohio, 43213
+  Blog: null
+  City: Columbus
+  ContactEmail: null
+  ContactName: null
+  ContactPhone: null
+  Dates: .nan
+  Description: null
+  Facebook: null
+  Image: default-farmersmarket-4-3.jpg
+  Instagram: null
+  Latitude: '39.975870990193'
+  ListingID: '301427'
+  Longitude: '-82.876365816687'
+  ModifyDate: Apr 4th, 2024
+  Name: Market on the Green
+  Pinterest: null
+  Products: ''
+  State: Ohio
+  Street: 105 Norton Park Dr
+  Twitter: null
+  Type: farmers market
+  Website: https://www.whmarketonthegreen.com/
+  Youtube: null
+  Zip: '43213'
+- Address: 1200 Starkweather Ave, Cleveland, Ohio, 44113
+  Blog: null
+  City: Cleveland
+  ContactEmail: null
+  ContactName: null
+  ContactPhone: null
+  Dates: .nan
+  Description: null
+  Facebook: null
+  Image: default-farmersmarket-4-3.jpg
+  Instagram: null
+  Latitude: '41.477636011074'
+  ListingID: '301428'
+  Longitude: '-81.690426991177'
+  ModifyDate: Apr 4th, 2024
+  Name: Tremont Farmers Market
+  Pinterest: null
+  Products: ''
+  State: Ohio
+  Street: 1200 Starkweather Ave
+  Twitter: null
+  Type: farmers market
+  Website: https://experiencetremont.com/featured-events/farmers-market/
+  Youtube: null
+  Zip: '44113'
+- Address: 311 Bowman St, Mansfield, Ohio, 44903
+  Blog: null
+  City: Mansfield
+  ContactEmail: null
+  ContactName: null
+  ContactPhone: null
+  Dates: .nan
+  Description: null
+  Facebook: null
+  Image: default-farmersmarket-4-3.jpg
+  Instagram: null
+  Latitude: '40.766925011187'
+  ListingID: '301429'
+  Longitude: '-82.52331600642'
+  ModifyDate: Apr 4th, 2024
+  Name: North End Farmers Market
+  Pinterest: null
+  Products: ''
+  State: Ohio
+  Street: 311 Bowman St
+  Twitter: null
+  Type: farmers market
+  Website: https://www.necic-ohio.org/programs/local-food-initiatives/north-end-farmers-market
+  Youtube: null
+  Zip: '44903'
+- Address: 1001 W Market St, Celina, Ohio, 45822
+  Blog: null
+  City: Celina
+  ContactEmail: null
+  ContactName: null
+  ContactPhone: null
+  Dates: .nan
+  Description: null
+  Facebook: null
+  Image: default-farmersmarket-4-3.jpg
+  Instagram: null
+  Latitude: '40.551375989128'
+  ListingID: '301443'
+  Longitude: '-84.583987959001'
+  ModifyDate: Apr 4th, 2024
+  Name: Celina Farmers Market
+  Pinterest: null
+  Products: ''
+  State: Ohio
+  Street: 1001 W Market St
+  Twitter: null
+  Type: farmers market
+  Website: http://celinafarmersmarket.com/
+  Youtube: null
+  Zip: '45822'
+- Address: 67800 Mall Rd, Saint Clairsville, Ohio, 43950
+  Blog: null
+  City: Saint Clairsville
+  ContactEmail: null
+  ContactName: null
+  ContactPhone: null
+  Dates: .nan
+  Description: null
+  Facebook: null
+  Image: default-farmersmarket-4-3.jpg
+  Instagram: null
+  Latitude: '40.069469507567'
+  ListingID: '301474'
+  Longitude: '-80.863696463509'
+  ModifyDate: Apr 4th, 2024
+  Name: Ohio Valley Farmers' Market
+  Pinterest: null
+  Products: ''
+  State: Ohio
+  Street: 67800 Mall Rd
+  Twitter: null
+  Type: farmers market
+  Website: http://ovfarmersmarket.org/
+  Youtube: null
+  Zip: '43950'
+- Address: 7221 Broadview Rd, Independence, Ohio, 44131
+  Blog: null
+  City: Independence
+  ContactEmail: null
+  ContactName: null
+  ContactPhone: null
+  Dates: .nan
+  Description: null
+  Facebook: null
+  Image: default-farmersmarket-4-3.jpg
+  Instagram: null
+  Latitude: '41.369442692862'
+  ListingID: '301484'
+  Longitude: '-81.684533687481'
+  ModifyDate: Apr 4th, 2024
+  Name: City of Seven Hills Farmers Market
+  Pinterest: null
+  Products: ''
+  State: Ohio
+  Street: 7221 Broadview Rd
+  Twitter: null
+  Type: farmers market
+  Website: http://www.sevenhillsohio.org/en-US/farmers-market.aspx
+  Youtube: null
+  Zip: '44131'
+- Address: 330 Court Ave NW, Canton, Ohio, 44702
+  Blog: null
+  City: Canton
+  ContactEmail: null
+  ContactName: null
+  ContactPhone: null
+  Dates: .nan
+  Description: null
+  Facebook: null
+  Image: default-farmersmarket-4-3.jpg
+  Instagram: null
+  Latitude: '40.800259536732'
+  ListingID: '301486'
+  Longitude: '-81.375036487418'
+  ModifyDate: Apr 4th, 2024
+  Name: Canton Farmers' Market
+  Pinterest: null
+  Products: ''
+  State: Ohio
+  Street: 330 Court Ave NW
+  Twitter: null
+  Type: farmers market
+  Website: https://www.facebook.com/CantonOhioFarmersMarket/
+  Youtube: null
+  Zip: '44702'
+- Address: 110 W Main St, West Union, Ohio, 45693
+  Blog: null
+  City: West Union
+  ContactEmail: null
+  ContactName: null
+  ContactPhone: null
+  Dates: .nan
+  Description: null
+  Facebook: null
+  Image: default-farmersmarket-4-3.jpg
+  Instagram: null
+  Latitude: '38.795424019357'
+  ListingID: '301488'
+  Longitude: '-83.546109024224'
+  ModifyDate: Apr 4th, 2024
+  Name: Adams County Farmer's Market
+  Pinterest: null
+  Products: ''
+  State: Ohio
+  Street: 110 W Main St
+  Twitter: null
+  Type: farmers market
+  Website: https://adams-county-farmers-market.business.site/?utm_source=gmb&utm_medium=referral
+  Youtube: null
+  Zip: '45693'
+- Address: 101 E East St, Washington Court House, Ohio, 43160
+  Blog: null
+  City: Washington Court House
+  ContactEmail: null
+  ContactName: null
+  ContactPhone: null
+  Dates: .nan
+  Description: null
+  Facebook: null
+  Image: default-farmersmarket-4-3.jpg
+  Instagram: null
+  Latitude: '39.534896346524'
+  ListingID: '301501'
+  Longitude: '-83.438640704117'
+  ModifyDate: Apr 4th, 2024
+  Name: Fayette County Farmers Market
+  Pinterest: null
+  Products: ''
+  State: Ohio
+  Street: 101 E East St
+  Twitter: null
+  Type: farmers market
+  Website: https://www.facebook.com/OHFCFM/
+  Youtube: null
+  Zip: '43160'
+- Address: 3051 W Streetsboro Rd, Richfield, Ohio, 44286
+  Blog: null
+  City: Richfield
+  ContactEmail: null
+  ContactName: null
+  ContactPhone: null
+  Dates: .nan
+  Description: null
+  Facebook: null
+  Image: default-farmersmarket-4-3.jpg
+  Instagram: null
+  Latitude: '41.244976004234'
+  ListingID: '301563'
+  Longitude: '-81.599231968447'
+  ModifyDate: Apr 4th, 2024
+  Name: Oak Hill Hops
+  Pinterest: null
+  Products: ''
+  State: Ohio
+  Street: 3051 W Streetsboro Rd
+  Twitter: null
+  Type: farmers market
+  Website: https://www.facebook.com/OakHillHops/
+  Youtube: null
+  Zip: '44286'
+- Address: 1777 E Broad St, Columbus, Ohio, 43203
+  Blog: null
+  City: Columbus
+  ContactEmail: null
+  ContactName: null
+  ContactPhone: null
+  Dates: .nan
+  Description: null
+  Facebook: null
+  Image: default-farmersmarket-4-3.jpg
+  Instagram: null
+  Latitude: '39.965880019574'
+  ListingID: '301626'
+  Longitude: '-82.953180988763'
+  ModifyDate: Apr 4th, 2024
+  Name: Franklin Park Conservatory and Botanical Gardens Farmers\' Market
+  Pinterest: null
+  Products: ''
+  State: Ohio
+  Street: 1777 E Broad St
+  Twitter: null
+  Type: farmers market
+  Website: https://www.fpconservatory.org/education-programs/outreach-programs/farmers-market/
+  Youtube: null
+  Zip: '43203'
+- Address: 89 N Center St, Pickerington, Ohio, 43147
+  Blog: null
+  City: Pickerington
+  ContactEmail: pickfarmers@hotmail.com
+  ContactName: null
+  ContactPhone: 614-681-1440
+  Dates: .nan
+  Description: null
+  Facebook: null
+  Image: default-farmersmarket-4-3.jpg
+  Instagram: null
+  Latitude: '39.885759462391'
+  ListingID: '301635'
+  Longitude: '-82.753603482458'
+  ModifyDate: Apr 4th, 2024
+  Name: Olde Pickerington Farmers' Market
+  Pinterest: null
+  Products: ''
+  State: Ohio
+  Street: 89 N Center St
+  Twitter: null
+  Type: farmers market
+  Website: https://www.pickeringtonvillage.com/farmers-market
+  Youtube: null
+  Zip: '43147'
+- Address: 200 Market St, New Albany, Ohio, 43054
+  Blog: null
+  City: New Albany
+  ContactEmail: null
+  ContactName: null
+  ContactPhone: null
+  Dates: .nan
+  Description: null
+  Facebook: null
+  Image: default-farmersmarket-4-3.jpg
+  Instagram: null
+  Latitude: '40.081952991934'
+  ListingID: '301637'
+  Longitude: '-82.814961980476'
+  ModifyDate: Apr 4th, 2024
+  Name: Healthy New Albany Farmers Market
+  Pinterest: null
+  Products: ''
+  State: Ohio
+  Street: 200 Market St
+  Twitter: null
+  Type: farmers market
+  Website: https://healthynewalbany.org/
+  Youtube: null
+  Zip: '43054'
+- Address: 150 W Main St, New Albany, Ohio, 43054
+  Blog: null
+  City: New Albany
+  ContactEmail: null
+  ContactName: null
+  ContactPhone: null
+  Dates: .nan
+  Description: null
+  Facebook: null
+  Image: default-farmersmarket-4-3.jpg
+  Instagram: null
+  Latitude: '40.081449993924'
+  ListingID: '301638'
+  Longitude: '-82.812597026496'
+  ModifyDate: Apr 4th, 2024
+  Name: Healthy New Albany Indoor Farmers Market
+  Pinterest: null
+  Products: ''
+  State: Ohio
+  Street: 150 W Main St
+  Twitter: null
+  Type: farmers market
+  Website: https://healthynewalbany.org/
+  Youtube: null
+  Zip: '43054'
+- Address: 2700 Erie Ave, Cincinnati, Ohio, 45208
+  Blog: null
+  City: Cincinnati
+  ContactEmail: null
+  ContactName: null
+  ContactPhone: null
+  Dates: .nan
+  Description: null
+  Facebook: null
+  Image: default-farmersmarket-4-3.jpg
+  Instagram: null
+  Latitude: '39.140034988122'
+  ListingID: '301656'
+  Longitude: '-84.443051034791'
+  ModifyDate: Apr 4th, 2024
+  Name: Hyde Park Farmers' Market
+  Pinterest: null
+  Products: ''
+  State: Ohio
+  Street: 2700 Erie Ave
+  Twitter: null
+  Type: farmers market
+  Website: https://www.hydeparkfarmersmarket.com/
+  Youtube: null
+  Zip: '45208'
+- Address: Madison St, Port Clinton, Ohio, 43452
+  Blog: null
+  City: Port Clinton
+  ContactEmail: null
+  ContactName: null
+  ContactPhone: null
+  Dates: .nan
+  Description: null
+  Facebook: null
+  Image: default-farmersmarket-4-3.jpg
+  Instagram: null
+  Latitude: '41.496540286186'
+  ListingID: '301666'
+  Longitude: '-82.940894567597'
+  ModifyDate: Apr 4th, 2024
+  Name: PC Sunday Farmers Market
+  Pinterest: null
+  Products: ''
+  State: Ohio
+  Street: Madison St
+  Twitter: null
+  Type: farmers market
+  Website: https://www.facebook.com/pcsundaymarket/
+  Youtube: null
+  Zip: '43452'
+- Address: Dawson Rd & Miami Ave, Cincinnati, Ohio, 45243
+  Blog: null
+  City: Cincinnati
+  ContactEmail: null
+  ContactName: null
+  ContactPhone: null
+  Dates: .nan
+  Description: null
+  Facebook: null
+  Image: default-farmersmarket-4-3.jpg
+  Instagram: null
+  Latitude: '39.188089989679'
+  ListingID: '301768'
+  Longitude: '-84.363309966569'
+  ModifyDate: Apr 4th, 2024
+  Name: Madeira Farmers Market
+  Pinterest: null
+  Products: ''
+  State: Ohio
+  Street: Dawson Rd & Miami Ave
+  Twitter: null
+  Type: farmers market
+  Website: https://madeirafarmersmarket.com/
+  Youtube: null
+  Zip: '45243'
+- Address: 3535 N High St, Columbus, Ohio, 43214
+  Blog: null
+  City: Columbus
+  ContactEmail: null
+  ContactName: null
+  ContactPhone: null
+  Dates: .nan
+  Description: null
+  Facebook: null
+  Image: default-farmersmarket-4-3.jpg
+  Instagram: null
+  Latitude: '40.034149992296'
+  ListingID: '301769'
+  Longitude: '-83.016896025751'
+  ModifyDate: Apr 4th, 2024
+  Name: Clintonville Farmers Market
+  Pinterest: null
+  Products: ''
+  State: Ohio
+  Street: 3535 N High St
+  Twitter: null
+  Type: farmers market
+  Website: https://www.commongreensohio.org/clintonville-farmers-market
+  Youtube: null
+  Zip: '43214'
+- Address: 2850 Tremont Rd, Columbus, Ohio, 43221
+  Blog: null
+  City: Columbus
+  ContactEmail: null
+  ContactName: null
+  ContactPhone: null
+  Dates: .nan
+  Description: null
+  Facebook: null
+  Image: default-farmersmarket-4-3.jpg
+  Instagram: null
+  Latitude: '40.013939002535'
+  ListingID: '301770'
+  Longitude: '-83.06529799619'
+  ModifyDate: Apr 4th, 2024
+  Name: Upper Arlington Farmers Market
+  Pinterest: null
+  Products: ''
+  State: Ohio
+  Street: 2850 Tremont Rd
+  Twitter: null
+  Type: farmers market
+  Website: https://www.commongreensohio.org/upper-arlington-farmers-market
+  Youtube: null
+  Zip: '43221'
+- Address: S Dawson Ave & E Main St, Columbus, Ohio, 43209
+  Blog: null
+  City: Columbus
+  ContactEmail: null
+  ContactName: null
+  ContactPhone: null
+  Dates: .nan
+  Description: null
+  Facebook: https://www.facebook.com/bexleyfarmersmarket/
+  Image: default-farmersmarket-4-3.jpg
+  Instagram: null
+  Latitude: '39.957139999586'
+  ListingID: '301771'
+  Longitude: '-82.935719975706'
+  ModifyDate: Apr 4th, 2024
+  Name: Bexley Farmers Market
+  Pinterest: null
+  Products: ''
+  State: Ohio
+  Street: S Dawson Ave & E Main St
+  Twitter: null
+  Type: farmers market
+  Website: https://www.commongreensohio.org/bexley-farmers-market
+  Youtube: null
+  Zip: '43209'
+- Address: 200 W Main Cross St, Findlay, Ohio, 45840
+  Blog: null
+  City: Findlay
+  ContactEmail: null
+  ContactName: null
+  ContactPhone: null
+  Dates: .nan
+  Description: null
+  Facebook: null
+  Image: default-farmersmarket-4-3.jpg
+  Instagram: null
+  Latitude: '41.039563008137'
+  ListingID: '301779'
+  Longitude: '-83.652682995262'
+  ModifyDate: Apr 4th, 2024
+  Name: Hancock County Farmers' Market
+  Pinterest: null
+  Products: ''
+  State: Ohio
+  Street: 200 W Main Cross St
+  Twitter: null
+  Type: farmers market
+  Website: https://www.facebook.com/HancockCountyFarmersMarket
+  Youtube: null
+  Zip: '45840'
+- Address: 600 E 2nd St, Dayton, Ohio, 45402
+  Blog: null
+  City: Dayton
+  ContactEmail: null
+  ContactName: null
+  ContactPhone: null
+  Dates: .nan
+  Description: null
+  Facebook: null
+  Image: default-farmersmarket-4-3.jpg
+  Instagram: null
+  Latitude: '39.762630015501'
+  ListingID: '312155'
+  Longitude: '-84.180781032974'
+  ModifyDate: Apr 4th, 2024
+  Name: 2nd Street Market
+  Pinterest: null
+  Products: ''
+  State: Ohio
+  Street: 600 E 2nd St
+  Twitter: null
+  Type: farmers market
+  Website: https://www.metroparks.org/places-to-go/2nd-street-market/
+  Youtube: null
+  Zip: '45402'
+- Address: 400 W Rich St, Columbus, Ohio, 43215
+  Blog: null
+  City: Columbus
+  ContactEmail: null
+  ContactName: null
+  ContactPhone: null
+  Dates: .nan
+  Description: null
+  Facebook: null
+  Image: default-farmersmarket-4-3.jpg
+  Instagram: null
+  Latitude: '39.956857990453'
+  ListingID: '312156'
+  Longitude: '-83.010698027448'
+  ModifyDate: Apr 4th, 2024
+  Name: 400 Farmers Market
+  Pinterest: null
+  Products: ''
+  State: Ohio
+  Street: 400 W Rich St
+  Twitter: null
+  Type: farmers market
+  Website: https://www.facebook.com/events/693042574116691/?privacy_mutation_token=eyJ0eXBlIjowLCJjcmVhdGlvbl90aW1lIjoxNjU2ODAzNTc1LCJjYWxsc2l0ZV9pZCI6MzU5MDM2MDAxOTY4NDMyfQ%3D%3D&acontext=%7B%22source%22%3A%22108%22%2C%22action_history%22%3A%22null%22%7D&paipv=0&eav=AfYMt_hbL0Eyhd2fjpqzeKd4BcC0ppyYloGLbZCm2b3vzVmpDlFOU5LOATkDyEA8kgQ&_rdr
+  Youtube: null
+  Zip: '43215'
+- Address: 314 Pearl Rd, Brunswick, Ohio, 44212
+  Blog: null
+  City: Brunswick
+  ContactEmail: null
+  ContactName: null
+  ContactPhone: null
+  Dates: .nan
+  Description: null
+  Facebook: null
+  Image: default-farmersmarket-4-3.jpg
+  Instagram: null
+  Latitude: '41.266414984719'
+  ListingID: '312157'
+  Longitude: '-81.847119965519'
+  ModifyDate: Apr 4th, 2024
+  Name: A Taste of Summer Farm Market
+  Pinterest: null
+  Products: ''
+  State: Ohio
+  Street: 314 Pearl Rd
+  Twitter: null
+  Type: farmers market
+  Website: https://www.atasteofsummer.com/
+  Youtube: null
+  Zip: '44212'
+- Address: 200 Depot St, Archbold, Ohio, 43502
+  Blog: null
+  City: Archbold
+  ContactEmail: null
+  ContactName: null
+  ContactPhone: null
+  Dates: .nan
+  Description: null
+  Facebook: null
+  Image: default-farmersmarket-4-3.jpg
+  Instagram: null
+  Latitude: '41.521902211176'
+  ListingID: '312160'
+  Longitude: '-84.304830913272'
+  ModifyDate: Apr 4th, 2024
+  Name: Archbold Area Farmers Market
+  Pinterest: null
+  Products: ''
+  State: Ohio
+  Street: 200 Depot St
+  Twitter: null
+  Type: farmers market
+  Website: https://bestthingsoh.com/place/archbold-area-farmers-market-archbold-oh.html
+  Youtube: null
+  Zip: '43502'
+- Address: 1119 Bridge St, Ashtabula, Ohio, 44004
+  Blog: null
+  City: Ashtabula
+  ContactEmail: null
+  ContactName: null
+  ContactPhone: null
+  Dates: .nan
+  Description: null
+  Facebook: null
+  Image: default-farmersmarket-4-3.jpg
+  Instagram: null
+  Latitude: '41.899608006654'
+  ListingID: '312161'
+  Longitude: '-80.800014986098'
+  ModifyDate: Apr 4th, 2024
+  Name: Ashtabula Farmers Market
+  Pinterest: null
+  Products: ''
+  State: Ohio
+  Street: 1119 Bridge St
+  Twitter: null
+  Type: farmers market
+  Website: https://www.facebook.com/AshtabulaFarmersMarket/
+  Youtube: null
+  Zip: '44004'
+- Address: 208 S Blackhoof St, Wapakoneta, Ohio, 45895
+  Blog: null
+  City: Wapakoneta
+  ContactEmail: null
+  ContactName: null
+  ContactPhone: null
+  Dates: .nan
+  Description: null
+  Facebook: null
+  Image: default-farmersmarket-4-3.jpg
+  Instagram: null
+  Latitude: '40.56840198141'
+  ListingID: '312162'
+  Longitude: '-84.195963006558'
+  ModifyDate: Apr 4th, 2024
+  Name: Auglaize Farmers Market
+  Pinterest: null
+  Products: ''
+  State: Ohio
+  Street: 208 S Blackhoof St
+  Twitter: null
+  Type: farmers market
+  Website: https://bestfarmersmarkets.org/place/auglaize-farmers-market-wapakoneta-oh.html
+  Youtube: null
+  Zip: '45895'
+- Address: 146 S Chillicothe Rd, Aurora, Ohio, 44202
+  Blog: null
+  City: Aurora
+  ContactEmail: null
+  ContactName: null
+  ContactPhone: null
+  Dates: .nan
+  Description: null
+  Facebook: null
+  Image: default-farmersmarket-4-3.jpg
+  Instagram: null
+  Latitude: '41.313138981961'
+  ListingID: '312163'
+  Longitude: '-81.346348021806'
+  ModifyDate: Apr 4th, 2024
+  Name: Aurora Farmers Market
+  Pinterest: null
+  Products: ''
+  State: Ohio
+  Street: 146 S Chillicothe Rd
+  Twitter: null
+  Type: farmers market
+  Website: https://www.facebook.com/theaurorafarmersmarket/
+  Youtube: null
+  Zip: '44202'
+- Address: 32747 Lake Rd, Avon Lake, Ohio, 44012
+  Blog: null
+  City: Avon Lake
+  ContactEmail: null
+  ContactName: null
+  ContactPhone: null
+  Dates: .nan
+  Description: null
+  Facebook: null
+  Image: default-farmersmarket-4-3.jpg
+  Instagram: null
+  Latitude: '41.512625008595'
+  ListingID: '312164'
+  Longitude: '-82.017526990742'
+  ModifyDate: Apr 4th, 2024
+  Name: Avon Lake Farmers' Market
+  Pinterest: null
+  Products: ''
+  State: Ohio
+  Street: 32747 Lake Rd
+  Twitter: null
+  Type: farmers market
+  Website: http://ohioproud.org/farm-markets-all/farmers-market-search/find-a-farmers-market/#!biz/id/5adf2a1ef033bf56744f879a
+  Youtube: null
+  Zip: '44012'
+- Address: 4480 Indian Ripple Rd, Beavercreek, Ohio, 45440
+  Blog: null
+  City: Beavercreek
+  ContactEmail: null
+  ContactName: null
+  ContactPhone: null
+  Dates: .nan
+  Description: null
+  Facebook: null
+  Image: default-farmersmarket-4-3.jpg
+  Instagram: null
+  Latitude: '39.697828683861'
+  ListingID: '312168'
+  Longitude: '-84.103309867952'
+  ModifyDate: Apr 4th, 2024
+  Name: Beavercreek Farmers' Market
+  Pinterest: null
+  Products: ''
+  State: Ohio
+  Street: 4480 Indian Ripple Rd
+  Twitter: null
+  Type: farmers market
+  Website: null
+  Youtube: null
+  Zip: '45440'
+- Address: 142 Park Pl, Bellville, Ohio, 44813
+  Blog: null
+  City: Bellville
+  ContactEmail: null
+  ContactName: null
+  ContactPhone: null
+  Dates: .nan
+  Description: null
+  Facebook: null
+  Image: default-farmersmarket-4-3.jpg
+  Instagram: null
+  Latitude: '40.619881996242'
+  ListingID: '312169'
+  Longitude: '-82.5121020258'
+  ModifyDate: Apr 4th, 2024
+  Name: Bellville Farmers Market
+  Pinterest: null
+  Products: ''
+  State: Ohio
+  Street: 142 Park Pl
+  Twitter: null
+  Type: farmers market
+  Website: https://www.facebook.com/search/top?q=bellville%20farmers%20market
+  Youtube: null
+  Zip: '44813'
+- Address: 1410 Saint Michaels Ave, Akron, Ohio, 44320
+  Blog: null
+  City: Akron
+  ContactEmail: null
+  ContactName: null
+  ContactPhone: null
+  Dates: .nan
+  Description: null
+  Facebook: null
+  Image: default-farmersmarket-4-3.jpg
+  Instagram: null
+  Latitude: '41.072441987261'
+  ListingID: '312170'
+  Longitude: '-81.582849035777'
+  ModifyDate: Apr 4th, 2024
+  Name: Bessemer Farm Market
+  Pinterest: null
+  Products: ''
+  State: Ohio
+  Street: 1410 Saint Michaels Ave
+  Twitter: null
+  Type: farmers market
+  Website: https://l.facebook.com/l.php?u=http%3A%2F%2Fwww.bessemerfarmersmarket.com%2F%3Ffbclid%3DIwAR0UoAeuVAoSuDy5uwu0ZzPkI2skfaQX0hrOTMEaRKMtZCiNjFDoAU0DFJE&h=AT1riIIL7xonTxV4PbBTVafEojWD-X0fVIIbmOqle-5m77dRu7Hqav-dQ8VNRasisjwmThnVErVLyunB8y2FSroZg9Ajb6EQGAKddaUFTL08YVl3iknrxxWKuoqIIIf4-1AaEkhhpxzlTutVG2a2Dg
+  Youtube: null
+  Zip: '44320'
+- Address: 421 Black River Rd, Lorain, Ohio, 44052
+  Blog: null
+  City: Lorain
+  ContactEmail: null
+  ContactName: null
+  ContactPhone: null
+  Dates: .nan
+  Description: null
+  Facebook: null
+  Image: default-farmersmarket-4-3.jpg
+  Instagram: null
+  Latitude: '41.467014002366'
+  ListingID: '312171'
+  Longitude: '-82.174066995352'
+  ModifyDate: Apr 4th, 2024
+  Name: Black River Landing Farmers' Market
+  Pinterest: null
+  Products: ''
+  State: Ohio
+  Street: 421 Black River Rd
+  Twitter: null
+  Type: farmers market
+  Website: https://www.facebook.com/profile.php?id=100057615521349&eav=AfaFDblskULaEvnFS4F3-HAY92-qScc9lsQB5TN6g_TcM6cVgH25i6S6dtF856QmAws&sk=about&paipv=0&_rdr
+  Youtube: null
+  Zip: '44052'
+- Address: 6350 S Hempstead Rd, Westerville, Ohio, 43081
+  Blog: null
+  City: Westerville
+  ContactEmail: null
+  ContactName: null
+  ContactPhone: null
+  Dates: .nan
+  Description: null
+  Facebook: null
+  Image: default-farmersmarket-4-3.jpg
+  Instagram: null
+  Latitude: '40.097973994025'
+  ListingID: '312172'
+  Longitude: '-82.904380961742'
+  ModifyDate: Apr 4th, 2024
+  Name: Blendon Township Farmers Market
+  Pinterest: null
+  Products: ''
+  State: Ohio
+  Street: 6350 S Hempstead Rd
+  Twitter: null
+  Type: farmers market
+  Website: https://farmersmarket.country/market/westerville-ohio-blendon-township-farmers-market/
+  Youtube: null
+  Zip: '43081'
+- Address: 960 Edison St NW, Hartville, Ohio, 44632
+  Blog: null
+  City: Hartville
+  ContactEmail: null
+  ContactName: null
+  ContactPhone: null
+  Dates: .nan
+  Description: null
+  Facebook: null
+  Image: default-farmersmarket-4-3.jpg
+  Instagram: null
+  Latitude: '40.969142993432'
+  ListingID: '312176'
+  Longitude: '-81.358429026491'
+  ModifyDate: Apr 4th, 2024
+  Name: Byler Flea Market
+  Pinterest: null
+  Products: ''
+  State: Ohio
+  Street: 960 Edison St NW
+  Twitter: null
+  Type: farmers market
+  Website: https://farmersmarket.country/market/hartville-ohio-byler-flea-market/
+  Youtube: null
+  Zip: '44632'
+- Address: 853 Locust St S, Canal Fulton, Ohio, 44614
+  Blog: null
+  City: Canal Fulton
+  ContactEmail: null
+  ContactName: null
+  ContactPhone: null
+  Dates: .nan
+  Description: null
+  Facebook: null
+  Image: default-farmersmarket-4-3.jpg
+  Instagram: null
+  Latitude: '40.88739098091'
+  ListingID: '312177'
+  Longitude: '-81.589799980442'
+  ModifyDate: Apr 4th, 2024
+  Name: Canal Fulton Farmers' Market
+  Pinterest: null
+  Products: ''
+  State: Ohio
+  Street: 853 Locust St S
+  Twitter: null
+  Type: farmers market
+  Website: https://nfmd.org/oh/canal-fulton/1009967/
+  Youtube: null
+  Zip: '44614'
+- Address: 1305 Canton Rd NW, Carrollton, Ohio, 44615
+  Blog: null
+  City: Carrollton
+  ContactEmail: null
+  ContactName: null
+  ContactPhone: null
+  Dates: .nan
+  Description: null
+  Facebook: null
+  Image: default-farmersmarket-4-3.jpg
+  Instagram: null
+  Latitude: '40.59289201656'
+  ListingID: '312178'
+  Longitude: '-81.095336005602'
+  ModifyDate: Apr 4th, 2024
+  Name: Carrollton Farmers Market
+  Pinterest: null
+  Products: ''
+  State: Ohio
+  Street: 1305 Canton Rd NW
+  Twitter: null
+  Type: farmers market
+  Website: https://www.facebook.com/carrollfarmmarket/
+  Youtube: null
+  Zip: '44615'
+- Address: 1117 Canton Rd NW, Carrollton, Ohio, 44615
+  Blog: null
+  City: Carrollton
+  ContactEmail: null
+  ContactName: null
+  ContactPhone: null
+  Dates: .nan
+  Description: null
+  Facebook: null
+  Image: default-farmersmarket-4-3.jpg
+  Instagram: null
+  Latitude: '40.587940993993'
+  ListingID: '312179'
+  Longitude: '-81.093041962522'
+  ModifyDate: Apr 4th, 2024
+  Name: Carrollton Weekly Farmers Market
+  Pinterest: null
+  Products: ''
+  State: Ohio
+  Street: 1117 Canton Rd NW
+  Twitter: null
+  Type: farmers market
+  Website: https://nfmd.org/oh/carrollton/1006098/
+  Youtube: null
+  Zip: '44615'
+- Address: 221 N Main St, Centerville, Ohio, 45459
+  Blog: null
+  City: Centerville
+  ContactEmail: null
+  ContactName: null
+  ContactPhone: null
+  Dates: .nan
+  Description: null
+  Facebook: null
+  Image: default-farmersmarket-4-3.jpg
+  Instagram: null
+  Latitude: '39.635449009778'
+  ListingID: '312180'
+  Longitude: '-84.161728967056'
+  ModifyDate: Apr 4th, 2024
+  Name: Centerville Farmers Market
+  Pinterest: null
+  Products: ''
+  State: Ohio
+  Street: 221 N Main St
+  Twitter: null
+  Type: farmers market
+  Website: https://www.centervillefarmersmarket.com/index.php/directions
+  Youtube: null
+  Zip: '45459'
+- Address: 475 Western Ave, Chillicothe, Ohio, 45601
+  Blog: null
+  City: Chillicothe
+  ContactEmail: null
+  ContactName: null
+  ContactPhone: null
+  Dates: .nan
+  Description: null
+  Facebook: null
+  Image: default-farmersmarket-4-3.jpg
+  Instagram: null
+  Latitude: '39.335454995434'
+  ListingID: '312181'
+  Longitude: '-83.003462014256'
+  ModifyDate: Apr 4th, 2024
+  Name: Chillicothe Farmers' Market
+  Pinterest: null
+  Products: ''
+  State: Ohio
+  Street: 475 Western Ave
+  Twitter: null
+  Type: farmers market
+  Website: https://chillicothefarmersmarket.org/
+  Youtube: null
+  Zip: '45601'
+- Address: 1140 Claremont Ave, Ashland, Ohio, 44805
+  Blog: null
+  City: Ashland
+  ContactEmail: null
+  ContactName: null
+  ContactPhone: null
+  Dates: .nan
+  Description: null
+  Facebook: null
+  Image: default-farmersmarket-4-3.jpg
+  Instagram: null
+  Latitude: '40.858443994475'
+  ListingID: '312182'
+  Longitude: '-82.329754979503'
+  ModifyDate: Apr 4th, 2024
+  Name: Christ United Methodist Church Farmers' Market
+  Pinterest: null
+  Products: ''
+  State: Ohio
+  Street: 1140 Claremont Ave
+  Twitter: null
+  Type: farmers market
+  Website: https://www.eatwellguide.org/listings/76296/locations/32224
+  Youtube: null
+  Zip: '44805'
+- Address: 241 S Bever St, Wooster, Ohio, 44691
+  Blog: null
+  City: Wooster
+  ContactEmail: null
+  ContactName: null
+  ContactPhone: null
+  Dates: .nan
+  Description: null
+  Facebook: null
+  Image: default-farmersmarket-4-3.jpg
+  Instagram: null
+  Latitude: '40.796487019768'
+  ListingID: '312183'
+  Longitude: '-81.936694011994'
+  ModifyDate: Apr 4th, 2024
+  Name: City of Wooster Farmers Market
+  Pinterest: null
+  Products: ''
+  State: Ohio
+  Street: 241 S Bever St
+  Twitter: null
+  Type: farmers market
+  Website: https://www.mainstreetwooster.org/farmers-market?fbclid=IwAR3JAepFHYdymxcz9-URebd7jV7i0d22xuIl5SLUEPXNMDf2pZrJy0N4oPQ
+  Youtube: null
+  Zip: '44691'
+- Address: 111 S Nelson Ave, Wilmington, Ohio, 45177
+  Blog: null
+  City: Wilmington
+  ContactEmail: null
+  ContactName: null
+  ContactPhone: null
+  Dates: .nan
+  Description: null
+  Facebook: null
+  Image: default-farmersmarket-4-3.jpg
+  Instagram: null
+  Latitude: '39.44317100078'
+  ListingID: '312185'
+  Longitude: '-83.852444032138'
+  ModifyDate: Apr 4th, 2024
+  Name: Clinton County Farmers' Market
+  Pinterest: null
+  Products: ''
+  State: Ohio
+  Street: 111 S Nelson Ave
+  Twitter: null
+  Type: farmers market
+  Website: http://www.clintoncountyfarmersmarket.com/
+  Youtube: null
+  Zip: '45177'
+- Address: 15000 Woodworth Rd, Cleveland, Ohio, 44110
+  Blog: null
+  City: Cleveland
+  ContactEmail: null
+  ContactName: null
+  ContactPhone: null
+  Dates: .nan
+  Description: null
+  Facebook: null
+  Image: default-farmersmarket-4-3.jpg
+  Instagram: null
+  Latitude: '41.544831004713'
+  ListingID: '312187'
+  Longitude: '-81.577169961099'
+  ModifyDate: Apr 4th, 2024
+  Name: Coit Road Farmers' Market
+  Pinterest: null
+  Products: ''
+  State: Ohio
+  Street: 15000 Woodworth Rd
+  Twitter: null
+  Type: farmers market
+  Website: https://www.coitmarket.org/
+  Youtube: null
+  Zip: '44110'
+- Address: 59 Spruce St, Columbus, Ohio, 43215
+  Blog: null
+  City: Columbus
+  ContactEmail: null
+  ContactName: null
+  ContactPhone: null
+  Dates: .nan
+  Description: null
+  Facebook: null
+  Image: default-farmersmarket-4-3.jpg
+  Instagram: null
+  Latitude: '39.971884982647'
+  ListingID: '312188'
+  Longitude: '-83.004326020835'
+  ModifyDate: Apr 4th, 2024
+  Name: Columbus North Market
+  Pinterest: null
+  Products: ''
+  State: Ohio
+  Street: 59 Spruce St
+  Twitter: null
+  Type: farmers market
+  Website: https://northmarket.org/
+  Youtube: null
+  Zip: '43215'
+- Address: 240 Parsons Ave, Columbus, Ohio, 43215
+  Blog: null
+  City: Columbus
+  ContactEmail: null
+  ContactName: null
+  ContactPhone: null
+  Dates: .nan
+  Description: null
+  Facebook: null
+  Image: default-farmersmarket-4-3.jpg
+  Instagram: null
+  Latitude: '39.959410992432'
+  ListingID: '312189'
+  Longitude: '-82.980692993375'
+  ModifyDate: Apr 4th, 2024
+  Name: Columbus Public Health Urban Farmers Market
+  Pinterest: null
+  Products: ''
+  State: Ohio
+  Street: 240 Parsons Ave
+  Twitter: null
+  Type: farmers market
+  Website: https://nfmd.org/oh/columbus/1006256/
+  Youtube: null
+  Zip: '43215'
+- Address: 3923 N High St, Columbus, Ohio, 43214
+  Blog: null
+  City: Columbus
+  ContactEmail: null
+  ContactName: null
+  ContactPhone: null
+  Dates: .nan
+  Description: null
+  Facebook: null
+  Image: default-farmersmarket-4-3.jpg
+  Instagram: null
+  Latitude: '40.041805980747'
+  ListingID: '312190'
+  Longitude: '-83.019372961959'
+  ModifyDate: Apr 4th, 2024
+  Name: Columbus Winter Farmers' Market
+  Pinterest: null
+  Products: ''
+  State: Ohio
+  Street: 3923 N High St
+  Twitter: null
+  Type: farmers market
+  Website: https://l.facebook.com/l.php?u=http%3A%2F%2Fcolumbuswinterfarmersmarket.com%2F%3Ffbclid%3DIwAR0VONE-zMa5lYxjxn9dBFLOHL45jwffLN0C7FxQY-8SOPY4FKBDL6IZ-Yo&h=AT1qGAG29hKbmGFfw4jidhEWwST2iEZQUNHydrUTjnSxwH-5YaqYzgC1bz3808vDoY5RvX6te-mU1FhEEsIJfLKKQMKMvdvlp8KSJzT1tzmQBop9rQq8twTavtApifyR6TWZWwWRaBnqZYbgU21TkA
+  Youtube: null
+  Zip: '43214'
+- Address: 280 Park Ave, Conneaut, Ohio, 44030
+  Blog: null
+  City: Conneaut
+  ContactEmail: null
+  ContactName: null
+  ContactPhone: (440) 599-8684
+  Dates: .nan
+  Description: null
+  Facebook: null
+  Image: default-farmersmarket-4-3.jpg
+  Instagram: null
+  Latitude: '41.966325986183'
+  ListingID: '312191'
+  Longitude: '-80.553993974139'
+  ModifyDate: Apr 4th, 2024
+  Name: Conneaut Farmers' Market
+  Pinterest: null
+  Products: ''
+  State: Ohio
+  Street: 280 Park Ave
+  Twitter: null
+  Type: farmers market
+  Website: https://www.facebook.com/conneautfarmersmarket/
+  Youtube: null
+  Zip: '44030'
+- Address: 224 W Crawford St, Findlay, Ohio, 45840
+  Blog: null
+  City: Findlay
+  ContactEmail: null
+  ContactName: null
+  ContactPhone: null
+  Dates: .nan
+  Description: null
+  Facebook: null
+  Image: default-farmersmarket-4-3.jpg
+  Instagram: null
+  Latitude: '41.037844608007'
+  ListingID: '312192'
+  Longitude: '-83.652455693488'
+  ModifyDate: Apr 4th, 2024
+  Name: Corn on the Curb Farmers Market
+  Pinterest: null
+  Products: ''
+  State: Ohio
+  Street: 224 W Crawford St
+  Twitter: null
+  Type: farmers market
+  Website: http://www.neighborhoodlink.com/Corn_On_The_Curb_Farmers_Market
+  Youtube: null
+  Zip: '45840'
+- Address: 300 Block of Main St, Coshocton, Ohio, 43812
+  Blog: null
+  City: Coshocton
+  ContactEmail: null
+  ContactName: null
+  ContactPhone: null
+  Dates: .nan
+  Description: null
+  Facebook: null
+  Image: default-farmersmarket-4-3.jpg
+  Instagram: null
+  Latitude: '40.273698947834'
+  ListingID: '312193'
+  Longitude: '-81.865591706239'
+  ModifyDate: Apr 4th, 2024
+  Name: Coshocton Farmers Market
+  Pinterest: null
+  Products: ''
+  State: Ohio
+  Street: 300 Block of Main St
+  Twitter: null
+  Type: farmers market
+  Website: https://www.facebook.com/coshoctonfarmersmarket/
+  Youtube: null
+  Zip: '43812'
+- Address: 714 N Portage Path, Akron, Ohio, 44303
+  Blog: null
+  City: Akron
+  ContactEmail: null
+  ContactName: null
+  ContactPhone: null
+  Dates: .nan
+  Description: null
+  Facebook: null
+  Image: default-farmersmarket-4-3.jpg
+  Instagram: null
+  Latitude: '41.118653012029'
+  ListingID: '312194'
+  Longitude: '-81.54908203592'
+  ModifyDate: Apr 4th, 2024
+  Name: Countryside Farmers Market
+  Pinterest: null
+  Products: ''
+  State: Ohio
+  Street: 714 N Portage Path
+  Twitter: null
+  Type: farmers market
+  Website: http://cuyahogavalleyfarmersmarket.org/
+  Youtube: null
+  Zip: '44303'
+- Address: 4040 Riverview Rd, Peninsula, Ohio, 44264
+  Blog: null
+  City: Peninsula
+  ContactEmail: null
+  ContactName: null
+  ContactPhone: null
+  Dates: .nan
+  Description: null
+  Facebook: null
+  Image: default-farmersmarket-4-3.jpg
+  Instagram: null
+  Latitude: '41.189307007561'
+  ListingID: '312195'
+  Longitude: '-81.583575998239'
+  ModifyDate: Apr 4th, 2024
+  Name: Countryside Farmers' Market at Howe Meadow
+  Pinterest: null
+  Products: ''
+  State: Ohio
+  Street: 4040 Riverview Rd
+  Twitter: null
+  Type: farmers market
+  Website: http://cuyahogavalleyfarmersmarket.org/
+  Youtube: null
+  Zip: '44264'
+- Address: 2315 Ira Rd, Akron, Ohio, 44333
+  Blog: null
+  City: Akron
+  ContactEmail: null
+  ContactName: null
+  ContactPhone: null
+  Dates: .nan
+  Description: null
+  Facebook: null
+  Image: default-farmersmarket-4-3.jpg
+  Instagram: null
+  Latitude: '41.186519018927'
+  ListingID: '312196'
+  Longitude: '-81.587950010592'
+  ModifyDate: Apr 4th, 2024
+  Name: Countryside Farmers Market at Old Trail Sc...
+  Pinterest: null
+  Products: ''
+  State: Ohio
+  Street: 2315 Ira Rd
+  Twitter: null
+  Type: farmers market
+  Website: http://cuyahogavalleyfarmersmarket.org/
+  Youtube: null
+  Zip: '44333'
+- Address: 25 N Main St, Dayton, Ohio, 45423
+  Blog: null
+  City: Dayton
+  ContactEmail: null
+  ContactName: null
+  ContactPhone: null
+  Dates: .nan
+  Description: null
+  Facebook: null
+  Image: default-farmersmarket-4-3.jpg
+  Instagram: null
+  Latitude: '39.760650300677'
+  ListingID: '312197'
+  Longitude: '-84.192053158369'
+  ModifyDate: Apr 4th, 2024
+  Name: Courthouse Square Farmers Market
+  Pinterest: null
+  Products: ''
+  State: Ohio
+  Street: 25 N Main St
+  Twitter: null
+  Type: farmers market
+  Website: https://www.eatwellguide.org/listings/76305/locations/32233?latitude=39.745629&longitude=-84.308365
+  Youtube: null
+  Zip: '45423'
+- Address: 18548 Chillicothe Rd, Chagrin Falls, Ohio, 44023
+  Blog: null
+  City: Chagrin Falls
+  ContactEmail: null
+  ContactName: null
+  ContactPhone: null
+  Dates: .nan
+  Description: null
+  Facebook: null
+  Image: default-farmersmarket-4-3.jpg
+  Instagram: null
+  Latitude: '41.364931013139'
+  ListingID: '312198'
+  Longitude: '-81.341056023418'
+  ModifyDate: Apr 4th, 2024
+  Name: Creekside Farm Market
+  Pinterest: null
+  Products: ''
+  State: Ohio
+  Street: 18548 Chillicothe Rd
+  Twitter: null
+  Type: farmers market
+  Website: http://eaglecreekwholesale.com/
+  Youtube: null
+  Zip: '44023'
+- Address: 202 N Thoman St, Crestline, Ohio, 44827
+  Blog: null
+  City: Crestline
+  ContactEmail: null
+  ContactName: null
+  ContactPhone: null
+  Dates: .nan
+  Description: null
+  Facebook: null
+  Image: default-farmersmarket-4-3.jpg
+  Instagram: null
+  Latitude: '40.785334017493'
+  ListingID: '312199'
+  Longitude: '-82.738526986324'
+  ModifyDate: Apr 4th, 2024
+  Name: Crestline Farmers Market
+  Pinterest: null
+  Products: ''
+  State: Ohio
+  Street: 202 N Thoman St
+  Twitter: null
+  Type: farmers market
+  Website: https://www.facebook.com/crestlinefarmersmarket/
+  Youtube: null
+  Zip: '44827'
+- Address: 4188 Irwin Simpson Rd, Mason, Ohio, 45040
+  Blog: null
+  City: Mason
+  ContactEmail: null
+  ContactName: null
+  ContactPhone: null
+  Dates: .nan
+  Description: null
+  Facebook: null
+  Image: default-farmersmarket-4-3.jpg
+  Instagram: null
+  Latitude: '39.315821015889'
+  ListingID: '312200'
+  Longitude: '-84.296191038702'
+  ModifyDate: Apr 4th, 2024
+  Name: Deerfield Farmers' Market
+  Pinterest: null
+  Products: ''
+  State: Ohio
+  Street: 4188 Irwin Simpson Rd
+  Twitter: null
+  Type: farmers market
+  Website: http://www.deerfieldfarmersmarket.com/location--hours.html
+  Youtube: null
+  Zip: '45040'
+- Address: 20 E Winter St, Delaware, Ohio, 43015
+  Blog: null
+  City: Delaware
+  ContactEmail: null
+  ContactName: null
+  ContactPhone: null
+  Dates: .nan
+  Description: null
+  Facebook: null
+  Image: default-farmersmarket-4-3.jpg
+  Instagram: null
+  Latitude: '40.299871997116'
+  ListingID: '312201'
+  Longitude: '-83.066624013272'
+  ModifyDate: Apr 4th, 2024
+  Name: Delaware County Farmers Market
+  Pinterest: null
+  Products: ''
+  State: Ohio
+  Street: 20 E Winter St
+  Twitter: null
+  Type: farmers market
+  Website: https://www.facebook.com/MainStreetDelawareFarmersMarket/
+  Youtube: null
+  Zip: '43015'
+- Address: 313 W Main St, Delta, Ohio, 43515
+  Blog: null
+  City: Delta
+  ContactEmail: null
+  ContactName: null
+  ContactPhone: null
+  Dates: .nan
+  Description: null
+  Facebook: null
+  Image: default-farmersmarket-4-3.jpg
+  Instagram: null
+  Latitude: '41.573282997857'
+  ListingID: '312202'
+  Longitude: '-84.019793003807'
+  ModifyDate: Apr 4th, 2024
+  Name: Delta Farmers' Market
+  Pinterest: null
+  Products: ''
+  State: Ohio
+  Street: 313 W Main St
+  Twitter: null
+  Type: farmers market
+  Website: https://www.facebook.com/deltafarmermarket
+  Youtube: null
+  Zip: '43515'
+- Address: 4125 Main Ave, Ashtabula, Ohio, 44004
+  Blog: null
+  City: Ashtabula
+  ContactEmail: null
+  ContactName: null
+  ContactPhone: null
+  Dates: .nan
+  Description: null
+  Facebook: null
+  Image: default-farmersmarket-4-3.jpg
+  Instagram: null
+  Latitude: '41.869994994192'
+  ListingID: '312203'
+  Longitude: '-80.781073980397'
+  ModifyDate: Apr 4th, 2024
+  Name: Downtown Ashtabula Farmers' Market
+  Pinterest: null
+  Products: ''
+  State: Ohio
+  Street: 4125 Main Ave
+  Twitter: null
+  Type: farmers market
+  Website: https://www.localharvest.org/downtown-ashtabula-farmers-market-M59118
+  Youtube: null
+  Zip: '44004'
+- Address: 111 Clough St, Bowling Green, Ohio, 43402
+  Blog: null
+  City: Bowling Green
+  ContactEmail: null
+  ContactName: null
+  ContactPhone: null
+  Dates: .nan
+  Description: null
+  Facebook: null
+  Image: default-farmersmarket-4-3.jpg
+  Instagram: null
+  Latitude: '41.373237018182'
+  ListingID: '312204'
+  Longitude: '-83.649848989979'
+  ModifyDate: Apr 4th, 2024
+  Name: Downtown Bowling Green Farmers' Market
+  Pinterest: null
+  Products: ''
+  State: Ohio
+  Street: 111 Clough St
+  Twitter: null
+  Type: farmers market
+  Website: https://bowling-market.edan.io/
+  Youtube: null
+  Zip: '43402'
+- Address: 201 S Main St, Bowling Green, Ohio, 43402
+  Blog: null
+  City: Bowling Green
+  ContactEmail: null
+  ContactName: null
+  ContactPhone: null
+  Dates: .nan
+  Description: null
+  Facebook: null
+  Image: default-farmersmarket-4-3.jpg
+  Instagram: null
+  Latitude: '41.372957984625'
+  ListingID: '312205'
+  Longitude: '-83.649849995808'
+  ModifyDate: Apr 4th, 2024
+  Name: Downtown Farmers Market
+  Pinterest: null
+  Products: ''
+  State: Ohio
+  Street: 201 S Main St
+  Twitter: null
+  Type: farmers market
+  Website: https://bowling-market.edan.io/
+  Youtube: null
+  Zip: '43402'
+- Address: 530 Euclid Ave, Cleveland, Ohio, 44115
+  Blog: null
+  City: Cleveland
+  ContactEmail: null
+  ContactName: null
+  ContactPhone: null
+  Dates: .nan
+  Description: null
+  Facebook: null
+  Image: default-farmersmarket-4-3.jpg
+  Instagram: null
+  Latitude: '41.49964802037'
+  ListingID: '312206'
+  Longitude: '-81.689301972133'
+  ModifyDate: Apr 4th, 2024
+  Name: Downtown Farmers' Market at Public Square
+  Pinterest: null
+  Products: ''
+  State: Ohio
+  Street: 530 Euclid Ave
+  Twitter: null
+  Type: farmers market
+  Website: https://www.eatwellguide.org/listings/76313/locations/32242?latitude=41.4993921&longitude=-81.6913909
+  Youtube: null
+  Zip: '44115'
+- Address: 101 S Front St, Fremont, Ohio, 43420
+  Blog: null
+  City: Fremont
+  ContactEmail: null
+  ContactName: null
+  ContactPhone: null
+  Dates: .nan
+  Description: null
+  Facebook: null
+  Image: default-farmersmarket-4-3.jpg
+  Instagram: null
+  Latitude: '41.346366983534'
+  ListingID: '312207'
+  Longitude: '-83.112963029702'
+  ModifyDate: Apr 4th, 2024
+  Name: Downtown Fremont Farmers' Market
+  Pinterest: null
+  Products: ''
+  State: Ohio
+  Street: 101 S Front St
+  Twitter: null
+  Type: farmers market
+  Website: https://downtownfremontohio.org/farmers-market/
+  Youtube: null
+  Zip: '43420'
+- Address: W 4th St & S Broadway, Greenville, Ohio, 45331
+  Blog: null
+  City: Greenville
+  ContactEmail: null
+  ContactName: null
+  ContactPhone: null
+  Dates: .nan
+  Description: null
+  Facebook: null
+  Image: default-farmersmarket-4-3.jpg
+  Instagram: null
+  Latitude: '40.100780003751'
+  ListingID: '312208'
+  Longitude: '-84.63150002278'
+  ModifyDate: Apr 4th, 2024
+  Name: Downtown Greenville Farmers' Market
+  Pinterest: null
+  Products: ''
+  State: Ohio
+  Street: W 4th St & S Broadway
+  Twitter: null
+  Type: farmers market
+  Website: https://www.localharvest.org/downtown-greenville-farmers-market-M57205
+  Youtube: null
+  Zip: '45331'
+- Address: 45801, Lima, Ohio
+  Blog: null
+  City: Lima
+  ContactEmail: limafarmersmarket@gmail.com
+  ContactName: null
+  ContactPhone: 419-222-6045
+  Dates: .nan
+  Description: null
+  Facebook: https://www.facebook.com/DowntownLimaFarmersMarket/
+  Image: default-farmersmarket-4-3.jpg
+  Instagram: null
+  Latitude: '40.743355'
+  ListingID: '312209'
+  Longitude: '-84.10681'
+  ModifyDate: Apr 4th, 2024
+  Name: Downtown Lima Farmers' Market
+  Pinterest: null
+  Products: ''
+  State: Ohio
+  Street: ''
+  Twitter: null
+  Type: farmers market
+  Website: https://www.allenswcd.com/farmers-market/?fbclid=IwAR3Zi7K0lRcXZbbhOFkSyjYIJRJH-z1fOKXaH-c9G4-9xjYsohizE1c5tJw
+  Youtube: null
+  Zip: '45801'
+- Address: 105 W Liberty St, Wooster, Ohio, 44691
+  Blog: null
+  City: Wooster
+  ContactEmail: null
+  ContactName: null
+  ContactPhone: null
+  Dates: .nan
+  Description: null
+  Facebook: null
+  Image: default-farmersmarket-4-3.jpg
+  Instagram: null
+  Latitude: '40.798222767458'
+  ListingID: '312211'
+  Longitude: '-81.940138855091'
+  ModifyDate: Apr 4th, 2024
+  Name: Downtown Wooster Farmers Market
+  Pinterest: null
+  Products: ''
+  State: Ohio
+  Street: 105 W Liberty St
+  Twitter: null
+  Type: farmers market
+  Website: https://www.mainstreetwooster.org/farmers-market
+  Youtube: null
+  Zip: '44691'
+- Address: 177 N Portage St, Doylestown, Ohio, 44230
+  Blog: null
+  City: Doylestown
+  ContactEmail: null
+  ContactName: null
+  ContactPhone: null
+  Dates: .nan
+  Description: null
+  Facebook: null
+  Image: default-farmersmarket-4-3.jpg
+  Instagram: null
+  Latitude: '40.970754227978'
+  ListingID: '312212'
+  Longitude: '-81.695383915256'
+  ModifyDate: Apr 4th, 2024
+  Name: Doylestown Farmers Market
+  Pinterest: null
+  Products: ''
+  State: Ohio
+  Street: 177 N Portage St
+  Twitter: null
+  Type: farmers market
+  Website: https://www.doylestown.com/2182/Farmers-Market
+  Youtube: null
+  Zip: '44230'
+- Address: 4261 W Dublin Granville Rd, Dublin, Ohio, 43017
+  Blog: null
+  City: Dublin
+  ContactEmail: null
+  ContactName: null
+  ContactPhone: null
+  Dates: .nan
+  Description: null
+  Facebook: null
+  Image: default-farmersmarket-4-3.jpg
+  Instagram: null
+  Latitude: '40.098446984821'
+  ListingID: '312213'
+  Longitude: '-83.103636988953'
+  ModifyDate: Apr 4th, 2024
+  Name: Dublin Farmers' Market
+  Pinterest: null
+  Products: ''
+  State: Ohio
+  Street: 4261 W Dublin Granville Rd
+  Twitter: null
+  Type: farmers market
+  Website: https://www.facebook.com/DublinFarmersMarket
+  Youtube: null
+  Zip: '43017'
+- Address: 100 Green Meadows Dr, Lewis Center, Ohio, 43035
+  Blog: null
+  City: Lewis Center
+  ContactEmail: null
+  ContactName: null
+  ContactPhone: null
+  Dates: .nan
+  Description: null
+  Facebook: null
+  Image: default-farmersmarket-4-3.jpg
+  Instagram: null
+  Latitude: '40.157492034356'
+  ListingID: '312214'
+  Longitude: '-83.013106268718'
+  ModifyDate: Apr 4th, 2024
+  Name: Edible Saturdays Farmers Market
+  Pinterest: null
+  Products: ''
+  State: Ohio
+  Street: 100 Green Meadows Dr
+  Twitter: null
+  Type: farmers market
+  Website: https://nfmd.org/oh/lewis-center/1008798/
+  Youtube: null
+  Zip: '43035'
+- Address: 4300 Indianola Ave, Columbus, Ohio, 43214
+  Blog: null
+  City: Columbus
+  ContactEmail: null
+  ContactName: null
+  ContactPhone: null
+  Dates: .nan
+  Description: null
+  Facebook: null
+  Image: default-farmersmarket-4-3.jpg
+  Instagram: null
+  Latitude: '40.052358000564'
+  ListingID: '312215'
+  Longitude: '-82.999537020456'
+  ModifyDate: Apr 4th, 2024
+  Name: Edible Thursdays Farmers Market
+  Pinterest: null
+  Products: ''
+  State: Ohio
+  Street: 4300 Indianola Ave
+  Twitter: null
+  Type: farmers market
+  Website: https://nfmd.org/oh/columbus/1008799/
+  Youtube: null
+  Zip: '43214'
+- Address: 5742 Hamilton Ave, Cincinnati, Ohio, 45224
+  Blog: null
+  City: Cincinnati
+  ContactEmail: null
+  ContactName: null
+  ContactPhone: null
+  Dates: .nan
+  Description: null
+  Facebook: null
+  Image: default-farmersmarket-4-3.jpg
+  Instagram: null
+  Latitude: '39.196020988373'
+  ListingID: '312218'
+  Longitude: '-84.545328023166'
+  ModifyDate: Apr 4th, 2024
+  Name: Farm Market of College hill
+  Pinterest: null
+  Products: ''
+  State: Ohio
+  Street: 5742 Hamilton Ave
+  Twitter: null
+  Type: farmers market
+  Website: https://www.facebook.com/groups/69791386959/
+  Youtube: null
+  Zip: '45224'
+- Address: 4309 Lancaster Rd, Granville, Ohio, 43023
+  Blog: null
+  City: Granville
+  ContactEmail: null
+  ContactName: null
+  ContactPhone: null
+  Dates: .nan
+  Description: null
+  Facebook: null
+  Image: default-farmersmarket-4-3.jpg
+  Instagram: null
+  Latitude: '40.026266979997'
+  ListingID: '312219'
+  Longitude: '-82.521308959704'
+  ModifyDate: Apr 4th, 2024
+  Name: Farmers and Artisans Market
+  Pinterest: null
+  Products: ''
+  State: Ohio
+  Street: 4309 Lancaster Rd
+  Twitter: null
+  Type: farmers market
+  Website: https://www.facebook.com/lancasterohfarmersmarket/
+  Youtube: null
+  Zip: '43023'
+- Address: 1201 Grant Ave, Cuyahoga Falls, Ohio, 44223
+  Blog: null
+  City: Cuyahoga Falls
+  ContactEmail: null
+  ContactName: null
+  ContactPhone: null
+  Dates: .nan
+  Description: null
+  Facebook: null
+  Image: default-farmersmarket-4-3.jpg
+  Instagram: null
+  Latitude: '41.127544995922'
+  ListingID: '312220'
+  Longitude: '-81.497707004425'
+  ModifyDate: Apr 4th, 2024
+  Name: Farmers' Market in the Falls
+  Pinterest: null
+  Products: ''
+  State: Ohio
+  Street: 1201 Grant Ave
+  Twitter: null
+  Type: farmers market
+  Website: https://www.cityofcf.com/farmers-market-falls
+  Youtube: null
+  Zip: '44223'
+- Address: 525 Market St, Toledo, Ohio, 43604
+  Blog: null
+  City: Toledo
+  ContactEmail: null
+  ContactName: null
+  ContactPhone: null
+  Dates: .nan
+  Description: null
+  Facebook: null
+  Image: default-farmersmarket-4-3.jpg
+  Instagram: null
+  Latitude: '41.645191009923'
+  ListingID: '312222'
+  Longitude: '-83.541899967725'
+  ModifyDate: Apr 4th, 2024
+  Name: Farmers' Market of Toledo
+  Pinterest: null
+  Products: ''
+  State: Ohio
+  Street: 525 Market St
+  Twitter: null
+  Type: farmers market
+  Website: https://www.toledofarmersmarket.com/
+  Youtube: null
+  Zip: '43604'
+- Address: 116 N Washington St, Greenfield, Ohio, 45123
+  Blog: null
+  City: Greenfield
+  ContactEmail: null
+  ContactName: null
+  ContactPhone: null
+  Dates: .nan
+  Description: null
+  Facebook: null
+  Image: default-farmersmarket-4-3.jpg
+  Instagram: null
+  Latitude: '39.352009002749'
+  ListingID: '312223'
+  Longitude: '-83.383378984119'
+  ModifyDate: Apr 4th, 2024
+  Name: Farmers Market Sweet Shop
+  Pinterest: null
+  Products: ''
+  State: Ohio
+  Street: 116 N Washington St
+  Twitter: null
+  Type: farmers market
+  Website: https://www.menupix.com/ohio/restaurants/380007149/Farmers-Market-Sweet-Shop-Greenfield-OH
+  Youtube: null
+  Zip: '45123'
+- Address: 3630 Fairmount Blvd, Cleveland, Ohio, 44118
+  Blog: null
+  City: Cleveland
+  ContactEmail: null
+  ContactName: null
+  ContactPhone: null
+  Dates: .nan
+  Description: null
+  Facebook: null
+  Image: default-farmersmarket-4-3.jpg
+  Instagram: null
+  Latitude: '41.485847007244'
+  ListingID: '312224'
+  Longitude: '-81.549407002306'
+  ModifyDate: Apr 4th, 2024
+  Name: First Baptist Church Farmer's Market
+  Pinterest: null
+  Products: ''
+  State: Ohio
+  Street: 3630 Fairmount Blvd
+  Twitter: null
+  Type: farmers market
+  Website: https://sall02.wixsite.com/fbc-farmers-market
+  Youtube: null
+  Zip: '44118'
+- Address: 100 E Tiffin St, Fostoria, Ohio, 44830
+  Blog: null
+  City: Fostoria
+  ContactEmail: null
+  ContactName: null
+  ContactPhone: null
+  Dates: .nan
+  Description: null
+  Facebook: null
+  Image: default-farmersmarket-4-3.jpg
+  Instagram: null
+  Latitude: '41.15666228637'
+  ListingID: '312225'
+  Longitude: '-83.412714640248'
+  ModifyDate: Apr 4th, 2024
+  Name: Fostoria Farmers' & Artisans' Market
+  Pinterest: null
+  Products: ''
+  State: Ohio
+  Street: 100 E Tiffin St
+  Twitter: null
+  Type: farmers market
+  Website: https://ohio.org/things-to-do/destinations/fostoria-farmers-market
+  Youtube: null
+  Zip: '44830'
+- Address: 189 Jackson Pike, Gallipolis, Ohio, 45631
+  Blog: null
+  City: Gallipolis
+  ContactEmail: null
+  ContactName: null
+  ContactPhone: null
+  Dates: .nan
+  Description: null
+  Facebook: null
+  Image: default-farmersmarket-4-3.jpg
+  Instagram: null
+  Latitude: '38.84096801227'
+  ListingID: '312227'
+  Longitude: '-82.239462017193'
+  ModifyDate: Apr 4th, 2024
+  Name: French 500 Flea Market
+  Pinterest: null
+  Products: ''
+  State: Ohio
+  Street: 189 Jackson Pike
+  Twitter: null
+  Type: farmers market
+  Website: https://galliacountyfair.org/flea-market/
+  Youtube: null
+  Zip: '45631'
+- Address: 51 N Plum St, Germantown, Ohio, 45327
+  Blog: null
+  City: Germantown
+  ContactEmail: null
+  ContactName: null
+  ContactPhone: null
+  Dates: .nan
+  Description: null
+  Facebook: null
+  Image: default-farmersmarket-4-3.jpg
+  Instagram: null
+  Latitude: '39.625794985157'
+  ListingID: '312228'
+  Longitude: '-84.372302994305'
+  ModifyDate: Apr 4th, 2024
+  Name: Friends of the Germantown Library Farmers Market
+  Pinterest: null
+  Products: ''
+  State: Ohio
+  Street: 51 N Plum St
+  Twitter: null
+  Type: farmers market
+  Website: https://www.localharvest.org/friends-of-the-germantown-library-farmers-market-M32101
+  Youtube: null
+  Zip: '45327'
+- Address: 24101 Cedar Point Rd, North Olmsted, Ohio, 44070
+  Blog: null
+  City: North Olmsted
+  ContactEmail: null
+  ContactName: null
+  ContactPhone: null
+  Dates: .nan
+  Description: null
+  Facebook: null
+  Image: default-farmersmarket-4-3.jpg
+  Instagram: null
+  Latitude: '41.40588800954'
+  ListingID: '312229'
+  Longitude: '-81.890492039682'
+  ModifyDate: Apr 4th, 2024
+  Name: Frostville Museum Farmers Market
+  Pinterest: null
+  Products: ''
+  State: Ohio
+  Street: 24101 Cedar Point Rd
+  Twitter: null
+  Type: farmers market
+  Website: https://www.frostvillefarmersmarket.com/about/
+  Youtube: null
+  Zip: '44070'
+- Address: 18 Locust St, Ste 1268, Gallipolis, Ohio, 45631
+  Blog: null
+  City: Gallipolis
+  ContactEmail: galliafarmersmarket@yahoo.com
+  ContactName: null
+  ContactPhone: null
+  Dates: .nan
+  Description: null
+  Facebook: null
+  Image: default-farmersmarket-4-3.jpg
+  Instagram: null
+  Latitude: '38.808995996979'
+  ListingID: '312230'
+  Longitude: '-82.202435965744'
+  ModifyDate: Apr 4th, 2024
+  Name: Gallia County Farmers Market
+  Pinterest: null
+  Products: ''
+  State: Ohio
+  Street: 18 Locust St
+  Twitter: null
+  Type: farmers market
+  Website: https://www.facebook.com/profile.php?id=100064710605073&sk=about
+  Youtube: null
+  Zip: '45631'
+- Address: 509 E 4th St, Dayton, Ohio, 45402
+  Blog: null
+  City: Dayton
+  ContactEmail: null
+  ContactName: null
+  ContactPhone: null
+  Dates: .nan
+  Description: null
+  Facebook: null
+  Image: default-farmersmarket-4-3.jpg
+  Instagram: null
+  Latitude: '39.759306820457'
+  ListingID: '312231'
+  Longitude: '-84.185297923009'
+  ModifyDate: Apr 4th, 2024
+  Name: Garden Station Sunday Market
+  Pinterest: null
+  Products: ''
+  State: Ohio
+  Street: 509 E 4th St
+  Twitter: null
+  Type: farmers market
+  Website: https://www.facebook.com/GardenStation/
+  Youtube: null
+  Zip: '45402'
+- Address: 8119 Main St, Garrettsville, Ohio, 44231
+  Blog: null
+  City: Garrettsville
+  ContactEmail: null
+  ContactName: null
+  ContactPhone: null
+  Dates: .nan
+  Description: null
+  Facebook: null
+  Image: default-farmersmarket-4-3.jpg
+  Instagram: null
+  Latitude: '41.284620017411'
+  ListingID: '312232'
+  Longitude: '-81.097067036246'
+  ModifyDate: Apr 4th, 2024
+  Name: Garrettsville Farmers' Market
+  Pinterest: null
+  Products: ''
+  State: Ohio
+  Street: 8119 Main St
+  Twitter: null
+  Type: farmers market
+  Website: https://www.garrettsvillefarmersmarket.com/
+  Youtube: null
+  Zip: '44231'
+- Address: 1322 E 105th St, Cleveland, Ohio, 44106
+  Blog: null
+  City: Cleveland
+  ContactEmail: null
+  ContactName: null
+  ContactPhone: null
+  Dates: .nan
+  Description: null
+  Facebook: null
+  Image: default-farmersmarket-4-3.jpg
+  Instagram: null
+  Latitude: '41.521017011963'
+  ListingID: '312233'
+  Longitude: '-81.615899969645'
+  ModifyDate: Apr 4th, 2024
+  Name: Gateway 105 Farmers' Market
+  Pinterest: null
+  Products: ''
+  State: Ohio
+  Street: 1322 E 105th St
+  Twitter: null
+  Type: farmers market
+  Website: https://www.facebook.com/Gateway105/
+  Youtube: null
+  Zip: '44106'
+- Address: 89 S Broadway, Geneva, Ohio, 44041
+  Blog: null
+  City: Geneva
+  ContactEmail: null
+  ContactName: null
+  ContactPhone: null
+  Dates: .nan
+  Description: null
+  Facebook: null
+  Image: default-farmersmarket-4-3.jpg
+  Instagram: null
+  Latitude: '41.803808008229'
+  ListingID: '312234'
+  Longitude: '-80.947329029882'
+  ModifyDate: Apr 4th, 2024
+  Name: Geneva Farmers Market
+  Pinterest: null
+  Products: ''
+  State: Ohio
+  Street: 89 S Broadway
+  Twitter: null
+  Type: farmers market
+  Website: https://visitashtabulacounty.com/events/geneva-farmers-market/
+  Youtube: null
+  Zip: '44041'
+- Address: 509 Main St, Genoa, Ohio, 43430
+  Blog: null
+  City: Genoa
+  ContactEmail: null
+  ContactName: null
+  ContactPhone: null
+  Dates: .nan
+  Description: null
+  Facebook: null
+  Image: default-farmersmarket-4-3.jpg
+  Instagram: null
+  Latitude: '41.517875013648'
+  ListingID: '312235'
+  Longitude: '-83.358196980952'
+  ModifyDate: Apr 4th, 2024
+  Name: Genoa FFA Farmers Market
+  Pinterest: null
+  Products: ''
+  State: Ohio
+  Street: 509 Main St
+  Twitter: null
+  Type: farmers market
+  Website: null
+  Youtube: null
+  Zip: '43430'
+- Address: 51 N Plum St, Germantown, Ohio, 45327
+  Blog: null
+  City: Germantown
+  ContactEmail: null
+  ContactName: null
+  ContactPhone: null
+  Dates: .nan
+  Description: null
+  Facebook: null
+  Image: default-farmersmarket-4-3.jpg
+  Instagram: null
+  Latitude: '39.625794985157'
+  ListingID: '312236'
+  Longitude: '-84.372302994305'
+  ModifyDate: Apr 4th, 2024
+  Name: Germantown Farmers' Market
+  Pinterest: null
+  Products: ''
+  State: Ohio
+  Street: 51 N Plum St
+  Twitter: null
+  Type: farmers market
+  Website: https://www.facebook.com/people/Germantown-Farmers-Market/100063675413697/
+  Youtube: null
+  Zip: '45327'
+- Address: 131 S Walnut St, Gnadenhutten, Ohio, 44629
+  Blog: null
+  City: Gnadenhutten
+  ContactEmail: null
+  ContactName: null
+  ContactPhone: null
+  Dates: .nan
+  Description: null
+  Facebook: null
+  Image: default-farmersmarket-4-3.jpg
+  Instagram: null
+  Latitude: '40.358293987977'
+  ListingID: '312237'
+  Longitude: '-81.434275024307'
+  ModifyDate: Apr 4th, 2024
+  Name: Gnadenhutten Farmers Market
+  Pinterest: null
+  Products: ''
+  State: Ohio
+  Street: 131 S Walnut St
+  Twitter: null
+  Type: farmers market
+  Website: https://www.facebook.com/GnadenhuttenFarmersMarket/
+  Youtube: null
+  Zip: '44629'
+- Address: 240 S Market St, Galion, Ohio, 44833
+  Blog: null
+  City: Galion
+  ContactEmail: null
+  ContactName: null
+  ContactPhone: null
+  Dates: .nan
+  Description: null
+  Facebook: null
+  Image: default-farmersmarket-4-3.jpg
+  Instagram: null
+  Latitude: '40.731527018701'
+  ListingID: '312238'
+  Longitude: '-82.790051970067'
+  ModifyDate: Apr 4th, 2024
+  Name: God's Little Acre Farmers' Market
+  Pinterest: null
+  Products: ''
+  State: Ohio
+  Street: 240 S Market St
+  Twitter: null
+  Type: farmers market
+  Website: https://www.facebook.com/profile.php?id=100081984215138
+  Youtube: null
+  Zip: '44833'
+- Address: 6662 Goshen Rd, Goshen, Ohio, 45122
+  Blog: null
+  City: Goshen
+  ContactEmail: null
+  ContactName: null
+  ContactPhone: null
+  Dates: .nan
+  Description: null
+  Facebook: null
+  Image: default-farmersmarket-4-3.jpg
+  Instagram: null
+  Latitude: '39.225118010875'
+  ListingID: '312239'
+  Longitude: '-84.147322990069'
+  ModifyDate: Apr 4th, 2024
+  Name: Greater Goshen Farmers' Market
+  Pinterest: null
+  Products: ''
+  State: Ohio
+  Street: 6662 Goshen Rd
+  Twitter: null
+  Type: farmers market
+  Website: https://bestfarmersmarkets.org/place/greater-goshen-farmers-market-goshen-oh.html
+  Youtube: null
+  Zip: '45122'
+- Address: 240 N Liberty St, Powell, Ohio, 43065
+  Blog: null
+  City: Powell
+  ContactEmail: null
+  ContactName: null
+  ContactPhone: null
+  Dates: .nan
+  Description: null
+  Facebook: null
+  Image: default-farmersmarket-4-3.jpg
+  Instagram: null
+  Latitude: '40.162768997328'
+  ListingID: '312240'
+  Longitude: '-83.07483601527'
+  ModifyDate: Apr 4th, 2024
+  Name: Greater Powell Area Chamber of Commerce Farmers Market
+  Pinterest: null
+  Products: ''
+  State: Ohio
+  Street: 240 N Liberty St
+  Twitter: null
+  Type: farmers market
+  Website: https://www.facebook.com/PowellChamberFarmersMarket/
+  Youtube: null
+  Zip: '43065'
+- Address: 1781 Town Park Blvd, Uniontown, Ohio, 44685
+  Blog: null
+  City: Uniontown
+  ContactEmail: null
+  ContactName: null
+  ContactPhone: null
+  Dates: .nan
+  Description: null
+  Facebook: null
+  Image: default-farmersmarket-4-3.jpg
+  Instagram: null
+  Latitude: '40.950776411011'
+  ListingID: '312241'
+  Longitude: '-81.468486871833'
+  ModifyDate: Apr 4th, 2024
+  Name: Green Farmers Market
+  Pinterest: null
+  Products: ''
+  State: Ohio
+  Street: 1781 Town Park Blvd
+  Twitter: null
+  Type: farmers market
+  Website: http://ohioproud.org/farm-markets-all/farmers-market-search/find-a-farmers-market/#!biz/id/57f56c58178f4e557a7b2653
+  Youtube: null
+  Zip: '44685'
+- Address: 4465 Coonpath Rd, Carroll, Ohio, 43112
+  Blog: null
+  City: Carroll
+  ContactEmail: null
+  ContactName: null
+  ContactPhone: null
+  Dates: .nan
+  Description: null
+  Facebook: null
+  Image: default-farmersmarket-4-3.jpg
+  Instagram: null
+  Latitude: '39.771361988863'
+  ListingID: '312242'
+  Longitude: '-82.68475397615'
+  ModifyDate: Apr 4th, 2024
+  Name: Green Machine Farmers' Market
+  Pinterest: null
+  Products: ''
+  State: Ohio
+  Street: 4465 Coonpath Rd
+  Twitter: null
+  Type: farmers market
+  Website: null
+  Youtube: null
+  Zip: '43112'
+- Address: 1534 S Green Rd, Cleveland, Ohio, 44121
+  Blog: null
+  City: Cleveland
+  ContactEmail: null
+  ContactName: null
+  ContactPhone: null
+  Dates: .nan
+  Description: null
+  Facebook: null
+  Image: default-farmersmarket-4-3.jpg
+  Instagram: null
+  Latitude: '41.518044998645'
+  ListingID: '312243'
+  Longitude: '-81.520257006176'
+  ModifyDate: Apr 4th, 2024
+  Name: Green Road Farmers' Market
+  Pinterest: null
+  Products: ''
+  State: Ohio
+  Street: 1534 S Green Rd
+  Twitter: null
+  Type: farmers market
+  Website: https://www.localharvest.org/green-road-farmers-market-M29708
+  Youtube: null
+  Zip: '44121'
+- Address: 1355 Jefferson St, Greenfield, Ohio, 45123
+  Blog: null
+  City: Greenfield
+  ContactEmail: null
+  ContactName: null
+  ContactPhone: null
+  Dates: .nan
+  Description: null
+  Facebook: null
+  Image: default-farmersmarket-4-3.jpg
+  Instagram: null
+  Latitude: '39.34832800615'
+  ListingID: '312244'
+  Longitude: '-83.40103102075'
+  ModifyDate: Apr 4th, 2024
+  Name: Greenfield Farmers' Market
+  Pinterest: null
+  Products: ''
+  State: Ohio
+  Street: 1355 Jefferson St
+  Twitter: null
+  Type: farmers market
+  Website: https://farmersmarket.country/market/greenfield-ohio-farmer-market/
+  Youtube: null
+  Zip: '45123'
+- Address: 4035 Broadway, Grove City, Ohio, 43123
+  Blog: null
+  City: Grove City
+  ContactEmail: null
+  ContactName: null
+  ContactPhone: null
+  Dates: .nan
+  Description: null
+  Facebook: null
+  Image: default-farmersmarket-4-3.jpg
+  Instagram: null
+  Latitude: '39.882146986147'
+  ListingID: '312245'
+  Longitude: '-83.09411296765'
+  ModifyDate: Apr 4th, 2024
+  Name: Grove City Chamber Farmers' Market
+  Pinterest: null
+  Products: ''
+  State: Ohio
+  Street: 4035 Broadway
+  Twitter: null
+  Type: farmers market
+  Website: https://www.facebook.com/grovecityfarmersmarket/
+  Youtube: null
+  Zip: '43123'
+- Address: 551 Wirt Rd, Groveport, Ohio, 43125
+  Blog: null
+  City: Groveport
+  ContactEmail: null
+  ContactName: null
+  ContactPhone: null
+  Dates: .nan
+  Description: null
+  Facebook: null
+  Image: default-farmersmarket-4-3.jpg
+  Instagram: null
+  Latitude: '39.849558316723'
+  ListingID: '312246'
+  Longitude: '-82.886175614702'
+  ModifyDate: Apr 4th, 2024
+  Name: Groveport Farmers Market
+  Pinterest: null
+  Products: ''
+  State: Ohio
+  Street: 551 Wirt Rd
+  Twitter: null
+  Type: farmers market
+  Website: https://www.groveport.org/565/Farmers-Market
+  Youtube: null
+  Zip: '43125'
+- Address: 801 Wheeling Ave, Cambridge, Ohio, 43725
+  Blog: null
+  City: Cambridge
+  ContactEmail: null
+  ContactName: null
+  ContactPhone: null
+  Dates: .nan
+  Description: null
+  Facebook: null
+  Image: default-farmersmarket-4-3.jpg
+  Instagram: null
+  Latitude: '40.025374013942'
+  ListingID: '312247'
+  Longitude: '-81.589907017345'
+  ModifyDate: Apr 4th, 2024
+  Name: Guernsey County Farmers Market
+  Pinterest: null
+  Products: ''
+  State: Ohio
+  Street: 801 Wheeling Ave
+  Twitter: null
+  Type: farmers market
+  Website: https://nfmd.org/oh/cambridge/1003607/
+  Youtube: null
+  Zip: '43725'
+- Address: 101 S Monument Ave, Hamilton, Ohio, 45011
+  Blog: null
+  City: Hamilton
+  ContactEmail: null
+  ContactName: null
+  ContactPhone: null
+  Dates: .nan
+  Description: null
+  Facebook: null
+  Image: default-farmersmarket-4-3.jpg
+  Instagram: null
+  Latitude: '39.399613016005'
+  ListingID: '312248'
+  Longitude: '-84.565531008209'
+  ModifyDate: Apr 4th, 2024
+  Name: Hamilton's Historic Farmers' Market
+  Pinterest: null
+  Products: ''
+  State: Ohio
+  Street: 101 S Monument Ave
+  Twitter: null
+  Type: farmers market
+  Website: https://www.facebook.com/hamiltonshistoricfarmersmarket/
+  Youtube: null
+  Zip: '45011'
+- Address: 1289 Edison St NW, Hartville, Ohio, 44632
+  Blog: null
+  City: Hartville
+  ContactEmail: null
+  ContactName: null
+  ContactPhone: null
+  Dates: .nan
+  Description: null
+  Facebook: null
+  Image: default-farmersmarket-4-3.jpg
+  Instagram: null
+  Latitude: '40.97538298507'
+  ListingID: '312250'
+  Longitude: '-81.361408960708'
+  ModifyDate: Apr 4th, 2024
+  Name: Hartville MarketPlace
+  Pinterest: null
+  Products: ''
+  State: Ohio
+  Street: 1289 Edison St NW
+  Twitter: null
+  Type: farmers market
+  Website: https://hartvillemarketplace.com/
+  Youtube: null
+  Zip: '44632'
+- Address: 134 E Main St, Hebron, Ohio, 43025
+  Blog: null
+  City: Hebron
+  ContactEmail: null
+  ContactName: null
+  ContactPhone: null
+  Dates: .nan
+  Description: null
+  Facebook: null
+  Image: default-farmersmarket-4-3.jpg
+  Instagram: null
+  Latitude: '39.961656001379'
+  ListingID: '312251'
+  Longitude: '-82.490011017066'
+  ModifyDate: Apr 4th, 2024
+  Name: Hebron Business Association/Farmers Market
+  Pinterest: null
+  Products: ''
+  State: Ohio
+  Street: 134 E Main St
+  Twitter: null
+  Type: farmers market
+  Website: https://www.facebook.com/2180103322069691/posts/d41d8cd9/4962576720488990/
+  Youtube: null
+  Zip: '43025'
+- Address: 1853 Oakwood Ave, Napoleon, Ohio, 43545
+  Blog: null
+  City: Napoleon
+  ContactEmail: null
+  ContactName: null
+  ContactPhone: null
+  Dates: .nan
+  Description: null
+  Facebook: null
+  Image: default-farmersmarket-4-3.jpg
+  Instagram: null
+  Latitude: '41.408551987916'
+  ListingID: '312252'
+  Longitude: '-84.123015973774'
+  ModifyDate: Apr 4th, 2024
+  Name: Henry County Farmers Market
+  Pinterest: null
+  Products: ''
+  State: Ohio
+  Street: 1853 Oakwood Ave
+  Twitter: null
+  Type: farmers market
+  Website: https://www.facebook.com/HCOhioFarmersMarket/
+  Youtube: null
+  Zip: '43545'
+- Address: 5445 Scioto Darby Rd, Hilliard, Ohio, 43026
+  Blog: null
+  City: Hilliard
+  ContactEmail: null
+  ContactName: null
+  ContactPhone: null
+  Dates: .nan
+  Description: null
+  Facebook: null
+  Image: default-farmersmarket-4-3.jpg
+  Instagram: null
+  Latitude: '40.028724009185'
+  ListingID: '312253'
+  Longitude: '-83.161934969556'
+  ModifyDate: Apr 4th, 2024
+  Name: Hilliard Farm Market
+  Pinterest: null
+  Products: ''
+  State: Ohio
+  Street: 5445 Scioto Darby Rd
+  Twitter: null
+  Type: farmers market
+  Website: https://hilliardfarmmarket.com/
+  Youtube: null
+  Zip: '43026'
+- Address: 1593 E Front St, Logan, Ohio, 43138
+  Blog: null
+  City: Logan
+  ContactEmail: null
+  ContactName: null
+  ContactPhone: null
+  Dates: .nan
+  Description: null
+  Facebook: null
+  Image: default-farmersmarket-4-3.jpg
+  Instagram: null
+  Latitude: '39.530978016337'
+  ListingID: '312255'
+  Longitude: '-82.383290027447'
+  ModifyDate: Apr 4th, 2024
+  Name: Hocking Hills Farmers Market
+  Pinterest: null
+  Products: ''
+  State: Ohio
+  Street: 1593 E Front St
+  Twitter: null
+  Type: farmers market
+  Website: https://www.facebook.com/profile.php?id=100069757075307
+  Youtube: null
+  Zip: '43138'
+- Address: 525 W Cook Rd, Mansfield, Ohio, 44907
+  Blog: null
+  City: Mansfield
+  ContactEmail: null
+  ContactName: null
+  ContactPhone: null
+  Dates: .nan
+  Description: null
+  Facebook: null
+  Image: default-farmersmarket-4-3.jpg
+  Instagram: null
+  Latitude: '40.732632712068'
+  ListingID: '312256'
+  Longitude: '-82.535655599769'
+  ModifyDate: Apr 4th, 2024
+  Name: Holy Trinity Farmers' Market
+  Pinterest: null
+  Products: ''
+  State: Ohio
+  Street: 525 W Cook Rd
+  Twitter: null
+  Type: farmers market
+  Website: https://www.facebook.com/holytrinityfarmersmarket/
+  Youtube: null
+  Zip: '44907'
+- Address: 205 Niles Cortland Rd NE, Warren, Ohio, 44484
+  Blog: null
+  City: Warren
+  ContactEmail: null
+  ContactName: null
+  ContactPhone: null
+  Dates: .nan
+  Description: null
+  Facebook: null
+  Image: default-farmersmarket-4-3.jpg
+  Instagram: null
+  Latitude: '41.239765980858'
+  ListingID: '312257'
+  Longitude: '-80.741064977246'
+  ModifyDate: Apr 4th, 2024
+  Name: Howland Farmers Market
+  Pinterest: null
+  Products: ''
+  State: Ohio
+  Street: 205 Niles Cortland Rd NE
+  Twitter: null
+  Type: farmers market
+  Website: https://www.facebook.com/HowlandFarmersMarket/
+  Youtube: null
+  Zip: '44484'
+- Address: 2600 Glenwood Ave, Youngstown, Ohio, 44511
+  Blog: null
+  City: Youngstown
+  ContactEmail: null
+  ContactName: null
+  ContactPhone: null
+  Dates: .nan
+  Description: null
+  Facebook: null
+  Image: default-farmersmarket-4-3.jpg
+  Instagram: null
+  Latitude: '41.073692687553'
+  ListingID: '312258'
+  Longitude: '-80.675405987622'
+  ModifyDate: Apr 4th, 2024
+  Name: Idora Neighborhood Farmers Market
+  Pinterest: null
+  Products: ''
+  State: Ohio
+  Street: 2600 Glenwood Ave
+  Twitter: null
+  Type: farmers market
+  Website: https://nfmd.org/oh/youngstown/1011367/
+  Youtube: null
+  Zip: '44511'
+- Address: 7660 Fulton Dr NW, Massillon, Ohio, 44646
+  Blog: null
+  City: Massillon
+  ContactEmail: null
+  ContactName: null
+  ContactPhone: null
+  Dates: .nan
+  Description: null
+  Facebook: null
+  Image: default-farmersmarket-4-3.jpg
+  Instagram: null
+  Latitude: '40.860830499583'
+  ListingID: '312259'
+  Longitude: '-81.491675841017'
+  ModifyDate: Apr 4th, 2024
+  Name: Jackson Township Farmers' Market
+  Pinterest: null
+  Products: ''
+  State: Ohio
+  Street: 7660 Fulton Dr NW
+  Twitter: null
+  Type: farmers market
+  Website: http://ohioproud.org/farm-markets-all/farmers-market-search/find-a-farmers-market/#!biz/id/58ef67a507ac80312fa958c0
+  Youtube: null
+  Zip: '44646'
+- Address: 42 E Jefferson St, Jefferson, Ohio, 44047
+  Blog: null
+  City: Jefferson
+  ContactEmail: null
+  ContactName: null
+  ContactPhone: null
+  Dates: .nan
+  Description: null
+  Facebook: null
+  Image: default-farmersmarket-4-3.jpg
+  Instagram: null
+  Latitude: '41.737937983935'
+  ListingID: '312261'
+  Longitude: '-80.767169995591'
+  ModifyDate: Apr 4th, 2024
+  Name: Jefferson Farmers Market
+  Pinterest: null
+  Products: ''
+  State: Ohio
+  Street: 42 E Jefferson St
+  Twitter: null
+  Type: farmers market
+  Website: https://www.facebook.com/JeffersonOhioFarmersMarket/
+  Youtube: null
+  Zip: '44047'
+- Address: 628 Lock Ave, Columbus, Ohio, 43207
+  Blog: null
+  City: Columbus
+  ContactEmail: null
+  ContactName: null
+  ContactPhone: null
+  Dates: .nan
+  Description: null
+  Facebook: null
+  Image: default-farmersmarket-4-3.jpg
+  Instagram: null
+  Latitude: '39.915285007989'
+  ListingID: '312262'
+  Longitude: '-82.97851101634'
+  ModifyDate: Apr 4th, 2024
+  Name: Josephine's Harvest Market
+  Pinterest: null
+  Products: ''
+  State: Ohio
+  Street: 628 Lock Ave
+  Twitter: null
+  Type: farmers market
+  Website: https://www.localharvest.org/josephines-harvest-market-M35363
+  Youtube: null
+  Zip: '43207'
+- Address: 8800 Euclid Chardon Rd, Kirtland, Ohio, 44094
+  Blog: null
+  City: Kirtland
+  ContactEmail: null
+  ContactName: null
+  ContactPhone: null
+  Dates: .nan
+  Description: null
+  Facebook: null
+  Image: default-farmersmarket-4-3.jpg
+  Instagram: null
+  Latitude: '41.576507013094'
+  ListingID: '312263'
+  Longitude: '-81.328541003786'
+  ModifyDate: Apr 4th, 2024
+  Name: Lake Metroparks Farmpark Farmers' Market
+  Pinterest: null
+  Products: ''
+  State: Ohio
+  Street: 8800 Euclid Chardon Rd
+  Twitter: null
+  Type: farmers market
+  Website: https://nfmd.org/oh/kirtland/1008131/
+  Youtube: null
+  Zip: '44094'
+- Address: 7700 Clocktower Dr, Willoughby, Ohio, 44094
+  Blog: null
+  City: Willoughby
+  ContactEmail: null
+  ContactName: null
+  ContactPhone: null
+  Dates: .nan
+  Description: null
+  Facebook: null
+  Image: default-farmersmarket-4-3.jpg
+  Instagram: null
+  Latitude: '41.637334987352'
+  ListingID: '312264'
+  Longitude: '-81.365283998365'
+  ModifyDate: Apr 4th, 2024
+  Name: Lakeland Local Market
+  Pinterest: null
+  Products: ''
+  State: Ohio
+  Street: 7700 Clocktower Dr
+  Twitter: null
+  Type: farmers market
+  Website: http://ohioproud.org/farm-markets-all/farmers-market-search/find-a-farmers-market/#!biz/id/57f56c58178f4e557a7b2685/Contact
+  Youtube: null
+  Zip: '44094'
+- Address: 1005 N Abbe Rd, Elyria, Ohio, 44035
+  Blog: null
+  City: Elyria
+  ContactEmail: null
+  ContactName: null
+  ContactPhone: null
+  Dates: .nan
+  Description: null
+  Facebook: null
+  Image: default-farmersmarket-4-3.jpg
+  Instagram: null
+  Latitude: '41.413827349884'
+  ListingID: '312265'
+  Longitude: '-82.077043576279'
+  ModifyDate: Apr 4th, 2024
+  Name: LCCC Farmer's Market
+  Pinterest: null
+  Products: ''
+  State: Ohio
+  Street: 1005 N Abbe Rd
+  Twitter: null
+  Type: farmers market
+  Website: https://www.facebook.com/events/559957317865402/559957354532065/?active_tab=about
+  Youtube: null
+  Zip: '44035'
+- Address: 120 W South St, Lebanon, Ohio, 45036
+  Blog: null
+  City: Lebanon
+  ContactEmail: null
+  ContactName: null
+  ContactPhone: null
+  Dates: .nan
+  Description: null
+  Facebook: null
+  Image: default-farmersmarket-4-3.jpg
+  Instagram: null
+  Latitude: '39.43272400621'
+  ListingID: '312266'
+  Longitude: '-84.211019000137'
+  ModifyDate: Apr 4th, 2024
+  Name: Lebanon Ohio Farmers Market
+  Pinterest: null
+  Products: ''
+  State: Ohio
+  Street: 120 W South St
+  Twitter: null
+  Type: farmers market
+  Website: https://www.facebook.com/lebanonohiofarmersmarket?paipv=0&eav=AfagYu-aBAEsWcWracarUxrCDp4tVXqUQz4OkNSTrgMeWYQWdLoCufszT7w-xI9MKtg
+  Youtube: null
+  Zip: '45036'
+- Address: 10 W Main St, Leipsic, Ohio, 45856
+  Blog: null
+  City: Leipsic
+  ContactEmail: null
+  ContactName: null
+  ContactPhone: null
+  Dates: .nan
+  Description: null
+  Facebook: null
+  Image: default-farmersmarket-4-3.jpg
+  Instagram: null
+  Latitude: '41.100353012374'
+  ListingID: '312267'
+  Longitude: '-83.986647019157'
+  ModifyDate: Apr 4th, 2024
+  Name: Leipsic Farmers' Market
+  Pinterest: null
+  Products: ''
+  State: Ohio
+  Street: 10 W Main St
+  Twitter: null
+  Type: farmers market
+  Website: https://www.eatwellguide.org/listings/76366/locations/32296?latitude=40.976015&longitude=-83.919073
+  Youtube: null
+  Zip: '45856'
+- Address: 3820 Westwood Northern Blvd, Cincinnati, Ohio, 45211
+  Blog: null
+  City: Cincinnati
+  ContactEmail: null
+  ContactName: null
+  ContactPhone: null
+  Dates: .nan
+  Description: null
+  Facebook: null
+  Image: default-farmersmarket-4-3.jpg
+  Instagram: null
+  Latitude: '39.166166996195'
+  ListingID: '312268'
+  Longitude: '-84.611556960555'
+  ModifyDate: Apr 4th, 2024
+  Name: Lettuce Eat Well Farmers' Market
+  Pinterest: null
+  Products: ''
+  State: Ohio
+  Street: 3820 Westwood Northern Blvd
+  Twitter: null
+  Type: farmers market
+  Website: https://lewfm.org/
+  Youtube: null
+  Zip: '45211'
+- Address: 210 W Forest Ave, South Lebanon, Ohio, 45065
+  Blog: null
+  City: South Lebanon
+  ContactEmail: null
+  ContactName: null
+  ContactPhone: null
+  Dates: .nan
+  Description: null
+  Facebook: null
+  Image: default-farmersmarket-4-3.jpg
+  Instagram: null
+  Latitude: '39.372289981401'
+  ListingID: '312269'
+  Longitude: '-84.218299018321'
+  ModifyDate: Apr 4th, 2024
+  Name: Lytle Market
+  Pinterest: null
+  Products: ''
+  State: Ohio
+  Street: 210 W Forest Ave
+  Twitter: null
+  Type: farmers market
+  Website: https://www.localharvest.org/lytle-market-M31365
+  Youtube: null
+  Zip: '45065'
+- Address: 8000 Miami Ave, Cincinnati, Ohio, 45243
+  Blog: null
+  City: Cincinnati
+  ContactEmail: null
+  ContactName: null
+  ContactPhone: null
+  Dates: .nan
+  Description: null
+  Facebook: null
+  Image: default-farmersmarket-4-3.jpg
+  Instagram: null
+  Latitude: '39.202521992476'
+  ListingID: '312270'
+  Longitude: '-84.360936965961'
+  ModifyDate: Apr 4th, 2024
+  Name: Madeira Winter Farmers' Market
+  Pinterest: null
+  Products: ''
+  State: Ohio
+  Street: 8000 Miami Ave
+  Twitter: null
+  Type: farmers market
+  Website: https://madeirafarmersmarket.com/
+  Youtube: null
+  Zip: '45243'
+- Address: 44 1/2 S Main St, Mount Gilead, Ohio, 43338
+  Blog: null
+  City: Mount Gilead
+  ContactEmail: null
+  ContactName: null
+  ContactPhone: null
+  Dates: .nan
+  Description: null
+  Facebook: null
+  Image: default-farmersmarket-4-3.jpg
+  Instagram: null
+  Latitude: '40.54794598862'
+  ListingID: '312271'
+  Longitude: '-82.82841602472'
+  ModifyDate: Apr 4th, 2024
+  Name: Main Street Market
+  Pinterest: null
+  Products: ''
+  State: Ohio
+  Street: 44 1/2 S Main St
+  Twitter: null
+  Type: farmers market
+  Website: http://ohioproud.org/farm-markets-all/farmers-market-search/find-a-farmers-market/#!biz/id/57f56c58178f4e557a7b2691/Contact
+  Youtube: null
+  Zip: '43338'
+- Address: 142 Depot St, Orrville, Ohio, 44667
+  Blog: null
+  City: Orrville
+  ContactEmail: null
+  ContactName: null
+  ContactPhone: null
+  Dates: .nan
+  Description: null
+  Facebook: null
+  Image: default-farmersmarket-4-3.jpg
+  Instagram: null
+  Latitude: '40.840057996493'
+  ListingID: '312272'
+  Longitude: '-81.767246966142'
+  ModifyDate: Apr 4th, 2024
+  Name: Main Street Orrville Farmers' Market
+  Pinterest: null
+  Products: ''
+  State: Ohio
+  Street: 142 Depot St
+  Twitter: null
+  Type: farmers market
+  Website: https://nfmd.org/oh/orrville/1002702/
+  Youtube: null
+  Zip: '44667'
+- Address: 6193 Edison St NE, Hartville, Ohio, 44632
+  Blog: null
+  City: Hartville
+  ContactEmail: null
+  ContactName: null
+  ContactPhone: null
+  Dates: .nan
+  Description: null
+  Facebook: null
+  Image: default-farmersmarket-4-3.jpg
+  Instagram: null
+  Latitude: '40.95382498156'
+  ListingID: '312273'
+  Longitude: '-81.279144017621'
+  ModifyDate: Apr 4th, 2024
+  Name: Maize Valley Winery & Market
+  Pinterest: null
+  Products: ''
+  State: Ohio
+  Street: 6193 Edison St NE
+  Twitter: null
+  Type: farmers market
+  Website: https://www.maizevalley.com/
+  Youtube: null
+  Zip: '44632'
+- Address: 17 Ridge Rd N, Mansfield, Ohio, 44905
+  Blog: null
+  City: Mansfield
+  ContactEmail: null
+  ContactName: null
+  ContactPhone: null
+  Dates: .nan
+  Description: null
+  Facebook: null
+  Image: default-farmersmarket-4-3.jpg
+  Instagram: null
+  Latitude: '40.758722983654'
+  ListingID: '312274'
+  Longitude: '-82.469283995437'
+  ModifyDate: Apr 4th, 2024
+  Name: Market Central
+  Pinterest: null
+  Products: ''
+  State: Ohio
+  Street: 17 Ridge Rd N
+  Twitter: null
+  Type: farmers market
+  Website: http://ohioproud.org/farm-markets-all/farmers-market-search/find-a-farmers-market/#!biz/id/57f56c58178f4e557a7b2696/Contact
+  Youtube: null
+  Zip: '44905'
+- Address: 505 Erie St N, Massillon, Ohio, 44646
+  Blog: null
+  City: Massillon
+  ContactEmail: null
+  ContactName: null
+  ContactPhone: null
+  Dates: .nan
+  Description: null
+  Facebook: null
+  Image: default-farmersmarket-4-3.jpg
+  Instagram: null
+  Latitude: '40.799990990572'
+  ListingID: '312275'
+  Longitude: '-81.526184017549'
+  ModifyDate: Apr 4th, 2024
+  Name: Massillon Farmers Market
+  Pinterest: null
+  Products: ''
+  State: Ohio
+  Street: 505 Erie St N
+  Twitter: null
+  Type: farmers market
+  Website: https://www.eatwellguide.org/listings/76395/locations/32325?latitude=40.7951879&longitude=-81.5500374
+  Youtube: null
+  Zip: '44646'
+- Address: 1146 E Central Ave, Miamisburg, Ohio, 45342
+  Blog: null
+  City: Miamisburg
+  ContactEmail: null
+  ContactName: null
+  ContactPhone: null
+  Dates: .nan
+  Description: null
+  Facebook: null
+  Image: default-farmersmarket-4-3.jpg
+  Instagram: null
+  Latitude: '39.639338003304'
+  ListingID: '312278'
+  Longitude: '-84.270846007518'
+  ModifyDate: Apr 4th, 2024
+  Name: Miamisburg Farmers' Market
+  Pinterest: null
+  Products: ''
+  State: Ohio
+  Street: 1146 E Central Ave
+  Twitter: null
+  Type: farmers market
+  Website: https://www.facebook.com/miamisburgfarmersmarket/
+  Youtube: null
+  Zip: '45342'
+- Address: 15864 Nauvoo Rd, Middlefield, Ohio, 44062
+  Blog: null
+  City: Middlefield
+  ContactEmail: null
+  ContactName: null
+  ContactPhone: null
+  Dates: .nan
+  Description: null
+  Facebook: null
+  Image: default-farmersmarket-4-3.jpg
+  Instagram: null
+  Latitude: '41.480345000271'
+  ListingID: '312279'
+  Longitude: '-81.073206021019'
+  ModifyDate: Apr 4th, 2024
+  Name: Middlefield Market
+  Pinterest: null
+  Products: ''
+  State: Ohio
+  Street: 15864 Nauvoo Rd
+  Twitter: null
+  Type: farmers market
+  Website: https://nfmd.org/oh/middlefield/1002020/
+  Youtube: null
+  Zip: '44062'
+- Address: 9609 Montgomery Rd, Montgomery, Ohio, 45242
+  Blog: null
+  City: Montgomery
+  ContactEmail: null
+  ContactName: null
+  ContactPhone: null
+  Dates: .nan
+  Description: null
+  Facebook: null
+  Image: default-farmersmarket-4-3.jpg
+  Instagram: null
+  Latitude: '39.231439013608'
+  ListingID: '312280'
+  Longitude: '-84.353905974121'
+  ModifyDate: Apr 4th, 2024
+  Name: Montgomery Farmers' Market
+  Pinterest: null
+  Products: ''
+  State: Ohio
+  Street: 9609 Montgomery Rd
+  Twitter: null
+  Type: farmers market
+  Website: https://montgomeryfarmersmarket.org/
+  Youtube: null
+  Zip: '45242'
+- Address: W High St, Morrow County, Mount Gilead, Ohio 43338
+  Blog: null
+  City: Mount Gilead
+  ContactEmail: null
+  ContactName: null
+  ContactPhone: null
+  Dates: .nan
+  Description: null
+  Facebook: null
+  Image: default-farmersmarket-4-3.jpg
+  Instagram: null
+  Latitude: '40.54925'
+  ListingID: '312281'
+  Longitude: '-82.83085'
+  ModifyDate: Apr 4th, 2024
+  Name: Mount Gilead Saturday Farmers' Market
+  Pinterest: null
+  Products: ''
+  State: Ohio
+  Street: W High St
+  Twitter: null
+  Type: farmers market
+  Website: https://www.eatwellguide.org/listings/76404/locations/32334
+  Youtube: null
+  Zip: '43338'
+- Address: 1 Public Sq, Mount Vernon, Ohio, 43050
+  Blog: null
+  City: Mount Vernon
+  ContactEmail: null
+  ContactName: null
+  ContactPhone: null
+  Dates: .nan
+  Description: null
+  Facebook: null
+  Image: default-farmersmarket-4-3.jpg
+  Instagram: null
+  Latitude: '40.393382981603'
+  ListingID: '312282'
+  Longitude: '-82.484525983447'
+  ModifyDate: Apr 4th, 2024
+  Name: Mount Vernon Farmers' Market
+  Pinterest: null
+  Products: ''
+  State: Ohio
+  Street: 1 Public Sq
+  Twitter: null
+  Type: farmers market
+  Website: https://www.facebook.com/mountvernonfarmersmarket/
+  Youtube: null
+  Zip: '43050'
+- Address: 4209 State Route 44, Rootstown, Ohio, 44272
+  Blog: null
+  City: Rootstown
+  ContactEmail: null
+  ContactName: null
+  ContactPhone: null
+  Dates: .nan
+  Description: null
+  Facebook: null
+  Image: default-farmersmarket-4-3.jpg
+  Instagram: null
+  Latitude: '41.103171008221'
+  ListingID: '312285'
+  Longitude: '-81.245151041655'
+  ModifyDate: Apr 4th, 2024
+  Name: NEOMED Farmers' Market
+  Pinterest: null
+  Products: ''
+  State: Ohio
+  Street: 4209 State Route 44
+  Twitter: null
+  Type: farmers market
+  Website: http://ohioproud.org/farm-markets-all/farmers-market-search/find-a-farmers-market/#!biz/id/57f56c59178f4e557a7b26ae/Contact
+  Youtube: null
+  Zip: '44272'
+- Address: 113 W Jefferson St, New Carlisle, Ohio, 45344
+  Blog: null
+  City: New Carlisle
+  ContactEmail: null
+  ContactName: null
+  ContactPhone: null
+  Dates: .nan
+  Description: null
+  Facebook: null
+  Image: default-farmersmarket-4-3.jpg
+  Instagram: null
+  Latitude: '39.936192994908'
+  ListingID: '312286'
+  Longitude: '-84.025447016594'
+  ModifyDate: Apr 4th, 2024
+  Name: New Carlisle Farmers Market
+  Pinterest: null
+  Products: ''
+  State: Ohio
+  Street: 113 W Jefferson St
+  Twitter: null
+  Type: farmers market
+  Website: https://www.facebook.com/NewCarlisleFarmersMarket/
+  Youtube: null
+  Zip: '45344'
+- Address: 75 W Main St, New Concord, Ohio, 43762
+  Blog: null
+  City: New Concord
+  ContactEmail: null
+  ContactName: null
+  ContactPhone: null
+  Dates: .nan
+  Description: Located between the New Concord Elementary School and the Library
+  Facebook: null
+  Image: default-farmersmarket-4-3.jpg
+  Instagram: null
+  Latitude: '39.993981020522'
+  ListingID: '312287'
+  Longitude: '-81.736507006798'
+  ModifyDate: Apr 4th, 2024
+  Name: New Concord Farmers' Market
+  Pinterest: null
+  Products: ''
+  State: Ohio
+  Street: 75 W Main St
+  Twitter: null
+  Type: farmers market
+  Website: https://www.facebook.com/events/1388643117955968/1388643161289297/
+  Youtube: null
+  Zip: '43762'
+- Address: 105 N Main St, New Lexington, Ohio, 43764
+  Blog: null
+  City: New Lexington
+  ContactEmail: null
+  ContactName: null
+  ContactPhone: null
+  Dates: .nan
+  Description: null
+  Facebook: null
+  Image: default-farmersmarket-4-3.jpg
+  Instagram: null
+  Latitude: '39.714013007336'
+  ListingID: '312288'
+  Longitude: '-82.208205984071'
+  ModifyDate: Apr 4th, 2024
+  Name: New Lexington Farmers' Market
+  Pinterest: null
+  Products: ''
+  State: Ohio
+  Street: 105 N Main St
+  Twitter: null
+  Type: farmers market
+  Website: http://www.farmsandmarkets.com/ohio/new-lexington/farmers-markets/new-lexington-farmers-market/1001059
+  Youtube: null
+  Zip: '43764'
+- Address: 13209 Shaker Sq, Cleveland, Ohio, 44120
+  Blog: null
+  City: Cleveland
+  ContactEmail: northunionfarmersmarket@yahoo.com
+  ContactName: null
+  ContactPhone: 216-751-7656
+  Dates: .nan
+  Description: Award-winning Shaker Square Market will be on East and West Bound Shaker
+    Blvd. You will find farms and food producers with fresh produce, meats, dairy,
+    baked goods and more.
+  Facebook: null
+  Image: default-farmersmarket-4-3.jpg
+  Instagram: null
+  Latitude: '41.484519020414'
+  ListingID: '312289'
+  Longitude: '-81.589576015989'
+  ModifyDate: Apr 4th, 2024
+  Name: North Union Farmers Market - Shaker Square
+  Pinterest: null
+  Products: ''
+  State: Ohio
+  Street: 13209 Shaker Sq
+  Twitter: null
+  Type: farmers market
+  Website: http://www.northunionfarmersmarket.org/markets/shaker-square-2/
+  Youtube: null
+  Zip: '44120'
+- Address: 11 N Franklin St, Chagrin Falls, Ohio, 44022
+  Blog: null
+  City: Chagrin Falls
+  ContactEmail: northunionfarmersmarket@yahoo.com
+  ContactName: null
+  ContactPhone: 216-751-7656
+  Dates: .nan
+  Description: "Located in the beautiful village of Chagrin Falls, this market is\
+    \ filled with Northeast Ohio\u2019s finest farmers. Chagrin Falls Market is located\
+    \ on at Bandstand Triangle Park. You will find farms and food producers with fresh\
+    \ produce, meats, dairy, baked goods and more.\n"
+  Facebook: null
+  Image: default-farmersmarket-4-3.jpg
+  Instagram: null
+  Latitude: '41.430166988368'
+  ListingID: '312290'
+  Longitude: '-81.391925039418'
+  ModifyDate: Apr 4th, 2024
+  Name: North Union Farmers Market - Chagrin Falls Market
+  Pinterest: null
+  Products: ''
+  State: Ohio
+  Street: 11 N Franklin St
+  Twitter: null
+  Type: farmers market
+  Website: http://www.northunionfarmersmarket.org/markets/chagrin-falls/
+  Youtube: null
+  Zip: '44022'
+- Address: 901 Elm St, Youngstown, Ohio, 44505
+  Blog: null
+  City: Youngstown
+  ContactEmail: jwconverse@gmail.com
+  ContactName: null
+  ContactPhone: 330-518-6971
+  Dates: .nan
+  Description: null
+  Facebook: https://www.facebook.com/northsidefarmersmarket/
+  Image: default-farmersmarket-4-3.jpg
+  Instagram: null
+  Latitude: '41.112536988739'
+  ListingID: '312293'
+  Longitude: '-80.645236019346'
+  ModifyDate: Apr 4th, 2024
+  Name: 'Northside Farmers Market '
+  Pinterest: null
+  Products: ''
+  State: Ohio
+  Street: 901 Elm St
+  Twitter: null
+  Type: farmers market
+  Website: https://www.facebook.com/northsidefarmersmarkets/
+  Youtube: null
+  Zip: '44505'
+- Address: 319 E Main St, Norwalk, Ohio, 44857
+  Blog: null
+  City: Norwalk
+  ContactEmail: null
+  ContactName: null
+  ContactPhone: null
+  Dates: .nan
+  Description: null
+  Facebook: null
+  Image: default-farmersmarket-4-3.jpg
+  Instagram: null
+  Latitude: '41.254414991128'
+  ListingID: '312294'
+  Longitude: '-82.591017979472'
+  ModifyDate: Apr 4th, 2024
+  Name: Norwalk Farmers Market OH
+  Pinterest: null
+  Products: ''
+  State: Ohio
+  Street: 319 E Main St
+  Twitter: null
+  Type: farmers market
+  Website: https://www.norwalkfarmersmarket.com/index.html
+  Youtube: null
+  Zip: '44857'
+- Address: 85 S Main St, Oberlin, Ohio, 44074
+  Blog: null
+  City: Oberlin
+  ContactEmail: null
+  ContactName: null
+  ContactPhone: null
+  Dates: .nan
+  Description: null
+  Facebook: null
+  Image: default-farmersmarket-4-3.jpg
+  Instagram: null
+  Latitude: '41.289316020575'
+  ListingID: '312295'
+  Longitude: '-82.216930036534'
+  ModifyDate: Apr 4th, 2024
+  Name: Oberlin Farmers' Market
+  Pinterest: null
+  Products: ''
+  State: Ohio
+  Street: 85 S Main St
+  Twitter: null
+  Type: farmers market
+  Website: https://www.oberlinfarmersmarket.info/
+  Youtube: null
+  Zip: '44074'
+- Address: 198 E College St, Oberlin, Ohio, 44074
+  Blog: null
+  City: Oberlin
+  ContactEmail: null
+  ContactName: null
+  ContactPhone: null
+  Dates: .nan
+  Description: null
+  Facebook: null
+  Image: default-farmersmarket-4-3.jpg
+  Instagram: null
+  Latitude: '41.292338995865'
+  ListingID: '312296'
+  Longitude: '-82.20980499974'
+  ModifyDate: Apr 4th, 2024
+  Name: Oberlin Winter Market
+  Pinterest: null
+  Products: ''
+  State: Ohio
+  Street: 198 E College St
+  Twitter: null
+  Type: farmers market
+  Website: https://www.facebook.com/OberlinWinterMarket/
+  Youtube: null
+  Zip: '44074'
+- Address: 4200 Pearl Rd, Cleveland, Ohio, 44109
+  Blog: null
+  City: Cleveland
+  ContactEmail: null
+  ContactName: null
+  ContactPhone: null
+  Dates: .nan
+  Description: null
+  Facebook: null
+  Image: default-farmersmarket-4-3.jpg
+  Instagram: null
+  Latitude: '41.441333988421'
+  ListingID: '312299'
+  Longitude: '-81.705896966954'
+  ModifyDate: Apr 4th, 2024
+  Name: Old Brooklyn Farmers Market
+  Pinterest: null
+  Products: ''
+  State: Ohio
+  Street: 4200 Pearl Rd
+  Twitter: null
+  Type: farmers market
+  Website: https://www.facebook.com/oldbrooklynfarmersmarket/
+  Youtube: null
+  Zip: '44109'
+- Address: Market St & 2nd St, Portsmouth, Ohio, 45662
+  Blog: null
+  City: Portsmouth
+  ContactEmail: null
+  ContactName: null
+  ContactPhone: null
+  Dates: .nan
+  Description: null
+  Facebook: null
+  Image: default-farmersmarket-4-3.jpg
+  Instagram: null
+  Latitude: '38.731670006519'
+  ListingID: '312300'
+  Longitude: '-83.003069992644'
+  ModifyDate: Apr 4th, 2024
+  Name: Original Portsmouth Farmers' Market
+  Pinterest: null
+  Products: ''
+  State: Ohio
+  Street: Market St & 2nd St
+  Twitter: null
+  Type: farmers market
+  Website: https://sites.google.com/view/portsmouthfarmersmarket/home
+  Youtube: null
+  Zip: '45662'
+- Address: 315 W Market St, Orrville, Ohio, 44667
+  Blog: null
+  City: Orrville
+  ContactEmail: null
+  ContactName: null
+  ContactPhone: null
+  Dates: .nan
+  Description: null
+  Facebook: null
+  Image: default-farmersmarket-4-3.jpg
+  Instagram: null
+  Latitude: '40.840707306013'
+  ListingID: '312301'
+  Longitude: '-81.766904984492'
+  ModifyDate: Apr 4th, 2024
+  Name: Orrville Farmers Market
+  Pinterest: null
+  Products: ''
+  State: Ohio
+  Street: 315 W Market St
+  Twitter: null
+  Type: farmers market
+  Website: https://www.local-farmers-markets.com/market/3849/orrville/orrville-farmers-market
+  Youtube: null
+  Zip: '44667'
+- Address: 45056, Oxford, Ohio
+  Blog: null
+  City: Oxford
+  ContactEmail: null
+  ContactName: null
+  ContactPhone: null
+  Dates: .nan
+  Description: null
+  Facebook: null
+  Image: default-farmersmarket-4-3.jpg
+  Instagram: null
+  Latitude: '39.509195'
+  ListingID: '312303'
+  Longitude: '-84.74242'
+  ModifyDate: Apr 4th, 2024
+  Name: Oxford Original Farmers Market
+  Pinterest: null
+  Products: ''
+  State: Ohio
+  Street: ''
+  Twitter: null
+  Type: farmers market
+  Website: https://oxfordfarmersmarket.com/
+  Youtube: null
+  Zip: '45056'
+- Address: 44077, Painesville, Ohio
+  Blog: null
+  City: Painesville
+  ContactEmail: null
+  ContactName: null
+  ContactPhone: null
+  Dates: .nan
+  Description: null
+  Facebook: null
+  Image: default-farmersmarket-4-3.jpg
+  Instagram: null
+  Latitude: '41.7247673'
+  ListingID: '312304'
+  Longitude: '-81.2457841'
+  ModifyDate: Apr 4th, 2024
+  Name: Painesville Farmers Market
+  Pinterest: null
+  Products: ''
+  State: Ohio
+  Street: ''
+  Twitter: null
+  Type: farmers market
+  Website: https://www.facebook.com/PainesvilleFM/
+  Youtube: null
+  Zip: '44077'
+- Address: 30 E Broad St, Columbus, Ohio, 43215
+  Blog: null
+  City: Columbus
+  ContactEmail: null
+  ContactName: null
+  ContactPhone: null
+  Dates: .nan
+  Description: null
+  Facebook: null
+  Image: default-farmersmarket-4-3.jpg
+  Instagram: null
+  Latitude: '39.96279598212'
+  ListingID: '312305'
+  Longitude: '-82.999397964682'
+  ModifyDate: Apr 4th, 2024
+  Name: Pearl Market
+  Pinterest: null
+  Products: ''
+  State: Ohio
+  Street: 30 E Broad St
+  Twitter: null
+  Type: farmers market
+  Website: https://nfmd.org/oh/columbus/1000012/
+  Youtube: null
+  Zip: '43215'
+- Address: 9120 Morrow Rossburg Rd, Pleasant Plain, Ohio, 45162
+  Blog: null
+  City: Pleasant Plain
+  ContactEmail: null
+  ContactName: null
+  ContactPhone: null
+  Dates: .nan
+  Description: null
+  Facebook: null
+  Image: default-farmersmarket-4-3.jpg
+  Instagram: null
+  Latitude: '39.293756996884'
+  ListingID: '312306'
+  Longitude: '-84.098317019687'
+  ModifyDate: Apr 4th, 2024
+  Name: Pleasant Plain Farmers Market, LLC
+  Pinterest: null
+  Products: ''
+  State: Ohio
+  Street: 9120 Morrow Rossburg Rd
+  Twitter: null
+  Type: farmers market
+  Website: https://www.facebook.com/PleasantPlainFarmersMarket/
+  Youtube: null
+  Zip: '45162'
+- Address: 600 E 2nd St, Dayton, Ohio, 45402
+  Blog: null
+  City: Dayton
+  ContactEmail: null
+  ContactName: null
+  ContactPhone: null
+  Dates: .nan
+  Description: null
+  Facebook: null
+  Image: default-farmersmarket-4-3.jpg
+  Instagram: null
+  Latitude: '39.762630015501'
+  ListingID: '312307'
+  Longitude: '-84.180781032974'
+  ModifyDate: Apr 4th, 2024
+  Name: PNC 2nd Street Market
+  Pinterest: null
+  Products: ''
+  State: Ohio
+  Street: 600 E 2nd St
+  Twitter: null
+  Type: farmers market
+  Website: https://www.metroparks.org/places-to-go/2nd-street-market/
+  Youtube: null
+  Zip: '45402'
+- Address: 240 N Liberty St, Powell, Ohio, 43065
+  Blog: null
+  City: Powell
+  ContactEmail: null
+  ContactName: null
+  ContactPhone: null
+  Dates: .nan
+  Description: null
+  Facebook: null
+  Image: default-farmersmarket-4-3.jpg
+  Instagram: null
+  Latitude: '40.162768997328'
+  ListingID: '312309'
+  Longitude: '-83.07483601527'
+  ModifyDate: Apr 4th, 2024
+  Name: Powell Chamber Farmers' Market
+  Pinterest: null
+  Products: ''
+  State: Ohio
+  Street: 240 N Liberty St
+  Twitter: null
+  Type: farmers market
+  Website: https://www.facebook.com/PowellChamberFarmersMarket/
+  Youtube: null
+  Zip: '43065'
+- Address: 9150 Reading Rd, Cincinnati, Ohio, 45215
+  Blog: null
+  City: Cincinnati
+  ContactEmail: null
+  ContactName: null
+  ContactPhone: null
+  Dates: .nan
+  Description: null
+  Facebook: null
+  Image: default-farmersmarket-4-3.jpg
+  Instagram: null
+  Latitude: '39.224911983695'
+  ListingID: '312311'
+  Longitude: '-84.439280016552'
+  ModifyDate: Apr 4th, 2024
+  Name: Reading Farmers Market, LLC
+  Pinterest: null
+  Products: ''
+  State: Ohio
+  Street: 9150 Reading Rd
+  Twitter: null
+  Type: farmers market
+  Website: https://www.facebook.com/ReadingFarmerMarket/
+  Youtube: null
+  Zip: '45215'
+- Address: 2100 Washington Blvd, Belpre, Ohio, 45714
+  Blog: null
+  City: Belpre
+  ContactEmail: null
+  ContactName: null
+  ContactPhone: null
+  Dates: .nan
+  Description: null
+  Facebook: null
+  Image: default-farmersmarket-4-3.jpg
+  Instagram: null
+  Latitude: '39.278243980034'
+  ListingID: '312312'
+  Longitude: '-81.603849978002'
+  ModifyDate: Apr 4th, 2024
+  Name: Red Barn Market
+  Pinterest: null
+  Products: ''
+  State: Ohio
+  Street: 2100 Washington Blvd
+  Twitter: null
+  Type: farmers market
+  Website: https://nfmd.org/oh/belpre/1007235/
+  Youtube: null
+  Zip: '45714'
+- Address: 146 S Chillicothe Rd, Aurora, Ohio, 44202
+  Blog: null
+  City: Aurora
+  ContactEmail: null
+  ContactName: null
+  ContactPhone: null
+  Dates: .nan
+  Description: null
+  Facebook: null
+  Image: default-farmersmarket-4-3.jpg
+  Instagram: null
+  Latitude: '41.313138981961'
+  ListingID: '312313'
+  Longitude: '-81.346348021806'
+  ModifyDate: Apr 4th, 2024
+  Name: Red Rock Farmers Market
+  Pinterest: null
+  Products: ''
+  State: Ohio
+  Street: 146 S Chillicothe Rd
+  Twitter: null
+  Type: farmers market
+  Website: https://nfmd.org/oh/aurora/10000223/
+  Youtube: null
+  Zip: '44202'
+- Address: 7232 E Main St, Reynoldsburg, Ohio, 43068
+  Blog: null
+  City: Reynoldsburg
+  ContactEmail: null
+  ContactName: null
+  ContactPhone: null
+  Dates: .nan
+  Description: null
+  Facebook: null
+  Image: default-farmersmarket-4-3.jpg
+  Instagram: null
+  Latitude: '39.955607997233'
+  ListingID: '312314'
+  Longitude: '-82.805759991894'
+  ModifyDate: Apr 4th, 2024
+  Name: Reynoldsburg Farmers' Market
+  Pinterest: null
+  Products: ''
+  State: Ohio
+  Street: 7232 E Main St
+  Twitter: null
+  Type: farmers market
+  Website: https://www.facebook.com/reynoldsburgfarmersmarket/
+  Youtube: null
+  Zip: '43068'
+- Address: 4 E Ottawa St, Richwood, Ohio, 43344
+  Blog: null
+  City: Richwood
+  ContactEmail: null
+  ContactName: null
+  ContactPhone: null
+  Dates: .nan
+  Description: Located on Franklin St. in front of the library
+  Facebook: null
+  Image: default-farmersmarket-4-3.jpg
+  Instagram: null
+  Latitude: '40.426296997083'
+  ListingID: '312315'
+  Longitude: '-83.29608297129'
+  ModifyDate: Apr 4th, 2024
+  Name: Richwood Farmers' Market
+  Pinterest: null
+  Products: ''
+  State: Ohio
+  Street: 4 E Ottawa St
+  Twitter: null
+  Type: farmers market
+  Website: https://www.facebook.com/richwoodfarmersmarket/
+  Youtube: null
+  Zip: '43344'
+- Address: 404 Fort Harmar Dr, Marietta, Ohio, 45750
+  Blog: null
+  City: Marietta
+  ContactEmail: null
+  ContactName: null
+  ContactPhone: null
+  Dates: .nan
+  Description: null
+  Facebook: null
+  Image: default-farmersmarket-4-3.jpg
+  Instagram: null
+  Latitude: '39.414051857688'
+  ListingID: '312316'
+  Longitude: '-81.464145798605'
+  ModifyDate: Apr 4th, 2024
+  Name: Rinky Dinks Flea & Farmers Market
+  Pinterest: null
+  Products: ''
+  State: Ohio
+  Street: 404 Fort Harmar Dr
+  Twitter: null
+  Type: farmers market
+  Website: https://www.menupix.com/ohio/restaurants/380009102/Rinky-Dinks-Flea-and-Farmers-Market-Marietta-OH
+  Youtube: null
+  Zip: '45750'
+- Address: 116 Main St, Ripley, Ohio, 45167
+  Blog: null
+  City: Ripley
+  ContactEmail: null
+  ContactName: null
+  ContactPhone: null
+  Dates: .nan
+  Description: null
+  Facebook: null
+  Image: default-farmersmarket-4-3.jpg
+  Instagram: null
+  Latitude: '38.746081012649'
+  ListingID: '312317'
+  Longitude: '-83.844692028987'
+  ModifyDate: Apr 4th, 2024
+  Name: Ripley Farmer's Market
+  Pinterest: null
+  Products: ''
+  State: Ohio
+  Street: 116 Main St
+  Twitter: null
+  Type: farmers market
+  Website: https://nfmd.org/oh/ripley/1005643/
+  Youtube: null
+  Zip: '45167'
+- Address: 1900 Lutz Ln, Zanesville, Ohio, 43701
+  Blog: null
+  City: Zanesville
+  ContactEmail: null
+  ContactName: null
+  ContactPhone: null
+  Dates: .nan
+  Description: null
+  Facebook: null
+  Image: default-farmersmarket-4-3.jpg
+  Instagram: null
+  Latitude: '39.924126993829'
+  ListingID: '312318'
+  Longitude: '-81.978036995036'
+  ModifyDate: Apr 4th, 2024
+  Name: Rittberger Meats Farmers Market
+  Pinterest: null
+  Products: ''
+  State: Ohio
+  Street: 1900 Lutz Ln
+  Twitter: null
+  Type: farmers market
+  Website: https://www.localharvest.org/rittberger-meats-farm-fresh-market-M33847
+  Youtube: null
+  Zip: '43701'
+- Address: 45625 State Route 154, New Waterford, Ohio, 44445
+  Blog: null
+  City: New Waterford
+  ContactEmail: null
+  ContactName: null
+  ContactPhone: null
+  Dates: .nan
+  Description: null
+  Facebook: null
+  Image: default-farmersmarket-4-3.jpg
+  Instagram: null
+  Latitude: '40.792404243675'
+  ListingID: '312319'
+  Longitude: '-80.641190565911'
+  ModifyDate: Apr 4th, 2024
+  Name: Rogers Community Auction & Open Air Market
+  Pinterest: null
+  Products: ''
+  State: Ohio
+  Street: 45625 State Route 154
+  Twitter: null
+  Type: farmers market
+  Website: https://rogersohio.com/
+  Youtube: null
+  Zip: '44445'
+- Address: 41 N Main St, Roseville, Ohio, 43777
+  Blog: null
+  City: Roseville
+  ContactEmail: null
+  ContactName: null
+  ContactPhone: null
+  Dates: .nan
+  Description: null
+  Facebook: null
+  Image: default-farmersmarket-4-3.jpg
+  Instagram: null
+  Latitude: '39.804889014831'
+  ListingID: '312320'
+  Longitude: '-82.072999012691'
+  ModifyDate: Apr 4th, 2024
+  Name: Roseville Community Farmer's Market
+  Pinterest: null
+  Products: ''
+  State: Ohio
+  Street: 41 N Main St
+  Twitter: null
+  Type: farmers market
+  Website: https://www.whiznews.com/roseville-farmers-market-returns/
+  Youtube: null
+  Zip: '43777'
+- Address: 135 W Main St, Saint Paris, Ohio, 43072
+  Blog: null
+  City: Saint Paris
+  ContactEmail: null
+  ContactName: null
+  ContactPhone: null
+  Dates: .nan
+  Description: null
+  Facebook: null
+  Image: default-farmersmarket-4-3.jpg
+  Instagram: null
+  Latitude: '40.128466980592'
+  ListingID: '312321'
+  Longitude: '-83.960363969188'
+  ModifyDate: Apr 4th, 2024
+  Name: St. Paris Farmers Market
+  Pinterest: null
+  Products: ''
+  State: Ohio
+  Street: 135 W Main St
+  Twitter: null
+  Type: farmers market
+  Website: https://stparisfarmersmarket-farmersmarket.business.site/
+  Youtube: null
+  Zip: '43072'
+- Address: 6610 Parkland Ave, Cincinnati, Ohio, 45233
+  Blog: null
+  City: Cincinnati
+  ContactEmail: null
+  ContactName: null
+  ContactPhone: null
+  Dates: .nan
+  Description: null
+  Facebook: null
+  Image: default-farmersmarket-4-3.jpg
+  Instagram: null
+  Latitude: '39.113357988705'
+  ListingID: '312322'
+  Longitude: '-84.691644033739'
+  ModifyDate: Apr 4th, 2024
+  Name: Sayler Park Farmers' Market
+  Pinterest: null
+  Products: ''
+  State: Ohio
+  Street: 6610 Parkland Ave
+  Twitter: null
+  Type: farmers market
+  Website: https://www.facebook.com/Saylerparkfarmersmarket
+  Youtube: null
+  Zip: '45233'
+- Address: Blackfork Ct, Shelby, Ohio, 44875
+  Blog: null
+  City: Shelby
+  ContactEmail: null
+  ContactName: null
+  ContactPhone: null
+  Dates: .nan
+  Description: null
+  Facebook: null
+  Image: default-farmersmarket-4-3.jpg
+  Instagram: null
+  Latitude: '40.867075007813'
+  ListingID: '312323'
+  Longitude: '-82.655345021121'
+  ModifyDate: Apr 4th, 2024
+  Name: Shelby Farmers' Market
+  Pinterest: null
+  Products: ''
+  State: Ohio
+  Street: Blackfork Ct
+  Twitter: null
+  Type: farmers market
+  Website: https://www.facebook.com/Shelby-Farmers-Market-269675866394028/
+  Youtube: null
+  Zip: '44875'
+- Address: 5300 Philadelphia Dr, Dayton, Ohio, 45415
+  Blog: null
+  City: Dayton
+  ContactEmail: null
+  ContactName: null
+  ContactPhone: null
+  Dates: .nan
+  Description: null
+  Facebook: null
+  Image: default-farmersmarket-4-3.jpg
+  Instagram: null
+  Latitude: '39.818487982181'
+  ListingID: '312324'
+  Longitude: '-84.234705001225'
+  ModifyDate: Apr 4th, 2024
+  Name: Shiloh Farmers' Market
+  Pinterest: null
+  Products: ''
+  State: Ohio
+  Street: 5300 Philadelphia Dr
+  Twitter: null
+  Type: farmers market
+  Website: https://www.facebook.com/ShilohFarmersMarket/
+  Youtube: null
+  Zip: '45415'
+- Address: W North St & OH-66, Spencerville, Ohio, 45887
+  Blog: null
+  City: Spencerville
+  ContactEmail: null
+  ContactName: null
+  ContactPhone: null
+  Dates: .nan
+  Description: null
+  Facebook: null
+  Image: default-farmersmarket-4-3.jpg
+  Instagram: null
+  Latitude: '40.714199990367'
+  ListingID: '312325'
+  Longitude: '-84.349080009549'
+  ModifyDate: Apr 4th, 2024
+  Name: Spencerville OH Farmers Market
+  Pinterest: null
+  Products: ''
+  State: Ohio
+  Street: W North St & OH-66
+  Twitter: null
+  Type: farmers market
+  Website: https://www.givinggarden.io/farmers-markets/7097/ohio/spencerville/spencerville-oh-farmers-market
+  Youtube: null
+  Zip: '45887'
+- Address: 11494 Walnut St, Cincinnati, Ohio, 45246
+  Blog: null
+  City: Cincinnati
+  ContactEmail: null
+  ContactName: null
+  ContactPhone: null
+  Dates: .nan
+  Description: null
+  Facebook: null
+  Image: default-farmersmarket-4-3.jpg
+  Instagram: null
+  Latitude: '39.284183019439'
+  ListingID: '312327'
+  Longitude: '-84.483864030095'
+  ModifyDate: Apr 4th, 2024
+  Name: Springdale Farmers' Market
+  Pinterest: null
+  Products: ''
+  State: Ohio
+  Street: 11494 Walnut St
+  Twitter: null
+  Type: farmers market
+  Website: https://www.eatwellguide.org/listings/76454/locations/32385?latitude=39.3030397&longitude=-84.5227361
+  Youtube: null
+  Zip: '45246'
+- Address: 117 S Fountain Ave, Springfield, Ohio, 45502
+  Blog: null
+  City: Springfield
+  ContactEmail: null
+  ContactName: null
+  ContactPhone: null
+  Dates: .nan
+  Description: null
+  Facebook: null
+  Image: default-farmersmarket-4-3.jpg
+  Instagram: null
+  Latitude: '39.922841000335'
+  ListingID: '312328'
+  Longitude: '-83.811488041566'
+  ModifyDate: Apr 4th, 2024
+  Name: Springfield Farmers Market
+  Pinterest: null
+  Products: ''
+  State: Ohio
+  Street: 117 S Fountain Ave
+  Twitter: null
+  Type: farmers market
+  Website: https://www.facebook.com/SpringfieldFarmMarket/
+  Youtube: null
+  Zip: '45502'
+- Address: 1500 Superior Ave NE, Canton, Ohio, 44705
+  Blog: null
+  City: Canton
+  ContactEmail: null
+  ContactName: null
+  ContactPhone: null
+  Dates: .nan
+  Description: null
+  Facebook: null
+  Image: default-farmersmarket-4-3.jpg
+  Instagram: null
+  Latitude: '40.81257901658'
+  ListingID: '312330'
+  Longitude: '-81.342971036836'
+  ModifyDate: Apr 4th, 2024
+  Name: StarkFresh Corridor Farmers' Market
+  Pinterest: null
+  Products: ''
+  State: Ohio
+  Street: 1500 Superior Ave NE
+  Twitter: null
+  Type: farmers market
+  Website: https://www.eatwellguide.org/listings/73108/locations/28699
+  Youtube: null
+  Zip: '44705'
+- Address: 1220 W Wooster St, Bowling Green, Ohio, 43402
+  Blog: null
+  City: Bowling Green
+  ContactEmail: null
+  ContactName: null
+  ContactPhone: null
+  Dates: .nan
+  Description: null
+  Facebook: null
+  Image: default-farmersmarket-4-3.jpg
+  Instagram: null
+  Latitude: '41.372712981595'
+  ListingID: '312332'
+  Longitude: '-83.672195982035'
+  ModifyDate: Apr 4th, 2024
+  Name: Stimmel's Saturday Farmer's Market
+  Pinterest: null
+  Products: ''
+  State: Ohio
+  Street: 1220 W Wooster St
+  Twitter: null
+  Type: farmers market
+  Website: https://nfmd.org/oh/bowling-green/1009177/
+  Youtube: null
+  Zip: '43402'
+- Address: 18100 Royalton Rd, Strongsville, Ohio, 44136
+  Blog: null
+  City: Strongsville
+  ContactEmail: null
+  ContactName: null
+  ContactPhone: null
+  Dates: .nan
+  Description: null
+  Facebook: null
+  Image: default-farmersmarket-4-3.jpg
+  Instagram: null
+  Latitude: '41.318654986712'
+  ListingID: '312333'
+  Longitude: '-81.827186039568'
+  ModifyDate: Apr 4th, 2024
+  Name: Strongsville Farmers' Market
+  Pinterest: null
+  Products: ''
+  State: Ohio
+  Street: 18100 Royalton Rd
+  Twitter: null
+  Type: farmers market
+  Website: http://ohioproud.org/farm-markets-all/farmers-market-search/find-a-farmers-market/#!biz/id/57f56c59178f4e557a7b26fa/Contact
+  Youtube: null
+  Zip: '44136'
+- Address: 7125 N West St, Lima, Ohio, 45807
+  Blog: null
+  City: Lima
+  ContactEmail: null
+  ContactName: null
+  ContactPhone: null
+  Dates: .nan
+  Description: null
+  Facebook: null
+  Image: default-farmersmarket-4-3.jpg
+  Instagram: null
+  Latitude: '40.840421016719'
+  ListingID: '312334'
+  Longitude: '-84.138316970383'
+  ModifyDate: Apr 4th, 2024
+  Name: Swiss Country Market
+  Pinterest: null
+  Products: ''
+  State: Ohio
+  Street: 7125 N West St
+  Twitter: null
+  Type: farmers market
+  Website: https://yellow.place/en/swiss-country-market-elida-usa
+  Youtube: null
+  Zip: '45807'
+- Address: 46 N Munroe Rd, Tallmadge, Ohio, 44278
+  Blog: null
+  City: Tallmadge
+  ContactEmail: null
+  ContactName: null
+  ContactPhone: null
+  Dates: .nan
+  Description: null
+  Facebook: null
+  Image: default-farmersmarket-4-3.jpg
+  Instagram: null
+  Latitude: '41.104848981418'
+  ListingID: '312336'
+  Longitude: '-81.412723977777'
+  ModifyDate: Apr 4th, 2024
+  Name: Tallmadge Farmers Market
+  Pinterest: null
+  Products: ''
+  State: Ohio
+  Street: 46 N Munroe Rd
+  Twitter: null
+  Type: farmers market
+  Website: https://tallmadge-ohio.org/190/Farmers-Market
+  Youtube: null
+  Zip: '44278'
+- Address: 100 E Court St, Sidney, Ohio, 45365
+  Blog: null
+  City: Sidney
+  ContactEmail: null
+  ContactName: null
+  ContactPhone: null
+  Dates: .nan
+  Description: null
+  Facebook: null
+  Image: default-farmersmarket-4-3.jpg
+  Instagram: null
+  Latitude: '40.285014989919'
+  ListingID: '312337'
+  Longitude: '-84.15588099703'
+  ModifyDate: Apr 4th, 2024
+  Name: The Great Sidney Farmers' Market
+  Pinterest: null
+  Products: ''
+  State: Ohio
+  Street: 100 E Court St
+  Twitter: null
+  Type: farmers market
+  Website: https://www.facebook.com/sidneyfarmersmarketoh/
+  Youtube: null
+  Zip: '45365'
+- Address: 8625 Brandt Pike, Dayton, Ohio, 45424
+  Blog: null
+  City: Dayton
+  ContactEmail: null
+  ContactName: null
+  ContactPhone: null
+  Dates: .nan
+  Description: null
+  Facebook: null
+  Image: default-farmersmarket-4-3.jpg
+  Instagram: null
+  Latitude: '39.878701018113'
+  ListingID: '312338'
+  Longitude: '-84.102129025432'
+  ModifyDate: Apr 4th, 2024
+  Name: The Heights Farmers Market
+  Pinterest: null
+  Products: ''
+  State: Ohio
+  Street: 8625 Brandt Pike
+  Twitter: null
+  Type: farmers market
+  Website: https://www.hhoh.org/542/Farmers-Market-at-The-Heights
+  Youtube: null
+  Zip: '45424'
+- Address: 292 Main St, Westlake, Ohio, 44145
+  Blog: null
+  City: Westlake
+  ContactEmail: null
+  ContactName: null
+  ContactPhone: null
+  Dates: .nan
+  Description: null
+  Facebook: null
+  Image: default-farmersmarket-4-3.jpg
+  Instagram: null
+  Latitude: '41.457261524551'
+  ListingID: '312339'
+  Longitude: '-81.951712367278'
+  ModifyDate: Apr 4th, 2024
+  Name: The Indoor Winter Market at Crocker Park
+  Pinterest: null
+  Products: ''
+  State: Ohio
+  Street: 292 Main St
+  Twitter: null
+  Type: farmers market
+  Website: http://www.northunionfarmersmarket.org/markets/crocker-park/
+  Youtube: null
+  Zip: '44145'
+- Address: 104 S Michigan Ave, Edgerton, Ohio, 43517
+  Blog: null
+  City: Edgerton
+  ContactEmail: null
+  ContactName: null
+  ContactPhone: null
+  Dates: .nan
+  Description: null
+  Facebook: null
+  Image: default-farmersmarket-4-3.jpg
+  Instagram: null
+  Latitude: '41.448635681773'
+  ListingID: '312340'
+  Longitude: '-84.748157490882'
+  ModifyDate: Apr 4th, 2024
+  Name: The Market on Michigan Avenue
+  Pinterest: null
+  Products: ''
+  State: Ohio
+  Street: 104 S Michigan Ave
+  Twitter: null
+  Type: farmers market
+  Website: https://www.localharvest.org/the-market-on-michigan-avenue-M72268
+  Youtube: null
+  Zip: '43517'
+- Address: 236 Pennsylvania Ave, Delaware, Ohio, 43015
+  Blog: null
+  City: Delaware
+  ContactEmail: null
+  ContactName: null
+  ContactPhone: null
+  Dates: .nan
+  Description: null
+  Facebook: null
+  Image: default-farmersmarket-4-3.jpg
+  Instagram: null
+  Latitude: '40.314262006578'
+  ListingID: '312341'
+  Longitude: '-83.075214039104'
+  ModifyDate: Apr 4th, 2024
+  Name: The Original Delaware Farmer's Market
+  Pinterest: null
+  Products: ''
+  State: Ohio
+  Street: 236 Pennsylvania Ave
+  Twitter: null
+  Type: farmers market
+  Website: null
+  Youtube: null
+  Zip: '43015'
+- Address: 1555 S James Rd, Columbus, Ohio, 43227
+  Blog: null
+  City: Columbus
+  ContactEmail: null
+  ContactName: null
+  ContactPhone: null
+  Dates: .nan
+  Description: null
+  Facebook: null
+  Image: default-farmersmarket-4-3.jpg
+  Instagram: null
+  Latitude: '39.93895001241'
+  ListingID: '312343'
+  Longitude: '-82.915980006995'
+  ModifyDate: Apr 4th, 2024
+  Name: The Raven's Farmers' Market
+  Pinterest: null
+  Products: ''
+  State: Ohio
+  Street: 1555 S James Rd
+  Twitter: null
+  Type: farmers market
+  Website: https://www.eatwellguide.org/listings/76473/locations/32407
+  Youtube: null
+  Zip: '43227'
+- Address: 7590 Auburn Rd, Concord Township, Ohio, 44077
+  Blog: null
+  City: Concord Township
+  ContactEmail: null
+  ContactName: null
+  ContactPhone: null
+  Dates: .nan
+  Description: null
+  Facebook: null
+  Image: default-farmersmarket-4-3.jpg
+  Instagram: null
+  Latitude: '41.663274002105'
+  ListingID: '312344'
+  Longitude: '-81.246880982652'
+  ModifyDate: Apr 4th, 2024
+  Name: TriPoint Farmers' Market
+  Pinterest: null
+  Products: ''
+  State: Ohio
+  Street: 7590 Auburn Rd
+  Twitter: null
+  Type: farmers market
+  Website: https://www.localharvest.org/tripoint-farmers-market-M38736
+  Youtube: null
+  Zip: '44077'
+- Address: 259 S Tuscarawas Ave, Dover, Ohio, 44622
+  Blog: null
+  City: Dover
+  ContactEmail: null
+  ContactName: null
+  ContactPhone: null
+  Dates: .nan
+  Description: null
+  Facebook: null
+  Image: default-farmersmarket-4-3.jpg
+  Instagram: null
+  Latitude: '40.513843329011'
+  ListingID: '312345'
+  Longitude: '-81.472116072678'
+  ModifyDate: Apr 4th, 2024
+  Name: Tuscarawas Valley Farmers' Market
+  Pinterest: null
+  Products: ''
+  State: Ohio
+  Street: 259 S Tuscarawas Ave
+  Twitter: null
+  Type: farmers market
+  Website: https://www.tvffm.org/
+  Youtube: null
+  Zip: '44622'
+- Address: 10075 Ravenna Rd, Twinsburg, Ohio, 44087
+  Blog: null
+  City: Twinsburg
+  ContactEmail: null
+  ContactName: null
+  ContactPhone: null
+  Dates: .nan
+  Description: null
+  Facebook: null
+  Image: default-farmersmarket-4-3.jpg
+  Instagram: null
+  Latitude: '41.318828995022'
+  ListingID: '312346'
+  Longitude: '-81.447455986146'
+  ModifyDate: Apr 4th, 2024
+  Name: Twinsburg Farmers' Market
+  Pinterest: null
+  Products: ''
+  State: Ohio
+  Street: 10075 Ravenna Rd
+  Twitter: null
+  Type: farmers market
+  Website: null
+  Youtube: null
+  Zip: '44087'
+- Address: 3581 W Galbraith Rd, Cincinnati, Ohio, 45239
+  Blog: null
+  City: Cincinnati
+  ContactEmail: null
+  ContactName: null
+  ContactPhone: null
+  Dates: .nan
+  Description: null
+  Facebook: null
+  Image: default-farmersmarket-4-3.jpg
+  Instagram: null
+  Latitude: '39.220200013006'
+  ListingID: '312349'
+  Longitude: '-84.600186992716'
+  ModifyDate: Apr 4th, 2024
+  Name: Uptown Farmers Market At Garden Park
+  Pinterest: null
+  Products: ''
+  State: Ohio
+  Street: 3581 W Galbraith Rd
+  Twitter: null
+  Type: farmers market
+  Website: https://www.localharvest.org/uptown-farmers-market-at-garden-park-M29795
+  Youtube: null
+  Zip: '45239'
+- Address: 6615 Center Rd, Valley City, Ohio, 44280
+  Blog: null
+  City: Valley City
+  ContactEmail: null
+  ContactName: null
+  ContactPhone: null
+  Dates: .nan
+  Description: null
+  Facebook: null
+  Image: default-farmersmarket-4-3.jpg
+  Instagram: null
+  Latitude: '41.238034992124'
+  ListingID: '312350'
+  Longitude: '-81.925646998885'
+  ModifyDate: Apr 4th, 2024
+  Name: Valley City Farmers Market
+  Pinterest: null
+  Products: ''
+  State: Ohio
+  Street: 6615 Center Rd
+  Twitter: null
+  Type: farmers market
+  Website: https://www.localharvest.org/valley-city-farmers-market-M54013
+  Youtube: null
+  Zip: '44280'
+- Address: Kenbrook Dr & S Perry St, Vandalia, Ohio, 45377
+  Blog: null
+  City: Vandalia
+  ContactEmail: null
+  ContactName: null
+  ContactPhone: null
+  Dates: .nan
+  Description: null
+  Facebook: null
+  Image: default-farmersmarket-4-3.jpg
+  Instagram: null
+  Latitude: '39.890029998445'
+  ListingID: '312351'
+  Longitude: '-84.197209982293'
+  ModifyDate: Apr 4th, 2024
+  Name: Vandalia Community Farmers Market
+  Pinterest: null
+  Products: ''
+  State: Ohio
+  Street: Kenbrook Dr & S Perry St
+  Twitter: null
+  Type: farmers market
+  Website: https://nfmd.org/oh/vandalia/1010596/
+  Youtube: null
+  Zip: '45377'
+- Address: 960 Main St, Grafton, Ohio, 44044
+  Blog: null
+  City: Grafton
+  ContactEmail: null
+  ContactName: null
+  ContactPhone: null
+  Dates: .nan
+  Description: null
+  Facebook: null
+  Image: default-farmersmarket-4-3.jpg
+  Instagram: null
+  Latitude: '41.273252983239'
+  ListingID: '312352'
+  Longitude: '-82.05524999744'
+  ModifyDate: Apr 4th, 2024
+  Name: Village of Grafton Farmers' Market
+  Pinterest: null
+  Products: ''
+  State: Ohio
+  Street: 960 Main St
+  Twitter: null
+  Type: farmers market
+  Website: https://www.clevescene.com/cleveland/grafton-farmers-market/Location?oid=1434101
+  Youtube: null
+  Zip: '44044'
+- Address: 10 E Main St, Wakeman, Ohio, 44889
+  Blog: null
+  City: Wakeman
+  ContactEmail: null
+  ContactName: null
+  ContactPhone: null
+  Dates: .nan
+  Description: null
+  Facebook: null
+  Image: default-farmersmarket-4-3.jpg
+  Instagram: null
+  Latitude: '41.254480998616'
+  ListingID: '312353'
+  Longitude: '-82.401806992666'
+  ModifyDate: Apr 4th, 2024
+  Name: Wakeman Farmers' Market
+  Pinterest: null
+  Products: ''
+  State: Ohio
+  Street: 10 E Main St
+  Twitter: null
+  Type: farmers market
+  Website: https://www.eatwellguide.org/listings/76503/locations/32465
+  Youtube: null
+  Zip: '44889'
+- Address: Perkins Park
+  Blog: null
+  City: Warren
+  ContactEmail: null
+  ContactName: null
+  ContactPhone: null
+  Dates: .nan
+  Description: null
+  Facebook: null
+  Image: default-farmersmarket-4-3.jpg
+  Instagram: null
+  Latitude: '41.23835'
+  ListingID: '312354'
+  Longitude: '-80.82531'
+  ModifyDate: Apr 4th, 2024
+  Name: Warren County Farmers' Market
+  Pinterest: null
+  Products: ''
+  State: Ohio
+  Street: Perkins Dr NW
+  Twitter: null
+  Type: farmers market
+  Website: https://www.facebook.com/WarrenOhioFarmersMarket/
+  Youtube: null
+  Zip: '44483'
+- Address: 115 Willard Memorial Sq, Wellington, Ohio, 44090
+  Blog: null
+  City: Wellington
+  ContactEmail: null
+  ContactName: null
+  ContactPhone: null
+  Dates: .nan
+  Description: null
+  Facebook: null
+  Image: default-farmersmarket-4-3.jpg
+  Instagram: null
+  Latitude: '41.169261015565'
+  ListingID: '312356'
+  Longitude: '-82.216875973259'
+  ModifyDate: Apr 4th, 2024
+  Name: Wellington Farmers' Market
+  Pinterest: null
+  Products: ''
+  State: Ohio
+  Street: 115 Willard Memorial Sq
+  Twitter: null
+  Type: farmers market
+  Website: https://nfmd.org/oh/wellington/1008196/
+  Youtube: null
+  Zip: '44090'
+- Address: 3000 W Elm St, Lima, Ohio, 45805
+  Blog: null
+  City: Lima
+  ContactEmail: null
+  ContactName: null
+  ContactPhone: null
+  Dates: .nan
+  Description: null
+  Facebook: null
+  Image: default-farmersmarket-4-3.jpg
+  Instagram: null
+  Latitude: '40.73839800001'
+  ListingID: '312357'
+  Longitude: '-84.159287989214'
+  ModifyDate: Apr 4th, 2024
+  Name: West Elm Street Farmers Market
+  Pinterest: null
+  Products: ''
+  State: Ohio
+  Street: 3000 W Elm St
+  Twitter: null
+  Type: farmers market
+  Website: https://www.landcan.org/local-resources/West-Elm-Street-Farmers-Market/48060
+  Youtube: null
+  Zip: '45805'
+- Address: 55 E Main St, West Jefferson, Ohio, 43162
+  Blog: null
+  City: West Jefferson
+  ContactEmail: null
+  ContactName: null
+  ContactPhone: null
+  Dates: .nan
+  Description: null
+  Facebook: null
+  Image: default-farmersmarket-4-3.jpg
+  Instagram: null
+  Latitude: '39.944662991885'
+  ListingID: '312358'
+  Longitude: '-83.267341006206'
+  ModifyDate: Apr 4th, 2024
+  Name: West Jefferson Farmer's Market+
+  Pinterest: null
+  Products: ''
+  State: Ohio
+  Street: 55 E Main St
+  Twitter: null
+  Type: farmers market
+  Website: https://nfmd.org/oh/west-jefferson/1009539/
+  Youtube: null
+  Zip: '43162'
+- Address: 1555 W Lane Ave, Columbus, Ohio, 43221
+  Blog: null
+  City: Columbus
+  ContactEmail: null
+  ContactName: null
+  ContactPhone: null
+  Dates: .nan
+  Description: null
+  Facebook: null
+  Image: default-farmersmarket-4-3.jpg
+  Instagram: null
+  Latitude: '40.006556012671'
+  ListingID: '312359'
+  Longitude: '-83.053043989024'
+  ModifyDate: Apr 4th, 2024
+  Name: Wild Oats Farmer's Market
+  Pinterest: null
+  Products: ''
+  State: Ohio
+  Street: 1555 W Lane Ave
+  Twitter: null
+  Type: farmers market
+  Website: https://bestfarmersmarkets.org/place/wild-oats-farmers-market-columbus-oh.html
+  Youtube: null
+  Zip: '43221'
+- Address: 43506, Bryan, Ohio
+  Blog: null
+  City: Bryan
+  ContactEmail: null
+  ContactName: null
+  ContactPhone: null
+  Dates: .nan
+  Description: null
+  Facebook: null
+  Image: default-farmersmarket-4-3.jpg
+  Instagram: null
+  Latitude: '41.47594'
+  ListingID: '312360'
+  Longitude: '-84.54906'
+  ModifyDate: Apr 4th, 2024
+  Name: Williams County Farmers' Market
+  Pinterest: null
+  Products: ''
+  State: Ohio
+  Street: ''
+  Twitter: null
+  Type: farmers market
+  Website: https://www.facebook.com/WilliamsCoFarmersMarket/
+  Youtube: null
+  Zip: '43506'
+- Address: 1 E Spaulding St, Willoughby, OH 44094, USA
+  Blog: null
+  City: Willoughby
+  ContactEmail: null
+  ContactName: null
+  ContactPhone: null
+  Dates: .nan
+  Description: null
+  Facebook: null
+  Image: default-farmersmarket-4-3.jpg
+  Instagram: null
+  Latitude: '41.6394533'
+  ListingID: '312361'
+  Longitude: '-81.4051327'
+  ModifyDate: Apr 4th, 2024
+  Name: Willoughby Outdoor Market
+  Pinterest: null
+  Products: ''
+  State: Ohio
+  Street: 1 East Spaulding Street
+  Twitter: null
+  Type: farmers market
+  Website: https://www.facebook.com/WilloughbyOutdoorMarket/
+  Youtube: null
+  Zip: '44094'
+- Address: 47029 Moore Ridge Rd, Woodsfield, Ohio, 43793
+  Blog: null
+  City: Woodsfield
+  ContactEmail: null
+  ContactName: null
+  ContactPhone: null
+  Dates: .nan
+  Description: null
+  Facebook: null
+  Image: default-farmersmarket-4-3.jpg
+  Instagram: null
+  Latitude: '39.776580980875'
+  ListingID: '312362'
+  Longitude: '-81.110814028005'
+  ModifyDate: Apr 4th, 2024
+  Name: Woodsfield Farmers Market
+  Pinterest: null
+  Products: ''
+  State: Ohio
+  Street: 47029 Moore Ridge Rd
+  Twitter: null
+  Type: farmers market
+  Website: https://www.facebook.com/people/Woodsfield-Ohio-Farmers-Market/100063583390761/?paipv=0&eav=AfY4DGWuTCJB-fzpYekTLcAXMHmQb-er2sPEqFBOqP92H6ITNf1WL1B2HBhqaSF2QhQ&_rdr
+  Youtube: null
+  Zip: '43793'
+- Address: 7227 N High St, Worthington, Ohio, 43085
+  Blog: null
+  City: Worthington
+  ContactEmail: null
+  ContactName: null
+  ContactPhone: null
+  Dates: .nan
+  Description: null
+  Facebook: null
+  Image: default-farmersmarket-4-3.jpg
+  Instagram: null
+  Latitude: '40.108651993847'
+  ListingID: '312363'
+  Longitude: '-83.019344966402'
+  ModifyDate: Apr 4th, 2024
+  Name: Worthington Farmers Market
+  Pinterest: null
+  Products: ''
+  State: Ohio
+  Street: 7227 N High St
+  Twitter: null
+  Type: farmers market
+  Website: https://www.worthingtonfarmersmarket.com/
+  Youtube: null
+  Zip: '43085'
+- Address: 5742 County Highway 43, Upper Sandusky, Ohio, 43351
+  Blog: null
+  City: Upper Sandusky
+  ContactEmail: null
+  ContactName: null
+  ContactPhone: null
+  Dates: .nan
+  Description: null
+  Facebook: null
+  Image: default-farmersmarket-4-3.jpg
+  Instagram: null
+  Latitude: '40.89121899609'
+  ListingID: '312364'
+  Longitude: '-83.221172980602'
+  ModifyDate: Apr 4th, 2024
+  Name: Wyandot County Farmers Market
+  Pinterest: null
+  Products: ''
+  State: Ohio
+  Street: 5742 County Highway 43
+  Twitter: null
+  Type: farmers market
+  Website: https://www.facebook.com/Wyandotcofarmersmarkry/
+  Youtube: null
+  Zip: '43351'
+- Address: 1864 Shyville Rd, Piketon, Ohio, 45661
+  Blog: null
+  City: Piketon
+  ContactEmail: null
+  ContactName: null
+  ContactPhone: null
+  Dates: .nan
+  Description: null
+  Facebook: null
+  Image: default-farmersmarket-4-3.jpg
+  Instagram: null
+  Latitude: '39.049791981955'
+  ListingID: '312366'
+  Longitude: '-82.993258974977'
+  ModifyDate: Apr 4th, 2024
+  Name: Your Ohio MarketMaker Team
+  Pinterest: null
+  Products: ''
+  State: Ohio
+  Street: 1864 Shyville Rd
+  Twitter: null
+  Type: farmers market
+  Website: https://southcenters.osu.edu/direct-marketing
+  Youtube: null
+  Zip: '45661'
+- Address: 2620 Ford Rd, Mount Perry, Ohio, 43760
+  Blog: null
+  City: Mount Perry
+  ContactEmail: null
+  ContactName: null
+  ContactPhone: null
+  Dates: .nan
+  Description: null
+  Facebook: null
+  Image: default-farmersmarket-4-3.jpg
+  Instagram: null
+  Latitude: '39.900532984128'
+  ListingID: '312367'
+  Longitude: '-82.139192997543'
+  ModifyDate: Apr 4th, 2024
+  Name: Zayneville Farmers Market
+  Pinterest: null
+  Products: ''
+  State: Ohio
+  Street: 2620 Ford Rd
+  Twitter: null
+  Type: farmers market
+  Website: null
+  Youtube: null
+  Zip: '43760'
+- Address: 11836 South Ave, North Lima, Ohio, 44452
+  Blog: null
+  City: North Lima
+  ContactEmail: null
+  ContactName: null
+  ContactPhone: null
+  Dates: .nan
+  Description: null
+  Facebook: null
+  Image: default-farmersmarket-4-3.jpg
+  Instagram: null
+  Latitude: '40.946798013033'
+  ListingID: '312368'
+  Longitude: '-80.661431029747'
+  ModifyDate: Apr 4th, 2024
+  Name: Zimmerman Farms at Old School Marketplace
+  Pinterest: null
+  Products: ''
+  State: Ohio
+  Street: 11836 South Ave
+  Twitter: null
+  Type: farmers market
+  Website: https://www.localharvest.org/zimmerman-farms-at-old-school-marketplace-M66258
+  Youtube: null
+  Zip: '44452'
+- Address: 2049 E 100th St, Cleveland, Ohio, 44106
+  Blog: null
+  City: Cleveland
+  ContactEmail: northunionfarmersmarket@yahoo.com
+  ContactName: null
+  ContactPhone: 216-751-7656
+  Dates: .nan
+  Description: The Cleveland Clinic Main Campus Market has become a vibrant community
+    gathering place filled with local farmers and artisan food producers. Health screenings
+    and live music make this an educational and fun destination. Located at Crile
+    Mall (across the street from the Crile Building at 2049 E. 100th Street between
+    Carnegie Avenue and Euclid Avenue). You will find farms and food producers with
+    fresh produce, meats, dairy, baked goods and more.
+  Facebook: null
+  Image: default-farmersmarket-4-3.jpg
+  Instagram: null
+  Latitude: '41.503192014761'
+  ListingID: '313836'
+  Longitude: '-81.616662974291'
+  ModifyDate: Apr 4th, 2024
+  Name: North Union Farmers Market - Cleveland Clinic Main Campus
+  Pinterest: null
+  Products: ''
+  State: Ohio
+  Street: 2049 E 100th St
+  Twitter: null
+  Type: farmers market
+  Website: http://www.northunionfarmersmarket.org/markets/cleveland-clinic-main-campus/
+  Youtube: null
+  Zip: '44106'
+- Address: 2074 Adelbert Rd, Cleveland, Ohio, 44106
+  Blog: null
+  City: Cleveland
+  ContactEmail: northunionfarmersmarket@yahoo.com
+  ContactName: null
+  ContactPhone: 216-751-7656
+  Dates: .nan
+  Description: Introducing our market at University Hospitals Cleveland Medical Center
+    at Lakeside! Locally sourced lunch is served while you shop at this world-class
+    medical and educational facility, Free parking 30 steps from farm-fresh produce!
+  Facebook: null
+  Image: default-farmersmarket-4-3.jpg
+  Instagram: null
+  Latitude: '41.504072994694'
+  ListingID: '313837'
+  Longitude: '-81.607329976562'
+  ModifyDate: Apr 4th, 2024
+  Name: North Union Farmers Market - University Hospitals
+  Pinterest: null
+  Products: ''
+  State: Ohio
+  Street: 2074 Adelbert Rd
+  Twitter: null
+  Type: farmers market
+  Website: http://www.northunionfarmersmarket.org/markets/university-hospitals/
+  Youtube: null
+  Zip: '44106'
+- Address: 489 W Hopocan Ave, Barberton, Ohio, 44203
+  Blog: null
+  City: Barberton
+  ContactEmail: 'bhurbean@gmail.com '
+  ContactName: null
+  ContactPhone: 330-807-1374 or 330-
+  Dates: .nan
+  Description: "Seasonal Farmers Market located in the parking lot on West Hopocan\
+    \ Avenue, across from McDonald\u2019s. "
+  Facebook: null
+  Image: default-farmersmarket-4-3.jpg
+  Instagram: null
+  Latitude: '41.018072017943'
+  ListingID: '313838'
+  Longitude: '-81.607338023189'
+  ModifyDate: Apr 4th, 2024
+  Name: "Barberton Farmers\u2019 Market"
+  Pinterest: null
+  Products: ''
+  State: Ohio
+  Street: 489 W Hopocan Ave
+  Twitter: null
+  Type: farmers market
+  Website: www.Barbertonfarmersmarket.com
+  Youtube: null
+  Zip: '44203'
+- Address: 292 Main St, Westlake, Ohio, 44145
+  Blog: null
+  City: Westlake
+  ContactEmail: northunionfarmersmarket@yahoo.com
+  ContactName: null
+  ContactPhone: 216-751-7656
+  Dates: .nan
+  Description: "Support your local farms year-round at Crocker Park\u2019s Winter\
+    \ Farmers Market! Items to look forward to include antibiotic and hormone-free\
+    \ beef, pork, poultry and dairy products, organic maple syrup, honey, farm-fresh\
+    \ eggs, cheeses, winter greens, herbs, apples, potatoes, lettuces, organic grains,\
+    \ specialty goods, and root vegetables. Free parking is available and within close\
+    \ proximity to the market.  We look forward to seeing you soon!"
+  Facebook: null
+  Image: default-farmersmarket-4-3.jpg
+  Instagram: null
+  Latitude: '41.457261524551'
+  ListingID: '313839'
+  Longitude: '-81.951712367278'
+  ModifyDate: Apr 4th, 2024
+  Name: North Union Farmers Market - Crocker Park Indoor Winter Market
+  Pinterest: null
+  Products: ''
+  State: Ohio
+  Street: 292 Main St
+  Twitter: null
+  Type: farmers market
+  Website: http://www.northunionfarmersmarket.org/markets/crocker-park-2/
+  Youtube: null
+  Zip: '44145'
+- Address: 3441 Tuttle Rd, Beachwood, Ohio, 44122
+  Blog: null
+  City: Beachwood
+  ContactEmail: northunionfarmersmarket@yahoo.com
+  ContactName: null
+  ContactPhone: 216-751-7656
+  Dates: .nan
+  Description: 'Join us in The Van Aken District in the Van Aken Market Hall at the
+    Indoor Winter Farmers Market and enjoy the magnificence of Ohio produce and products.
+    Items to look forward to, including antibiotic and hormone free beef, pork, poultry
+    and dairy products, organic maple syrup, honey, farm-fresh eggs, cheeses, winter
+    greens, herb, apples, potatoes, lettuces, organic grains, specialty goods and
+    root vegetables. Over 20 farms, bakers and artists will participate at the market. '
+  Facebook: null
+  Image: default-farmersmarket-4-3.jpg
+  Instagram: null
+  Latitude: '41.466134184224'
+  ListingID: '313840'
+  Longitude: '-81.537371479387'
+  ModifyDate: Apr 4th, 2024
+  Name: North Union Farmers Market - Van Aken District Indoor Winter Market
+  Pinterest: null
+  Products: ''
+  State: Ohio
+  Street: 3441 Tuttle Rd
+  Twitter: null
+  Type: farmers market
+  Website: http://www.northunionfarmersmarket.org/markets/sunset-market-at-the-van-aken-district/
+  Youtube: null
+  Zip: '44122'
+- Address: 1800 Crocker Rd, Westlake, Ohio, 44145
+  Blog: null
+  City: Westlake
+  ContactEmail: northunionfarmersmarket@yahoo.com
+  ContactName: null
+  ContactPhone: 216-751-7656
+  Dates: .nan
+  Description: Crocker Park Market is conveniently located at Crocker Park in Westlake
+    on the corner of Crocker Road and Detroit Road in front of Fidelity Investments.
+    Find farms and food producers with fresh produce, meats, dairy, baked goods and
+    more.
+  Facebook: null
+  Image: default-farmersmarket-4-3.jpg
+  Instagram: null
+  Latitude: '41.463633865222'
+  ListingID: '313841'
+  Longitude: '-81.951132441537'
+  ModifyDate: Apr 4th, 2024
+  Name: North Union Farmers Market - Crocker Park
+  Pinterest: null
+  Products: ''
+  State: Ohio
+  Street: 1800 Crocker Rd
+  Twitter: null
+  Type: farmers market
+  Website: http://www.northunionfarmersmarket.org/markets/crocker-park/
+  Youtube: null
+  Zip: '44145'
+- Address: 3401 Tuttle Rd, Beachwood, Ohio, 44122
+  Blog: null
+  City: Beachwood
+  ContactEmail: northunionfarmersmarket@yahoo.com
+  ContactName: null
+  ContactPhone: 216-751-7656
+  Dates: .nan
+  Description: Van Aken District Market is located on Tuttle Road. Find farms and
+    food producers with fresh produce, meats, dairy, baked goods and more.
+  Facebook: null
+  Image: default-farmersmarket-4-3.jpg
+  Instagram: null
+  Latitude: '41.465926480357'
+  ListingID: '313842'
+  Longitude: '-81.537367570363'
+  ModifyDate: Apr 4th, 2024
+  Name: North Union Farmers Market - Sunset Market at The Van Aken District
+  Pinterest: null
+  Products: ''
+  State: Ohio
+  Street: 3401 Tuttle Rd
+  Twitter: null
+  Type: farmers market
+  Website: http://www.northunionfarmersmarket.org/markets/sunset-market-at-the-van-aken-district/
+  Youtube: null
+  Zip: '44122'
+- Address: 25389 Cedar Rd, Cleveland, Ohio, 44124
+  Blog: null
+  City: Cleveland
+  ContactEmail: northunionfarmersmarket@yahoo.com
+  ContactName: null
+  ContactPhone: 216-751-7656
+  Dates: .nan
+  Description: Legacy Village Market is located on Cedar Road in the Capital Grille
+    parking lot. You will find farms and food producers with fresh produce, meats,
+    dairy, baked goods and more.
+  Facebook: null
+  Image: default-farmersmarket-4-3.jpg
+  Instagram: null
+  Latitude: '41.501409016317'
+  ListingID: '313843'
+  Longitude: '-81.498747030971'
+  ModifyDate: Apr 4th, 2024
+  Name: North Union Farmers Market - Legacy Village Market
+  Pinterest: null
+  Products: ''
+  State: Ohio
+  Street: 25389 Cedar Rd
+  Twitter: null
+  Type: farmers market
+  Website: http://www.northunionfarmersmarket.org/markets/legacy-village/
+  Youtube: null
+  Zip: '44124'
+- Address: 1645 State Route 54, Urbana, Ohio, 43078
+  Blog: null
+  City: Urbana
+  ContactEmail: null
+  ContactName: null
+  ContactPhone: null
+  Dates: .nan
+  Description: null
+  Facebook: null
+  Image: default-farmersmarket-4-3.jpg
+  Instagram: null
+  Latitude: '40.084770987781'
+  ListingID: '313844'
+  Longitude: '-83.731158982837'
+  ModifyDate: Apr 4th, 2024
+  Name: Champaign County Ohio Virtual Farmers Market
+  Pinterest: null
+  Products: ''
+  State: Ohio
+  Street: 1645 State Route 54
+  Twitter: null
+  Type: farmers market
+  Website: https://champaignoh.locallygrown.net/welcome
+  Youtube: null
+  Zip: '43078'
+- Address: 1105 Bridge St, Ashtabula, Ohio, 44004
+  Blog: null
+  City: Ashtabula
+  ContactEmail: null
+  ContactName: null
+  ContactPhone: null
+  Dates: .nan
+  Description: null
+  Facebook: null
+  Image: default-farmersmarket-4-3.jpg
+  Instagram: null
+  Latitude: '41.899752007751'
+  ListingID: '313846'
+  Longitude: '-80.79974902831'
+  ModifyDate: Apr 4th, 2024
+  Name: Ashtabula Farmers' Market
+  Pinterest: null
+  Products: ''
+  State: Ohio
+  Street: 1105 Bridge St
+  Twitter: null
+  Type: farmers market
+  Website: null
+  Youtube: null
+  Zip: '44004'
+- Address: 8865 Lancaster Kirkersville Rd NW, Baltimore, Ohio, 43105
+  Blog: null
+  City: Baltimore
+  ContactEmail: baltimoreohiofarmersmarket@gmail.com
+  ContactName: Emily Badgett
+  ContactPhone: 740-297-9531
+  Dates: .nan
+  Description: null
+  Facebook: https://www.facebook.com/BaltimoreFarmersMarket
+  Image: default-farmersmarket-4-3.jpg
+  Instagram: null
+  Latitude: '39.85445099876'
+  ListingID: '313847'
+  Longitude: '-82.60231703641'
+  ModifyDate: Apr 4th, 2024
+  Name: Baltimore Farmers Market
+  Pinterest: null
+  Products: ''
+  State: Ohio
+  Street: 8865 Lancaster Kirkersville Rd NW
+  Twitter: null
+  Type: farmers market
+  Website: https://baltimoredowntownrestoration.com/farmers-market-2/
+  Youtube: null
+  Zip: '43105'
+- Address: 100 N High St, Canal Winchester, Ohio, 43110
+  Blog: null
+  City: Canal Winchester
+  ContactEmail: info@destinationcw.org
+  ContactName: Karen Stiles
+  ContactPhone: 614-270-5053
+  Dates: .nan
+  Description: null
+  Facebook: https://www.facebook.com/profile.php?id=100057164332076
+  Image: default-farmersmarket-4-3.jpg
+  Instagram: null
+  Latitude: '39.845634996819'
+  ListingID: '313848'
+  Longitude: '-82.805816988836'
+  ModifyDate: Apr 4th, 2024
+  Name: Canal Winchester Farmers Market
+  Pinterest: null
+  Products: ''
+  State: Ohio
+  Street: 100 N High St
+  Twitter: null
+  Type: farmers market
+  Website: www.thecwfm.com
+  Youtube: null
+  Zip: '43110'
+- Address: 42 E Jefferson St, Jefferson, Ohio, 44047
+  Blog: null
+  City: Jefferson
+  ContactEmail: null
+  ContactName: null
+  ContactPhone: null
+  Dates: .nan
+  Description: null
+  Facebook: null
+  Image: default-farmersmarket-4-3.jpg
+  Instagram: null
+  Latitude: '41.737937983935'
+  ListingID: '313849'
+  Longitude: '-80.767169995591'
+  ModifyDate: Apr 4th, 2024
+  Name: Jefferson Farmers' Market
+  Pinterest: null
+  Products: ''
+  State: Ohio
+  Street: 42 E Jefferson St
+  Twitter: null
+  Type: farmers market
+  Website: null
+  Youtube: null
+  Zip: '44047'
+- Address: 2621 Burnt Cabin Rd, Seaman, Ohio, 45679
+  Blog: null
+  City: Seaman
+  ContactEmail: null
+  ContactName: null
+  ContactPhone: null
+  Dates: .nan
+  Description: null
+  Facebook: null
+  Image: default-farmersmarket-4-3.jpg
+  Instagram: null
+  Latitude: '38.927586012952'
+  ListingID: '313850'
+  Longitude: '-83.527173969674'
+  ModifyDate: Apr 4th, 2024
+  Name: Keim Family Market
+  Pinterest: null
+  Products: ''
+  State: Ohio
+  Street: 2621 Burnt Cabin Rd
+  Twitter: null
+  Type: farmers market
+  Website: https://www.yodersbakeryandfurniture.com/
+  Youtube: null
+  Zip: '45679'
+- Address: 134 S Columbus St, Lancaster, Ohio, 43130
+  Blog: null
+  City: Lancaster
+  ContactEmail: info@kellermarkethouse.com
+  ContactName: Erin Harvey
+  ContactPhone: 740-277-6305
+  Dates: .nan
+  Description: A year round, indoor marketplace in downtown Lancaster
+  Facebook: https://www.facebook.com/kellermarkethouse/
+  Image: default-farmersmarket-4-3.jpg
+  Instagram: null
+  Latitude: '39.712720014952'
+  ListingID: '313851'
+  Longitude: '-82.604360963499'
+  ModifyDate: Apr 4th, 2024
+  Name: Keller Market House
+  Pinterest: null
+  Products: ''
+  State: Ohio
+  Street: 134 S Columbus St
+  Twitter: null
+  Type: farmers market
+  Website: www.kellermarkethouse.org
+  Youtube: null
+  Zip: '43130'
+- Address: 330 E Central Ave, Springboro, Ohio, 45066
+  Blog: null
+  City: Springboro
+  ContactEmail: null
+  ContactName: null
+  ContactPhone: null
+  Dates: .nan
+  Description: null
+  Facebook: null
+  Image: default-farmersmarket-4-3.jpg
+  Instagram: null
+  Latitude: '39.555149025603'
+  ListingID: '313852'
+  Longitude: '-84.227248957928'
+  ModifyDate: Apr 4th, 2024
+  Name: Lovely's Farm Market
+  Pinterest: null
+  Products: ''
+  State: Ohio
+  Street: 330 E Central Ave
+  Twitter: null
+  Type: farmers market
+  Website: http://lovelysfarmmarket.com/
+  Youtube: null
+  Zip: '45066'
+- Address: 5700 Columbus Pike, Lewis Center, Ohio, 43035
+  Blog: null
+  City: Lewis Center
+  ContactEmail: null
+  ContactName: null
+  ContactPhone: null
+  Dates: .nan
+  Description: null
+  Facebook: null
+  Image: default-farmersmarket-4-3.jpg
+  Instagram: null
+  Latitude: '40.212332230718'
+  ListingID: '313853'
+  Longitude: '-83.032658176046'
+  ModifyDate: Apr 4th, 2024
+  Name: Market on Orange
+  Pinterest: null
+  Products: ''
+  State: Ohio
+  Street: 5700 Columbus Pike
+  Twitter: null
+  Type: farmers market
+  Website: https://marketonorange.business.site/?utm_source=gmb&utm_medium=referral
+  Youtube: null
+  Zip: '43035'
+- Address: 39 Public Sq, Medina, Ohio, 44256
+  Blog: null
+  City: Medina
+  ContactEmail: null
+  ContactName: null
+  ContactPhone: null
+  Dates: .nan
+  Description: null
+  Facebook: null
+  Image: default-farmersmarket-4-3.jpg
+  Instagram: null
+  Latitude: '41.137790992455'
+  ListingID: '313854'
+  Longitude: '-81.863747985039'
+  ModifyDate: Apr 4th, 2024
+  Name: Medina Farmers Market
+  Pinterest: null
+  Products: ''
+  State: Ohio
+  Street: 39 Public Sq
+  Twitter: null
+  Type: farmers market
+  Website: https://www.facebook.com/profile.php?id=100063798300716
+  Youtube: null
+  Zip: '44256'
+- Address: Lancaster, OH 43130, USA
+  Blog: null
+  City: Lancaster
+  ContactEmail: drakeriley14@gmail.com
+  ContactName: Drake Riley
+  ContactPhone: 740-617-9821
+  Dates: .nan
+  Description: Mathias Miller Park in Millersport on Lancaster Street
+  Facebook: https://www.instagram.com/kellermarkethouse/
+  Image: default-farmersmarket-4-3.jpg
+  Instagram: null
+  Latitude: '39.7184598'
+  ListingID: '313855'
+  Longitude: '-82.6084961'
+  ModifyDate: Apr 4th, 2024
+  Name: Millersport Lions Community Market
+  Pinterest: null
+  Products: ''
+  State: Ohio
+  Street: ''
+  Twitter: null
+  Type: farmers market
+  Website: https://www.facebook.com/profile.php?id=100083368239645
+  Youtube: null
+  Zip: '43130'
+- Address: 157 E Fair Ave, Lancaster, Ohio, 43130
+  Blog: null
+  City: Lancaster
+  ContactEmail: 2183webbsummit@gmail.com
+  ContactName: David Gummere
+  ContactPhone: 740-304-4553
+  Dates: .nan
+  Description: Fairfield County Fairgrounds during market hours
+  Facebook: null
+  Image: default-farmersmarket-4-3.jpg
+  Instagram: null
+  Latitude: '39.726143004245'
+  ListingID: '313857'
+  Longitude: '-82.600203958619'
+  ModifyDate: Apr 4th, 2024
+  Name: Olde Fashioned Farmers Market at the Fairfield County Fairgrounds
+  Pinterest: null
+  Products: ''
+  State: Ohio
+  Street: 157 E Fair Ave
+  Twitter: null
+  Type: farmers market
+  Website: https://www.facebook.com/groups/286700745550093
+  Youtube: null
+  Zip: '43130'
+- Address: 1071 State Route 7 N, Pierpont, Ohio, 44082
+  Blog: null
+  City: Pierpont
+  ContactEmail: null
+  ContactName: null
+  ContactPhone: null
+  Dates: .nan
+  Description: null
+  Facebook: null
+  Image: default-farmersmarket-4-3.jpg
+  Instagram: null
+  Latitude: '41.754525979867'
+  ListingID: '313858'
+  Longitude: '-80.571176959468'
+  ModifyDate: Apr 4th, 2024
+  Name: Pierpont Farmers' Market
+  Pinterest: null
+  Products: ''
+  State: Ohio
+  Street: 1071 State Route 7 N
+  Twitter: null
+  Type: farmers market
+  Website: null
+  Youtube: null
+  Zip: '44082'
+- Address: 2705 Huron Avery Rd, Huron, Ohio, 44839
+  Blog: null
+  City: Huron
+  ContactEmail: null
+  ContactName: null
+  ContactPhone: 419-967-0361
+  Dates: .nan
+  Description: null
+  Facebook: null
+  Image: default-farmersmarket-4-3.jpg
+  Instagram: null
+  Latitude: '41.366447006057'
+  ListingID: '313859'
+  Longitude: '-82.590759984493'
+  ModifyDate: Apr 4th, 2024
+  Name: Dechant Farm
+  Pinterest: null
+  Products: ''
+  State: Ohio
+  Street: 2705 Huron Avery Rd
+  Twitter: null
+  Type: farmers market
+  Website: https://www.facebook.com/DeChantFarms/
+  Youtube: null
+  Zip: '44839'
+- Address: 1517 Scheid Rd, Huron, Ohio, 44839
+  Blog: null
+  City: Huron
+  ContactEmail: info@farmerjonesfarm.com
+  ContactName: null
+  ContactPhone: 419- 433-4947 567- 6
+  Dates: .nan
+  Description: null
+  Facebook: null
+  Image: default-farmersmarket-4-3.jpg
+  Instagram: null
+  Latitude: '41.358786994293'
+  ListingID: '313860'
+  Longitude: '-82.609097996079'
+  ModifyDate: Apr 4th, 2024
+  Name: Farmer Jones Farm Market
+  Pinterest: null
+  Products: ''
+  State: Ohio
+  Street: 1517 Scheid Rd
+  Twitter: null
+  Type: farmers market
+  Website: https://www.farmerjonesfarm.com/pages/farm-market
+  Youtube: null
+  Zip: '44839'
+- Address: 1875 N Sandusky Ave, Bucyrus, Ohio, 44820
+  Blog: null
+  City: Bucyrus
+  ContactEmail: null
+  ContactName: null
+  ContactPhone: 419-562-0683
+  Dates: .nan
+  Description: null
+  Facebook: null
+  Image: default-farmersmarket-4-3.jpg
+  Instagram: null
+  Latitude: '40.830729985996'
+  ListingID: '313861'
+  Longitude: '-82.972406979172'
+  ModifyDate: Apr 4th, 2024
+  Name: Pickwick Place
+  Pinterest: null
+  Products: ''
+  State: Ohio
+  Street: 1875 N Sandusky Ave
+  Twitter: null
+  Type: farmers market
+  Website: https://thepickwickplace.com/market/
+  Youtube: null
+  Zip: '44820'
+- Address: 100 E Washington Row, Sandusky, Ohio, 44870
+  Blog: null
+  City: Sandusky
+  ContactEmail: farmersmarketsandusky@gmail.com
+  ContactName: null
+  ContactPhone: null
+  Dates: .nan
+  Description: null
+  Facebook: null
+  Image: default-farmersmarket-4-3.jpg
+  Instagram: null
+  Latitude: '41.455241098875'
+  ListingID: '313862'
+  Longitude: '-82.711098963062'
+  ModifyDate: Apr 4th, 2024
+  Name: Sandusky Farmers Market
+  Pinterest: null
+  Products: ''
+  State: Ohio
+  Street: 100 E Washington Row
+  Twitter: null
+  Type: farmers market
+  Website: https://www.facebook.com/SanduskyFarmersMarket
+  Youtube: null
+  Zip: '44870'
+- Address: 8189 E Market St, Warren, Ohio, 44484
+  Blog: null
+  City: Warren
+  ContactEmail: null
+  ContactName: null
+  ContactPhone: null
+  Dates: .nan
+  Description: null
+  Facebook: null
+  Image: default-farmersmarket-4-3.jpg
+  Instagram: null
+  Latitude: '41.238437396875'
+  ListingID: '313863'
+  Longitude: '-80.743689568987'
+  ModifyDate: Apr 4th, 2024
+  Name: Howland Farmers Market - Summer Market
+  Pinterest: null
+  Products: ''
+  State: Ohio
+  Street: 8189 E Market St
+  Twitter: null
+  Type: farmers market
+  Website: http://www.howlandfarmersmarket.com/
+  Youtube: null
+  Zip: '44484'
+- Address: 4222 Hamilton Ave, Cincinnati , Ohio 45223
+  Blog: null
+  City: Cincinnati
+  ContactEmail: northsidefarmersmarket@gmail.com
+  ContactName: Emily Diefendorf
+  ContactPhone: 513-614-3671
+  Dates: Year-round
+  Description: null
+  Facebook: https://www.facebook.com/CinciNorthsideFarmersMarket
+  Image: default-farmersmarket-4-3.jpg
+  Instagram: null
+  Latitude: '39.163947'
+  ListingID: '301067'
+  Longitude: '-84.539984'
+  ModifyDate: Jan 4th, 2021
+  Name: Northside Farmers Market
+  Pinterest: null
+  Products: Fresh fruits, Fresh vegetables, Baked goods, Bedding plants, Coffee/tea,
+    Cut flowers, Eggs, Fresh/dried herbs, Honey, Maple products, Mushrooms, Poultry/fowl
+    meat and products, Prepared foods, Red/other non-poultry meat and products, Soap/body
+    care products
+  State: Ohio
+  Street: 4222 Hamilton Ave
+  Twitter: null
+  Type: farmers market
+  Website: www.northsidefm.org
+  Youtube: null
+  Zip: '45223'
+- Address: 1435 E Main St Kent, Ohio 44240
+  Blog: null
+  City: Kent
+  ContactEmail: haymakermarket@gmail.com
+  ContactName: Andrew Rome
+  ContactPhone: (330) 422 - 8034
+  Dates: January to March
+  Description: null
+  Facebook: https://www.facebook.com/haymaker.farmers.market
+  Image: default-farmersmarket-4-3.jpg
+  Instagram: null
+  Latitude: '41.155218'
+  ListingID: '301209'
+  Longitude: '-81.337712'
+  ModifyDate: Jan 5th, 2021
+  Name: Haymaker Farmers' Market
+  Pinterest: null
+  Products: Fresh fruits, Fresh vegetables, Baked goods, Bedding plants, Canned or
+    preserved fruits/vegetables, Coffee/tea, Crafts/woodworking items, Cut flowers,
+    Dairy products., Eggs, Fresh/dried herbs, Honey, Juices/non-alcoholic ciders,
+    Maple products, Mushrooms, Nursery stock, Nuts, Pet food, Poultry/fowl meat and
+    products, Prepared foods, Red/other non-poultry meat and products, Soap/body care
+    products
+  State: Ohio
+  Street: 1435 E Main St,
+  Twitter: https://twitter.com/haymakermarket
+  Type: farmers market
+  Website: http://haymakermarket.com
+  Youtube: null
+  Zip: '44240'
+- Address: 4335 Glendale Milford Road, Blue Ash, Ohio 45242
+  Blog: null
+  City: Blue Ash
+  ContactEmail: pbehm@blueash.com
+  ContactName: Peggy Behm
+  ContactPhone: '5137458644'
+  Dates: ''
+  Description: null
+  Facebook: https://www.facebook.com/blueashfarmersmarket/
+  Image: default-farmersmarket-4-3.jpg
+  Instagram: null
+  Latitude: '39.251798'
+  ListingID: '301141'
+  Longitude: '-84.389892'
+  ModifyDate: Jun 22nd, 2020
+  Name: Blue Ash Farmers Market
+  Pinterest: null
+  Products: Fresh fruits, Fresh vegetables, Baked goods, Canned or preserved fruits/vegetables,
+    Crafts/woodworking items, Cut flowers, Honey, Prepared foods
+  State: Ohio
+  Street: 4335 Glendale Milford Road
+  Twitter: null
+  Type: farmers market
+  Website: http://summitparkblueash.com/residents/farmers_market.php
+  Youtube: null
+  Zip: '45242'
+- Address: 3200 Union St, Bellaire, Ohio 43906
+  Blog: null
+  City: Bellaire
+  ContactEmail: ovfarmersmarket@gmail.com
+  ContactName: Susan West
+  ContactPhone: 740-676-8187
+  Dates: May to October
+  Description: null
+  Facebook: Ohio Valley Farmers' Market
+  Image: default-farmersmarket-4-3.jpg
+  Instagram: null
+  Latitude: '40.014375'
+  ListingID: '301473'
+  Longitude: '-80.742120'
+  ModifyDate: Mar 19th, 2021
+  Name: Ohio Valley Farmers' Market
+  Pinterest: null
+  Products: Fresh fruits, Fresh vegetables, Baked goods, Bedding plants, Canned or
+    preserved fruits/vegetables, Coffee/tea, Crafts/woodworking items, Cut flowers,
+    Dairy products., Eggs, Fresh/dried herbs, Honey, Maple products, Pet food, Poultry/fowl
+    meat and products, Red/other non-poultry meat and products, Soap/body care products
+  State: Ohio
+  Street: 3200 Union St
+  Twitter: OV Farmers Market @ovfarmersmarket
+  Type: farmers market
+  Website: www.ovfarmersmarket.org
+  Youtube: null
+  Zip: '43906'
+- Address: 5700 Columbus Pike Lewis Center, OH 43035
+  Blog: null
+  City: LEWIS CENTER
+  ContactEmail: null
+  ContactName: null
+  ContactPhone: 740-201-8242
+  Dates: .nan
+  Description: null
+  Facebook: http://www.facebook.com/AllLifeCenter
+  Image: default-farmersmarket-4-3.jpg
+  Instagram: null
+  Latitude: '40.212904582323674'
+  ListingID: '312159'
+  Longitude: '-83.03271903690798'
+  ModifyDate: Mar 27th, 2023
+  Name: All Life Community Market
+  Pinterest: null
+  Products: ''
+  State: Ohio
+  Street: 5700 COLUMBUS PIKE
+  Twitter: null
+  Type: farmers market
+  Website: http://alllifecommunity.org/services/all-life-community-market/
+  Youtube: null
+  Zip: '43035'
+- Address: 300 East Church Street Barnersville, OH 43713
+  Blog: null
+  City: BARNESVILLE
+  ContactEmail: null
+  ContactName: null
+  ContactPhone: 614-425-3043
+  Dates: .nan
+  Description: null
+  Facebook: null
+  Image: default-farmersmarket-4-3.jpg
+  Instagram: null
+  Latitude: '39.98814779249316'
+  ListingID: '312165'
+  Longitude: '-81.1735119479829'
+  ModifyDate: Mar 27th, 2023
+  Name: Barnersville Farmers Market
+  Pinterest: null
+  Products: ''
+  State: Ohio
+  Street: 300 E CHURCH ST
+  Twitter: null
+  Type: farmers market
+  Website: null
+  Youtube: null
+  Zip: '43713'
+- Address: 4624 Bath Rd., Dayton, OH, 45424
+  Blog: null
+  City: Dayton
+  ContactEmail: null
+  ContactName: null
+  ContactPhone: null
+  Dates: .nan
+  Description: null
+  Facebook: null
+  Image: default-farmersmarket-4-3.jpg
+  Instagram: null
+  Latitude: '39.82628385145559'
+  ListingID: '312167'
+  Longitude: '-84.0827886387466'
+  ModifyDate: Mar 27th, 2023
+  Name: Bath Church Farmers' Market
+  Pinterest: null
+  Products: ''
+  State: Ohio
+  Street: 4624 Bath Rd.
+  Twitter: null
+  Type: farmers market
+  Website: null
+  Youtube: null
+  Zip: '45424'
+- Address: 706 Market St Brookville, OH 45309
+  Blog: null
+  City: BROOKVILLE
+  ContactEmail: null
+  ContactName: null
+  ContactPhone: null
+  Dates: .nan
+  Description: null
+  Facebook: http://www.facebook.com/brookvillecommunityfarmersmarket
+  Image: default-farmersmarket-4-3.jpg
+  Instagram: null
+  Latitude: '39.84023371980815'
+  ListingID: '312173'
+  Longitude: '-84.41048075664445'
+  ModifyDate: Mar 27th, 2023
+  Name: Brookville Community Farmers Market
+  Pinterest: null
+  Products: ''
+  State: Ohio
+  Street: 706 MARKET ST
+  Twitter: null
+  Type: farmers market
+  Website: http://www.brookvillemarket.com
+  Youtube: null
+  Zip: '45309'
+- Address: 7389 Clifton Ave., Russellville, OH, 45168
+  Blog: null
+  City: Russellville
+  ContactEmail: vbixler2000@yahoo.com
+  ContactName: null
+  ContactPhone: 937-515-0109
+  Dates: .nan
+  Description: null
+  Facebook: null
+  Image: default-farmersmarket-4-3.jpg
+  Instagram: null
+  Latitude: '38.85133709675104'
+  ListingID: '312174'
+  Longitude: '-83.80014180583436'
+  ModifyDate: Mar 27th, 2023
+  Name: Brown County Farmers' Markets
+  Pinterest: null
+  Products: ''
+  State: Ohio
+  Street: 7389 Clifton Ave.
+  Twitter: null
+  Type: farmers market
+  Website: http://bcfarmersmarket.webs.com/
+  Youtube: null
+  Zip: '45168'
+- Address: 4613 Laurel Rd., Brunswick, OH, 44212
+  Blog: null
+  City: Brunswick
+  ContactEmail: brunswickareahistory@gmail.com
+  ContactName: null
+  ContactPhone: 330-558-6894
+  Dates: .nan
+  Description: null
+  Facebook: https://www.facebook.com/Brunswick-Area-Historical-Society-Heritage-Farm-Museum-Park-113678478644
+  Image: default-farmersmarket-4-3.jpg
+  Instagram: null
+  Latitude: '41.22663282070473'
+  ListingID: '312175'
+  Longitude: '-81.8545474513419'
+  ModifyDate: Mar 27th, 2023
+  Name: Brunswick Farmers' Market
+  Pinterest: null
+  Products: ''
+  State: Ohio
+  Street: 4613 Laurel Rd.
+  Twitter: null
+  Type: farmers market
+  Website: http://www.brunswickhistory.com/
+  Youtube: null
+  Zip: '44212'
+- Address: 329 Ludlow Ave Cincinnati, OH 45220
+  Blog: null
+  City: CINCINNATI
+  ContactEmail: null
+  ContactName: null
+  ContactPhone: 513-381-3436
+  Dates: .nan
+  Description: null
+  Facebook: null
+  Image: default-farmersmarket-4-3.jpg
+  Instagram: null
+  Latitude: '39.14364314395748'
+  ListingID: '312184'
+  Longitude: '-84.52040540677446'
+  ModifyDate: Mar 27th, 2023
+  Name: Clifton Plaza Farmer's Market
+  Pinterest: null
+  Products: ''
+  State: Ohio
+  Street: 329 LUDLOW AVE
+  Twitter: null
+  Type: farmers market
+  Website: http://OmEcoCafe.com
+  Youtube: null
+  Zip: '45220'
+- Address: 405 SW Public Square Suite 231 S. Cherry Street (market location) Troy,
+    OH 45373
+  Blog: null
+  City: Troy
+  ContactEmail: null
+  ContactName: null
+  ContactPhone: 937-339-5455
+  Dates: .nan
+  Description: null
+  Facebook: https://www.facebook.com/troymainstreet/
+  Image: default-farmersmarket-4-3.jpg
+  Instagram: null
+  Latitude: '40.039586249701536'
+  ListingID: '312210'
+  Longitude: '-84.20356394186504'
+  ModifyDate: Mar 27th, 2023
+  Name: Downtown Troy Farmers Market
+  Pinterest: null
+  Products: ''
+  State: Ohio
+  Street: 405 SW Public Square
+  Twitter: null
+  Type: farmers market
+  Website: https://www.homegrowngreat.com/event/downtown-troy-farmers-market-18/2019-09-28/
+  Youtube: null
+  Zip: '45373'
+- Address: 291 East 222nd Street Euclid, OH 44123
+  Blog: null
+  City: EUCLID
+  ContactEmail: null
+  ContactName: null
+  ContactPhone: 216-289-8656
+  Dates: .nan
+  Description: null
+  Facebook: null
+  Image: default-farmersmarket-4-3.jpg
+  Instagram: null
+  Latitude: '41.60688090941197'
+  ListingID: '312216'
+  Longitude: '-81.52683690721805'
+  ModifyDate: Mar 27th, 2023
+  Name: Euclid Community Farmer's Market
+  Pinterest: null
+  Products: ''
+  State: Ohio
+  Street: 291 E 222ND ST
+  Twitter: null
+  Type: farmers market
+  Website: http://www.cityofeuclid.com
+  Youtube: null
+  Zip: '44123'
+- Address: 291 East 222 Street Euclid, OH 44123
+  Blog: null
+  City: Euclid
+  ContactEmail: null
+  ContactName: null
+  ContactPhone: 216-289-8578
+  Dates: .nan
+  Description: null
+  Facebook: null
+  Image: default-farmersmarket-4-3.jpg
+  Instagram: null
+  Latitude: '41.60688090941197'
+  ListingID: '312217'
+  Longitude: '-81.52683690721805'
+  ModifyDate: Mar 27th, 2023
+  Name: Euclid Farmers Market
+  Pinterest: null
+  Products: ''
+  State: Ohio
+  Street: 291 East 222 Street
+  Twitter: null
+  Type: farmers market
+  Website: null
+  Youtube: null
+  Zip: '44123'
+- Address: '3916 Pearl Rd Medina, OH 44256 Located at Medina VFW Post #5137 Parking
+    available next door.'
+  Blog: null
+  City: MEDINA
+  ContactEmail: null
+  ContactName: null
+  ContactPhone: null
+  Dates: .nan
+  Description: null
+  Facebook: http://www.facebook.com/FarmersMarketofMedina/
+  Image: default-farmersmarket-4-3.jpg
+  Instagram: null
+  Latitude: '41.169097647030384'
+  ListingID: '312221'
+  Longitude: '-81.86145689287677'
+  ModifyDate: Mar 27th, 2023
+  Name: Farmers Market of Medina County
+  Pinterest: null
+  Products: ''
+  State: Ohio
+  Street: 3916 PEARL RD
+  Twitter: null
+  Type: farmers market
+  Website: http://www.farmersmarketofmedina.com/
+  Youtube: null
+  Zip: '44256'
+- Address: 440 East Poe Road, Suite 201 Bowling Green, OH 43402
+  Blog: null
+  City: BOWLING GREEN
+  ContactEmail: null
+  ContactName: null
+  ContactPhone: 800-858-4678
+  Dates: .nan
+  Description: null
+  Facebook: null
+  Image: default-farmersmarket-4-3.jpg
+  Instagram: null
+  Latitude: '41.38553604018125'
+  ListingID: '312226'
+  Longitude: '-83.6439358020507'
+  ModifyDate: Mar 27th, 2023
+  Name: Fremont Farmers Market
+  Pinterest: null
+  Products: ''
+  State: Ohio
+  Street: 440 E POE RD
+  Twitter: null
+  Type: farmers market
+  Website: null
+  Youtube: null
+  Zip: '43402'
+- Address: 2397 Center Rd. Hinckley, OH 44233
+  Blog: null
+  City: HINCKLEY
+  ContactEmail: null
+  ContactName: null
+  ContactPhone: 330-225-4748
+  Dates: .nan
+  Description: null
+  Facebook: null
+  Image: default-farmersmarket-4-3.jpg
+  Instagram: null
+  Latitude: '41.238430986048655'
+  ListingID: '312254'
+  Longitude: '-81.77387480366222'
+  ModifyDate: Mar 27th, 2023
+  Name: Hillside Orchard and Farm Market
+  Pinterest: null
+  Products: ''
+  State: Ohio
+  Street: 2397 CENTER RD
+  Twitter: null
+  Type: farmers market
+  Website: null
+  Youtube: null
+  Zip: '44233'
+- Address: 7494 Clark State Road Blacklick, OH 43004
+  Blog: null
+  City: Blacklick
+  ContactEmail: null
+  ContactName: null
+  ContactPhone: 614-304-0133
+  Dates: .nan
+  Description: null
+  Facebook: null
+  Image: default-farmersmarket-4-3.jpg
+  Instagram: null
+  Latitude: '40.04286365872855'
+  ListingID: '312260'
+  Longitude: '-82.79366252101342'
+  ModifyDate: Mar 27th, 2023
+  Name: Jefferson Community Farmers' Market
+  Pinterest: null
+  Products: ''
+  State: Ohio
+  Street: 7494 Clark State Road
+  Twitter: null
+  Type: farmers market
+  Website: https://jeffersontownship.org/
+  Youtube: null
+  Zip: '43004'
+- Address: 22867 Kellogg Road Grand Rapids, OH 43522
+  Blog: null
+  City: GRAND RAPIDS
+  ContactEmail: null
+  ContactName: null
+  ContactPhone: 419-832-3053
+  Dates: .nan
+  Description: null
+  Facebook: null
+  Image: default-farmersmarket-4-3.jpg
+  Instagram: null
+  Latitude: '41.415394888185446'
+  ListingID: '312276'
+  Longitude: '-83.840838260936'
+  ModifyDate: Mar 27th, 2023
+  Name: McLaughlin's Greenhouse & Market
+  Pinterest: null
+  Products: ''
+  State: Ohio
+  Street: 22867 KELLOGG RD
+  Twitter: null
+  Type: farmers market
+  Website: null
+  Youtube: null
+  Zip: '43522'
+- Address: 106 E. Moler St., Columbus, OH, 43207
+  Blog: null
+  City: Columbus
+  ContactEmail: gvmvmarket@gmail.com
+  ContactName: null
+  ContactPhone: 614-929-5255
+  Dates: .nan
+  Description: null
+  Facebook: https://www.facebook.com/gvmvfarmersmarket
+  Image: default-farmersmarket-4-3.jpg
+  Instagram: null
+  Latitude: '39.93531992932412'
+  ListingID: '312277'
+  Longitude: '-82.99908111638777'
+  ModifyDate: Mar 27th, 2023
+  Name: Merion Village Farmers' Market
+  Pinterest: null
+  Products: ''
+  State: Ohio
+  Street: 106 E. Moler St.
+  Twitter: null
+  Type: farmers market
+  Website: http://www.merionvillagefarmersmarket.com/
+  Youtube: null
+  Zip: '43207'
+- Address: 33 S. Main St, Mt Gilead, OH..between The Briar Patch and Gilead Trading
+    Company Mt Gilead, OH 43338
+  Blog: null
+  City: MOUNT GILEAD
+  ContactEmail: null
+  ContactName: null
+  ContactPhone: 419-688-9579
+  Dates: .nan
+  Description: null
+  Facebook: http://www.facebook.com/pages/Mount-Gilead-Farmers-Market/357066631010759
+  Image: default-farmersmarket-4-3.jpg
+  Instagram: null
+  Latitude: '40.548051979249'
+  ListingID: '312283'
+  Longitude: '-82.8287771823159'
+  ModifyDate: Mar 27th, 2023
+  Name: Mt Gilead Farmer's Market
+  Pinterest: null
+  Products: ''
+  State: Ohio
+  Street: 33 S MAIN ST
+  Twitter: null
+  Type: farmers market
+  Website: http://mtgileadfarmersmarket.weebly.com
+  Youtube: null
+  Zip: '43338'
+- Address: 2221 Oxford Avenue Cincinnati, OH 45230
+  Blog: null
+  City: Cincinnati
+  ContactEmail: null
+  ContactName: null
+  ContactPhone: 513-232-5724
+  Dates: .nan
+  Description: null
+  Facebook: https://www.facebook.com/MWmarketinthepark/
+  Image: default-farmersmarket-4-3.jpg
+  Instagram: null
+  Latitude: '39.095669786400585'
+  ListingID: '312284'
+  Longitude: '-84.38815209172844'
+  ModifyDate: Mar 27th, 2023
+  Name: Mt. Washington Farmers' Market
+  Pinterest: null
+  Products: ''
+  State: Ohio
+  Street: 2221 Oxford Avenue
+  Twitter: null
+  Type: farmers market
+  Website: https://www.mwcc.org/
+  Youtube: null
+  Zip: '45230'
+- Address: 6193 Edison Street NE Hartville, OH 44632
+  Blog: null
+  City: HARTVILLE
+  ContactEmail: null
+  ContactName: null
+  ContactPhone: 330-877-8344
+  Dates: .nan
+  Description: null
+  Facebook: null
+  Image: default-farmersmarket-4-3.jpg
+  Instagram: null
+  Latitude: '40.953390744729646'
+  ListingID: '312297'
+  Longitude: '-81.27854171110368'
+  ModifyDate: Mar 27th, 2023
+  Name: Ohio Farmers Market
+  Pinterest: null
+  Products: ''
+  State: Ohio
+  Street: 6193 EDISON ST NE
+  Twitter: null
+  Type: farmers market
+  Website: http://www.maizevalleywinery.com/homegrown
+  Youtube: null
+  Zip: '44632'
+- Address: 66440 Belmont Morristown Rd, Bel-Morr Market, Belmont, OH, 43718
+  Blog: null
+  City: Belmont
+  ContactEmail: ovfarmersmarket@gmail.com
+  ContactName: null
+  ContactPhone: 740-676-8187
+  Dates: .nan
+  Description: null
+  Facebook: https://www.facebook.com/pages/Ohio-Valley-Farmers-Market/76218936373
+  Image: default-farmersmarket-4-3.jpg
+  Instagram: null
+  Latitude: '40.061092517237'
+  ListingID: '312298'
+  Longitude: '-81.05347774292987'
+  ModifyDate: Mar 27th, 2023
+  Name: Ohio Valley Farmers' Market
+  Pinterest: null
+  Products: ''
+  State: Ohio
+  Street: 66440 Belmont Morristown Rd
+  Twitter: null
+  Type: farmers market
+  Website: http://www.ovfarmersmarket.org/
+  Youtube: null
+  Zip: '43718'
+- Address: 933 Mentor Ave., Painesville, OH, 44077
+  Blog: null
+  City: Painesville
+  ContactEmail: null
+  ContactName: null
+  ContactPhone: null
+  Dates: .nan
+  Description: null
+  Facebook: null
+  Image: default-farmersmarket-4-3.jpg
+  Instagram: null
+  Latitude: '41.710624106150966'
+  ListingID: '312302'
+  Longitude: '-81.26336587933119'
+  ModifyDate: Mar 27th, 2023
+  Name: Outdoor Y Farmers' Market
+  Pinterest: null
+  Products: ''
+  State: Ohio
+  Street: 933 Mentor Ave.
+  Twitter: null
+  Type: farmers market
+  Website: http://www.lakecountyymca.org/index.php?src=events&srctype=detail&category=General&refno=600
+  Youtube: null
+  Zip: '44077'
+- Address: 658 Hansgen Morgan Rd Wheelersburg, OH 45694
+  Blog: null
+  City: Wheelersburg
+  ContactEmail: null
+  ContactName: null
+  ContactPhone: 740-776-6406
+  Dates: .nan
+  Description: null
+  Facebook: null
+  Image: default-farmersmarket-4-3.jpg
+  Instagram: null
+  Latitude: '38.776010984021795'
+  ListingID: '312308'
+  Longitude: '-82.83146612490889'
+  ModifyDate: Mar 27th, 2023
+  Name: Portsmouth Farmers Market
+  Pinterest: null
+  Products: ''
+  State: Ohio
+  Street: 658 Hansgen Morgan Rd
+  Twitter: null
+  Type: farmers market
+  Website: null
+  Youtube: null
+  Zip: '45694'
+- Address: 101 S. Front Street Fremont, OH 43420
+  Blog: null
+  City: Fremont
+  ContactEmail: null
+  ContactName: null
+  ContactPhone: 419-332-8696
+  Dates: .nan
+  Description: null
+  Facebook: null
+  Image: default-farmersmarket-4-3.jpg
+  Instagram: null
+  Latitude: '41.34640086634128'
+  ListingID: '312310'
+  Longitude: '-83.11346214179133'
+  ModifyDate: Mar 27th, 2023
+  Name: Ralph's Joy of Living Farmers' Market
+  Pinterest: null
+  Products: ''
+  State: Ohio
+  Street: 101 S. Front Street
+  Twitter: null
+  Type: farmers market
+  Website: null
+  Youtube: null
+  Zip: '43420'
+- Address: 750 S. Main St., Clearcreek Elementary School, Springboro, OH, 45066
+  Blog: null
+  City: Springboro
+  ContactEmail: SpringboroFarmersMkt@gmail.com
+  ContactName: null
+  ContactPhone: null
+  Dates: .nan
+  Description: null
+  Facebook: https://www.facebook.com/BoroFarmersMarket
+  Image: default-farmersmarket-4-3.jpg
+  Instagram: null
+  Latitude: '39.54732183137754'
+  ListingID: '312326'
+  Longitude: '-84.23398439079914'
+  ModifyDate: Mar 27th, 2023
+  Name: Springboro Farmers' Market
+  Pinterest: null
+  Products: ''
+  State: Ohio
+  Street: 750 S. Main St
+  Twitter: null
+  Type: farmers market
+  Website: http://springborofarmersmarket.com/
+  Youtube: null
+  Zip: '45066'
+- Address: 6062 South Ridge, West Geneva, OH 44041
+  Blog: null
+  City: GENEVA
+  ContactEmail: null
+  ContactName: null
+  ContactPhone: 440-466-7480
+  Dates: .nan
+  Description: null
+  Facebook: null
+  Image: default-farmersmarket-4-3.jpg
+  Instagram: null
+  Latitude: '41.782049181257314'
+  ListingID: '312329'
+  Longitude: '-80.97185941718318'
+  ModifyDate: Mar 27th, 2023
+  Name: Springhill Orchards & Farm Market
+  Pinterest: null
+  Products: ''
+  State: Ohio
+  Street: 6062 S RIDGE RD W
+  Twitter: null
+  Type: farmers market
+  Website: null
+  Youtube: null
+  Zip: '44041'
+- Address: 6975 Ridge Rd., Parma, OH, 44129
+  Blog: null
+  City: Parma
+  ContactEmail: null
+  ContactName: null
+  ContactPhone: 440-845-9770
+  Dates: .nan
+  Description: null
+  Facebook: null
+  Image: default-farmersmarket-4-3.jpg
+  Instagram: null
+  Latitude: '41.37581565237398'
+  ListingID: '312331'
+  Longitude: '-81.73470729501666'
+  ModifyDate: Mar 27th, 2023
+  Name: Stearns Homestead Farmers' Market
+  Pinterest: null
+  Products: ''
+  State: Ohio
+  Street: 6975 Ridge Rd.
+  Twitter: null
+  Type: farmers market
+  Website: http://www.stearnshomestead.com/happenins/farmers-market/
+  Youtube: null
+  Zip: '44129'
+- Address: 700 East Rensselaer St. Bucyrus, OH 44820
+  Blog: null
+  City: Bucyrus
+  ContactEmail: null
+  ContactName: null
+  ContactPhone: 419-562-6664
+  Dates: .nan
+  Description: null
+  Facebook: null
+  Image: default-farmersmarket-4-3.jpg
+  Instagram: null
+  Latitude: '40.807612774169236'
+  ListingID: '312335'
+  Longitude: '-82.96701806064138'
+  ModifyDate: Mar 27th, 2023
+  Name: T & OC Farmers' Market
+  Pinterest: null
+  Products: ''
+  State: Ohio
+  Street: 700 East Rensselaer St.
+  Twitter: null
+  Type: farmers market
+  Website: null
+  Youtube: null
+  Zip: '44820'
+- Address: 101 W. Chestnut St., Oxford, OH, 45056
+  Blog: null
+  City: Oxford
+  ContactEmail: null
+  ContactName: null
+  ContactPhone: 513-524-9591
+  Dates: .nan
+  Description: null
+  Facebook: null
+  Image: default-farmersmarket-4-3.jpg
+  Instagram: null
+  Latitude: '39.50062813719112'
+  ListingID: '312342'
+  Longitude: '-84.74638549620778'
+  ModifyDate: Mar 27th, 2023
+  Name: The Original Talawanda Farmers' Market
+  Pinterest: null
+  Products: ''
+  State: Ohio
+  Street: 101 W. Chestnut St.
+  Twitter: null
+  Type: farmers market
+  Website: http://www.gettothebc.com/listing/original-talawanda-farmer%C3%A2%E2%80%99s-market/693
+  Youtube: null
+  Zip: '45056'
+- Address: 4 E Ottawa Street Richwood, OH 43344 We are located on Franklin St in front
+    of the library. There is ample parking in both the library lot and on the street
+    with easy access for those with low mobilit
+  Blog: null
+  City: RICHWOOD
+  ContactEmail: null
+  ContactName: null
+  ContactPhone: 614-563-6402
+  Dates: .nan
+  Description: null
+  Facebook: http://www.facebook.com/richwoodfarmersmarket
+  Image: default-farmersmarket-4-3.jpg
+  Instagram: null
+  Latitude: '40.42656163142057'
+  ListingID: '312347'
+  Longitude: '-83.29644967692006'
+  ModifyDate: Mar 27th, 2023
+  Name: Union County Farmers Market - Richwood Location
+  Pinterest: null
+  Products: ''
+  State: Ohio
+  Street: 4 E OTTAWA ST
+  Twitter: null
+  Type: farmers market
+  Website: null
+  Youtube: null
+  Zip: '43344'
+- Address: 1301 East Siebenthaler Avenue Dayton, OH 45414
+  Blog: null
+  City: DAYTON
+  ContactEmail: null
+  ContactName: null
+  ContactPhone: 937-277-9028
+  Dates: .nan
+  Description: null
+  Facebook: null
+  Image: default-farmersmarket-4-3.jpg
+  Instagram: null
+  Latitude: '39.79862515543578'
+  ListingID: '312355'
+  Longitude: '-84.2052664495301'
+  ModifyDate: Mar 27th, 2023
+  Name: Wegerzyn Horticultural Association Farmers Market
+  Pinterest: null
+  Products: ''
+  State: Ohio
+  Street: 1301 E SIEBENTHALER AVE
+  Twitter: null
+  Type: farmers market
+  Website: null
+  Youtube: null
+  Zip: '45414'
+- Address: 1025 Springfield Pike Wyoming, OH 45215
+  Blog: null
+  City: Wyoming
+  ContactEmail: null
+  ContactName: null
+  ContactPhone: null
+  Dates: .nan
+  Description: null
+  Facebook: https://www.facebook.com/wyoming-ave-farmers-market-98917383857/?ref=hl
+  Image: default-farmersmarket-4-3.jpg
+  Instagram: null
+  Latitude: '39.23381241172754'
+  ListingID: '312365'
+  Longitude: '-84.47204858084798'
+  ModifyDate: Mar 27th, 2023
+  Name: Wyoming Farmers' Market
+  Pinterest: null
+  Products: ''
+  State: Ohio
+  Street: 1025 Springfield Pike
+  Twitter: null
+  Type: farmers market
+  Website: http://www.wyomingfarmersmarket.net/
+  Youtube: null
+  Zip: '45215'
+- Address: 1000 West Maple St, North Canton, Ohio 44720
+  Blog: null
+  City: North Canton
+  ContactEmail: knowyourrootsohio@gmail.com
+  ContactName: Jena Grosschmidt
+  ContactPhone: '3302090809'
+  Dates: May to October
+  Description: null
+  Facebook: https://www.facebook.com/NorthCantonFarmersMarket/
+  Image: default-farmersmarket-4-3.jpg
+  Instagram: null
+  Latitude: '40.875871'
+  ListingID: '301485'
+  Longitude: '-81.417769'
+  ModifyDate: Mar 29th, 2021
+  Name: North Canton Farmers' Market
+  Pinterest: null
+  Products: Fresh fruits, Fresh vegetables, Baked goods, Bedding plants, Canned or
+    preserved fruits/vegetables, Coffee/tea, Crafts/woodworking items, Cut flowers,
+    Eggs, Fresh/dried herbs, Honey, Maple products, Mushrooms, Nursery stock, Nuts,
+    Pet food, Poultry/fowl meat and products, Prepared foods, Red/other non-poultry
+    meat and products, Soap/body care products
+  State: Ohio
+  Street: 1000 West Maple St
+  Twitter: null
+  Type: farmers market
+  Website: www.NCantonFarmersMarket.com
+  Youtube: null
+  Zip: '44720'
