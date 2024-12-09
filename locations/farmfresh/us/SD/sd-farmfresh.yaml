@@ -1,1 +1,201 @@
-data: []
+data:
+- Address: 41247 178th St, Raymond, South Dakota 57258
+  Blog: null
+  City: Raymond
+  ContactEmail: puritysd@itctel.com
+  ContactName: Wanda Bethke
+  ContactPhone: 605-532-7333
+  Dates: .nan
+  Description: null
+  Facebook: https://www.facebook.com/purityseeds
+  Image: default-onfarmmarket-4-3.jpg
+  Instagram: null
+  Latitude: '44.828767'
+  ListingID: '700057'
+  Longitude: '-97.964041'
+  ModifyDate: Aug 1st, 2014
+  Name: Purity Seeds
+  Pinterest: null
+  Products: ''
+  State: South Dakota
+  Street: 41247 178th St
+  Twitter: null
+  Type: on-farm market
+  Website: www.purityseedsUSA.com
+  Youtube: null
+  Zip: '57258'
+- Address: 12871 467th Ave, Browns  Valley, South Dakota 56219
+  Blog: null
+  City: Browns  Valley
+  ContactEmail: sunsetgardens2013@gmail.com
+  ContactName: Beverly Lamers
+  ContactPhone: 605-742-4174
+  Dates: .nan
+  Description: null
+  Facebook: null
+  Image: default-onfarmmarket-4-3.jpg
+  Instagram: null
+  Latitude: '45.518557'
+  ListingID: '701379'
+  Longitude: '-96.861851'
+  ModifyDate: Dec 19th, 2016
+  Name: Sunset Gardens, LLC
+  Pinterest: null
+  Products: ''
+  State: South Dakota
+  Street: 12871 467th Ave
+  Twitter: null
+  Type: on-farm market
+  Website: null
+  Youtube: null
+  Zip: '56219'
+- Address: 20044 464th Ave., Bruce, South Dakota 57220
+  Blog: null
+  City: Bruce
+  ContactEmail: kyle@haroldsonfarms.com
+  ContactName: Kyle Haroldson
+  ContactPhone: 832-942-2820
+  Dates: .nan
+  Description: null
+  Facebook: https://www.facebook.com/HaroldsonFarms/
+  Image: default-onfarmmarket-4-3.jpg
+  Instagram: null
+  Latitude: '44.437716'
+  ListingID: '701500'
+  Longitude: '-96.889634'
+  ModifyDate: Jan 31st, 2020
+  Name: Haroldson Farms
+  Pinterest: null
+  Products: ''
+  State: South Dakota
+  Street: 20044 464th Ave.
+  Twitter: null
+  Type: on-farm market
+  Website: https://hardsonfarms.com/
+  Youtube: null
+  Zip: '57220'
+- Address: 8 Miles SW, Gettysburg, South Dakota 57442
+  Blog: www.countrymarketpierre.com
+  City: Gettysburg
+  ContactEmail: springerridge@yahoo.com
+  ContactName: Terry Lehmkuhl
+  ContactPhone: 605-769-0269
+  Dates: .nan
+  Description: null
+  Facebook: https://www.facebook.com/pages/Springerridge-Barnyard-Products/139944099427072
+  Image: default-onfarmmarket-4-3.jpg
+  Instagram: null
+  Latitude: '44.940829'
+  ListingID: '700479'
+  Longitude: '-100.02100'
+  ModifyDate: Jul 26th, 2014
+  Name: Springerridge
+  Pinterest: null
+  Products: ''
+  State: South Dakota
+  Street: 8 Miles SW
+  Twitter: null
+  Type: on-farm market
+  Website: www.facebook.com/Springerridge%20Barnyard%20Products
+  Youtube: null
+  Zip: '57442'
+- Address: 41885 130th St., Pierpont, South Dakota 57468
+  Blog: null
+  City: Pierpont
+  ContactEmail: contactus@betterrootsfarm.com
+  ContactName: Vaughn Reints
+  ContactPhone: '6053605792'
+  Dates: .nan
+  Description: null
+  Facebook: https://www.facebook.com/betterrootsfarm/
+  Image: default-onfarmmarket-4-3.jpg
+  Instagram: null
+  Latitude: '45.500131'
+  ListingID: '701455'
+  Longitude: '-97.840340'
+  ModifyDate: Jul 4th, 2018
+  Name: Better Roots Farm, LLC
+  Pinterest: null
+  Products: ''
+  State: South Dakota
+  Street: 41885 130th St.
+  Twitter: null
+  Type: on-farm market
+  Website: www.betterrootsfarm.com
+  Youtube: null
+  Zip: '57468'
+- Address: 3691 East Main Street, Vermillion, South Dakota 57069
+  Blog: null
+  City: Vermillion
+  ContactEmail: uffordhills@hotmail.com
+  ContactName: Alex Ufford
+  ContactPhone: 605-677-8775
+  Dates: .nan
+  Description: null
+  Facebook: Uffordhills
+  Image: default-onfarmmarket-4-3.jpg
+  Instagram: null
+  Latitude: '42.779161'
+  ListingID: '700448'
+  Longitude: '-96.877792'
+  ModifyDate: Nov 27th, 2014
+  Name: Ufford Hills Pumpkin Patch and Corn Maze
+  Pinterest: null
+  Products: ''
+  State: South Dakota
+  Street: 3691 East Main Street
+  Twitter: null
+  Type: on-farm market
+  Website: uffordhills.net
+  Youtube: null
+  Zip: '57069'
+- Address: 8700 E Sunset Circle, Brandon, South Dakota 57005
+  Blog: null
+  City: Brandon
+  ContactEmail: s.peterson@fruitofthecoop.com
+  ContactName: Stephanie Peterson
+  ContactPhone: 605-366-1219
+  Dates: .nan
+  Description: null
+  Facebook: www.facebook.com/fruitofthecoop
+  Image: default-onfarmmarket-4-3.jpg
+  Instagram: null
+  Latitude: '43.578181'
+  ListingID: '701374'
+  Longitude: '-96.618427'
+  ModifyDate: Oct 28th, 2016
+  Name: Fruit of the Coop
+  Pinterest: null
+  Products: ''
+  State: South Dakota
+  Street: 8700 E Sunset Circle
+  Twitter: null
+  Type: on-farm market
+  Website: www.fruitofthecoop.com
+  Youtube: null
+  Zip: '57005'
+- Address: 44578 280th Street, Marion, South Dakota 57043
+  Blog: null
+  City: Marion
+  ContactEmail: sherilynortman@gmail.com
+  ContactName: Sherilyn Ortman
+  ContactPhone: 605-925-7038
+  Dates: .nan
+  Description: null
+  Facebook: https://www.facebook.com/pages/Berrybrook-Organics/576031785742694
+  Image: default-onfarmmarket-4-3.jpg
+  Instagram: null
+  Latitude: '43.3287083'
+  ListingID: '700432'
+  Longitude: '-97.284107'
+  ModifyDate: Sep 16th, 2014
+  Name: Berrybrook Organics & U-Pick
+  Pinterest: null
+  Products: ''
+  State: South Dakota
+  Street: 44578 280th Street
+  Twitter: null
+  Type: on-farm market
+  Website: www.berrybrookorganics.com
+  Youtube: null
+  Zip: '57043'

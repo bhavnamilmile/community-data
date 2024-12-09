@@ -1,1 +1,703 @@
-data: []
+data:
+- Address: 285 Sam Chikan Rd, Griswold, Connecticut 06351
+  Blog: null
+  City: Griswold
+  ContactEmail: info@standingstonefainters.com
+  ContactName: LoriA
+  ContactPhone: 860-376-4658
+  Dates: .nan
+  Description: null
+  Facebook: https://www.facebook.com/StandingStoneFainters
+  Image: default-onfarmmarket-4-3.jpg
+  Instagram: null
+  Latitude: '41.5576601'
+  ListingID: '700033'
+  Longitude: '-71.941041'
+  ModifyDate: Aug 13th, 2014
+  Name: StandingStone Farm/Flatland Alpacas
+  Pinterest: null
+  Products: ''
+  State: Connecticut
+  Street: 285 Sam Chikan Rd
+  Twitter: null
+  Type: on-farm market
+  Website: https://www.standingstonefarm.com
+  Youtube: null
+  Zip: '06351'
+- Address: 83 Fitchville Road, Bozrah, Connecticut 06334
+  Blog: null
+  City: Bozrah
+  ContactEmail: fitchclaremont@yahoo.com
+  ContactName: Warren strong
+  ContactPhone: 860 8890260
+  Dates: .nan
+  Description: null
+  Facebook: null
+  Image: default-onfarmmarket-4-3.jpg
+  Instagram: null
+  Latitude: '41.563339'
+  ListingID: '700790'
+  Longitude: '-72.138952'
+  ModifyDate: Aug 13th, 2014
+  Name: Old Fitch Farm Vineyard
+  Pinterest: null
+  Products: ''
+  State: Connecticut
+  Street: 83 Fitchville Road
+  Twitter: null
+  Type: on-farm market
+  Website: Http://fitchclaremonthouse.com
+  Youtube: null
+  Zip: '06334'
+- Address: 96 Kibbe Grove Road, Somers , Connecticut 06071
+  Blog: null
+  City: Somers
+  ContactEmail: Pellfarms@gmail.com
+  ContactName: Tracy
+  ContactPhone: 860-763-1643
+  Dates: .nan
+  Description: null
+  Facebook: https://www.facebook.com/pages/Pell-Farm/1448216858744306
+  Image: default-onfarmmarket-4-3.jpg
+  Instagram: null
+  Latitude: '42.0281882'
+  ListingID: '700598'
+  Longitude: '-72.459035'
+  ModifyDate: Aug 15th, 2014
+  Name: Pell Farm
+  Pinterest: null
+  Products: ''
+  State: Connecticut
+  Street: 96 Kibbe Grove Road
+  Twitter: https://twitter.com/PellFarm
+  Type: on-farm market
+  Website: www.pell-farms.com
+  Youtube: null
+  Zip: '06071'
+- Address: 360 Matson Hill Road, South Glastonbury, Connecticut 06073
+  Blog: null
+  City: South Glastonbury
+  ContactEmail: info@walnutledgefarm.com
+  ContactName: Joanna Kamis
+  ContactPhone: 860-633-2286
+  Dates: .nan
+  Description: null
+  Facebook: https://www.facebook.com/pages/Walnut-Ledge-Farm/421246841298079
+  Image: default-onfarmmarket-4-3.jpg
+  Instagram: null
+  Latitude: '41.6535280'
+  ListingID: '700721'
+  Longitude: '-72.583278'
+  ModifyDate: Aug 1st, 2014
+  Name: Walnut Ledge Farm, LLC
+  Pinterest: null
+  Products: ''
+  State: Connecticut
+  Street: 360 Matson Hill Road
+  Twitter: null
+  Type: on-farm market
+  Website: www.walnutledgefarm.com
+  Youtube: null
+  Zip: '06073'
+- Address: 250 Calhoun St, Washington Depot, Connecticut 6794
+  Blog: N/a
+  City: Washington Depot
+  ContactEmail: info@averillfarm.com
+  ContactName: Susan Averill
+  ContactPhone: 860-868-2777
+  Dates: .nan
+  Description: null
+  Facebook: https://www.facebook.com/pages/Averill-Farm/159088404122324?ref=ts
+  Image: default-onfarmmarket-4-3.jpg
+  Instagram: null
+  Latitude: '41.664274'
+  ListingID: '700332'
+  Longitude: '-73.342029'
+  ModifyDate: Aug 26th, 2014
+  Name: Averill Farm
+  Pinterest: null
+  Products: ''
+  State: Connecticut
+  Street: 250 Calhoun St
+  Twitter: null
+  Type: on-farm market
+  Website: Www.averillfarm.com
+  Youtube: null
+  Zip: '6794'
+- Address: 108 Crystal Pond Road, Eastford, Connecticut 06242
+  Blog: null
+  City: Eastford
+  ContactEmail: information@buellsorchard.com
+  ContactName: Patty Sandness
+  ContactPhone: (860) 974-1150
+  Dates: .nan
+  Description: null
+  Facebook: www.facebook.com/pages/Buells-Orchard/132499357322
+  Image: default-onfarmmarket-4-3.jpg
+  Instagram: null
+  Latitude: '41.917985'
+  ListingID: '700719'
+  Longitude: '-72.104312'
+  ModifyDate: Aug 4th, 2014
+  Name: Buell's Orchard
+  Pinterest: null
+  Products: ''
+  State: Connecticut
+  Street: 108 Crystal Pond Road
+  Twitter: https://twitter.com/BuellsOrchard
+  Type: on-farm market
+  Website: www.buellsorchard.com
+  Youtube: null
+  Zip: '06242'
+- Address: 63 Creamery Brook Road, Brooklyn, Connecticut 06234
+  Blog: null
+  City: Brooklyn
+  ContactEmail: sandy.brodeur@gmail.com
+  ContactName: Sandra F Brodeur
+  ContactPhone: 860-450-6744
+  Dates: .nan
+  Description: null
+  Facebook: https://www.facebook.com/pakulis.farm
+  Image: default-onfarmmarket-4-3.jpg
+  Instagram: null
+  Latitude: '41.772394'
+  ListingID: '701178'
+  Longitude: '-71.934901'
+  ModifyDate: Dec 4th, 2014
+  Name: Pakulis Farm LLC
+  Pinterest: null
+  Products: ''
+  State: Connecticut
+  Street: 63 Creamery Brook Road
+  Twitter: null
+  Type: on-farm market
+  Website: null
+  Youtube: null
+  Zip: '06234'
+- Address: 141Blue Hills Rd., Wallingford, Connecticut 06492
+  Blog: null
+  City: Wallingford
+  ContactEmail: eric@bluehillsorchard.com
+  ContactName: Eric Henry
+  ContactPhone: '2032693189'
+  Dates: .nan
+  Description: null
+  Facebook: Blue Hills Orchard
+  Image: default-onfarmmarket-4-3.jpg
+  Instagram: null
+  Latitude: '41.4486597'
+  ListingID: '701187'
+  Longitude: '-72.866826'
+  ModifyDate: Jan 5th, 2015
+  Name: Blue Hills Orchard
+  Pinterest: null
+  Products: ''
+  State: Connecticut
+  Street: 141Blue Hills Rd.
+  Twitter: null
+  Type: on-farm market
+  Website: bluehillsorchard.com
+  Youtube: null
+  Zip: 06492
+- Address: 113 South Rd, Winchester Center, Connecticut 06098
+  Blog: null
+  City: Winchester Center
+  ContactEmail: whitestoneacres@hotmail.com
+  ContactName: Gina White
+  ContactPhone: '8607104616'
+  Dates: .nan
+  Description: null
+  Facebook: www.facebook.com/whitestoneacres
+  Image: default-onfarmmarket-4-3.jpg
+  Instagram: null
+  Latitude: '41.896949'
+  ListingID: '701362'
+  Longitude: '-73.131064'
+  ModifyDate: Jul 20th, 2016
+  Name: White Stone Acres
+  Pinterest: null
+  Products: ''
+  State: Connecticut
+  Street: 113 South Rd
+  Twitter: null
+  Type: on-farm market
+  Website: www.whitestoneacres.com
+  Youtube: null
+  Zip: 06098
+- Address: 83 Toddy Hill Road, Sandy Hook, Connecticut 06482
+  Blog: null
+  City: Sandy Hook
+  ContactEmail: pasepe@juno.com
+  ContactName: Peter Sepe
+  ContactPhone: 203-270-9507
+  Dates: .nan
+  Description: null
+  Facebook: https://www.facebook.com/SepeFarm
+  Image: default-onfarmmarket-4-3.jpg
+  Instagram: null
+  Latitude: '41.391519'
+  ListingID: '700253'
+  Longitude: '-73.258523'
+  ModifyDate: Jul 26th, 2014
+  Name: Sepe Farm LLC
+  Pinterest: null
+  Products: ''
+  State: Connecticut
+  Street: 83 Toddy Hill Road
+  Twitter: null
+  Type: on-farm market
+  Website: www.sepefarm.com
+  Youtube: null
+  Zip: 06482
+- Address: 47 & 81 Kielwasser Road, Washington Depot, Connecticut 06794
+  Blog: null
+  City: Washington Depot
+  ContactEmail: Starberry@snet.net
+  ContactName: Bob and Sally Futh
+  ContactPhone: '(860) 868-2863  Fax:'
+  Dates: .nan
+  Description: null
+  Facebook: null
+  Image: default-onfarmmarket-4-3.jpg
+  Instagram: null
+  Latitude: '41.664623'
+  ListingID: '700475'
+  Longitude: '-73.335148'
+  ModifyDate: Jul 26th, 2014
+  Name: Starberry Farm
+  Pinterest: null
+  Products: ''
+  State: Connecticut
+  Street: 47 & 81 Kielwasser Road
+  Twitter: null
+  Type: on-farm market
+  Website: null
+  Youtube: null
+  Zip: 06794
+- Address: 189 Salmon Kill Rd, Salisbury, Connecticut 06039
+  Blog: null
+  City: Salisbury
+  ContactEmail: info@whippoorwillfarmct.com
+  ContactName: Allen and Robin Cockerline
+  ContactPhone: 860-435-2089
+  Dates: .nan
+  Description: null
+  Facebook: https://www.facebook.com/WhippoorwillFarm
+  Image: default-onfarmmarket-4-3.jpg
+  Instagram: null
+  Latitude: '41.964324'
+  ListingID: '700008'
+  Longitude: '-73.401747'
+  ModifyDate: Jul 27th, 2014
+  Name: Whippoorwill Farm
+  Pinterest: null
+  Products: ''
+  State: Connecticut
+  Street: 189 Salmon Kill Rd
+  Twitter: null
+  Type: on-farm market
+  Website: WhippoorwillFarmCT.com
+  Youtube: null
+  Zip: 06039
+- Address: 130 Lost Acres Road, North Granby, Connecticut 6060
+  Blog: null
+  City: North Granby
+  ContactEmail: ginny@lostacres.com
+  ContactName: null
+  ContactPhone: (860) 653-6600
+  Dates: .nan
+  Description: null
+  Facebook: null
+  Image: default-onfarmmarket-4-3.jpg
+  Instagram: null
+  Latitude: '42.0095720'
+  ListingID: '700780'
+  Longitude: '-72.861531'
+  ModifyDate: Jul 27th, 2014
+  Name: Lost Acres Orchard
+  Pinterest: null
+  Products: ''
+  State: Connecticut
+  Street: 130 Lost Acres Road
+  Twitter: null
+  Type: on-farm market
+  Website: www.lostacres.com
+  Youtube: null
+  Zip: '6060'
+- Address: 144 Mansfield Rd, Harwinton, Connecticut 06791
+  Blog: null
+  City: Harwinton
+  ContactEmail: cheneyfamilyfarm@gmail.com
+  ContactName: Cheney Family Farm
+  ContactPhone: 860-866-8355
+  Dates: .nan
+  Description: null
+  Facebook: https://www.facebook.com/CheneyFamilyFarm?ref_type=bookmark
+  Image: default-onfarmmarket-4-3.jpg
+  Instagram: null
+  Latitude: '41.745224'
+  ListingID: '700522'
+  Longitude: '-73.100964'
+  ModifyDate: Jul 28th, 2014
+  Name: Cheney Family Farm
+  Pinterest: null
+  Products: ''
+  State: Connecticut
+  Street: 144 Mansfield Rd
+  Twitter: null
+  Type: on-farm market
+  Website: www.cheneyfamilyfarm.com
+  Youtube: null
+  Zip: 06791
+- Address: 278 Town Street, East Haddam, Connecticut 6423
+  Blog: null
+  City: East Haddam
+  ContactEmail: staehlys@att.net
+  ContactName: Christopher Staehly
+  ContactPhone: 860-873-9774
+  Dates: .nan
+  Description: null
+  Facebook: https://www.facebook.com/Staehlys
+  Image: default-onfarmmarket-4-3.jpg
+  Instagram: null
+  Latitude: '41.453149'
+  ListingID: '700225'
+  Longitude: '-72.432965'
+  ModifyDate: Jul 30th, 2014
+  Name: Staehly Farms
+  Pinterest: null
+  Products: ''
+  State: Connecticut
+  Street: 278 Town Street
+  Twitter: null
+  Type: on-farm market
+  Website: http://www.staehlys.com/
+  Youtube: null
+  Zip: '6423'
+- Address: 682 Kent Rd., Gaylordsville, Connecticut 06755
+  Blog: null
+  City: Gaylordsville
+  ContactEmail: LGoed@aol.com
+  ContactName: Lise goedewaagen
+  ContactPhone: 860 354-7008
+  Dates: .nan
+  Description: null
+  Facebook: The  Village Farm and World\'s Best Wreaths
+  Image: default-onfarmmarket-4-3.jpg
+  Instagram: null
+  Latitude: '41.643795'
+  ListingID: '700687'
+  Longitude: '-73.483988'
+  ModifyDate: Jul 6th, 2016
+  Name: The Village Farm
+  Pinterest: null
+  Products: ''
+  State: Connecticut
+  Street: 682 Kent Rd.
+  Twitter: null
+  Type: on-farm market
+  Website: null
+  Youtube: null
+  Zip: '06755'
+- Address: 163 North Windham Rd, North Windham, Connecticut 06256
+  Blog: null
+  City: North Windham
+  ContactEmail: mary@raspberryknoll.com
+  ContactName: Mary Concklin
+  ContactPhone: 860-786-7486
+  Dates: .nan
+  Description: null
+  Facebook: www/facebook.com/raspberryknoll
+  Image: default-onfarmmarket-4-3.jpg
+  Instagram: null
+  Latitude: '41.721441'
+  ListingID: '700727'
+  Longitude: '-72.166800'
+  ModifyDate: Jun 10th, 2016
+  Name: Raspberry Knoll Farm LLC
+  Pinterest: null
+  Products: ''
+  State: Connecticut
+  Street: 163 North Windham Rd
+  Twitter: null
+  Type: on-farm market
+  Website: www.raspberryknoll.com
+  Youtube: null
+  Zip: '06256'
+- Address: 66 Wigwam Road, Litchfield, Connecticut 6759
+  Blog: null
+  City: Litchfield
+  ContactEmail: john@lrgfb.com
+  ContactName: John Morosani
+  ContactPhone: 860-567-8122
+  Dates: .nan
+  Description: null
+  Facebook: null
+  Image: default-onfarmmarket-4-3.jpg
+  Instagram: null
+  Latitude: '41.703911'
+  ListingID: '700286'
+  Longitude: '-73.134770'
+  ModifyDate: Mar 23rd, 2015
+  Name: Laurel Ridge Grass Fed Beef
+  Pinterest: null
+  Products: ''
+  State: Connecticut
+  Street: 66 Wigwam Road
+  Twitter: null
+  Type: on-farm market
+  Website: www.lrgfb.com
+  Youtube: null
+  Zip: '6759'
+- Address: 1355 Boston Post Road, Guilford, Connecticut 06437
+  Blog: null
+  City: Guilford
+  ContactEmail: pyoinfo@bishopsorchards.com
+  ContactName: null
+  ContactPhone: (203) 458-7425
+  Dates: .nan
+  Description: null
+  Facebook: null
+  Image: default-onfarmmarket-4-3.jpg
+  Instagram: null
+  Latitude: '41.289406'
+  ListingID: '700584'
+  Longitude: '-72.694628'
+  ModifyDate: Mar 24th, 2015
+  Name: Bishops Orchards location 1
+  Pinterest: null
+  Products: ''
+  State: Connecticut
+  Street: 1355 Boston Post Road
+  Twitter: null
+  Type: on-farm market
+  Website: www.bishopsorchards.com
+  Youtube: null
+  Zip: '06437'
+- Address: 19 Raymond Avenue, North Canaan, Connecticut 06018
+  Blog: ''
+  City: North Canaan
+  ContactEmail: howlingflatsfarm@gmail.com
+  ContactName: Kelley Babbin
+  ContactPhone: 860-379-8961
+  Dates: Year-round
+  Description: Howling Flats Farm is a small family farm in the NW Corner of Connecticut
+    raising Certified Humane Grass fed Angus, pasture raised pork and lamb utilizing
+    holistic management practices.
+  Facebook: www.facebook.com/howlingflatsfarm
+  Image: csa_200704_10242_20220330133407.png
+  Instagram: https://www.instagram.com/howlingflatsfarmer/
+  Latitude: '42.0103946'
+  ListingID: '701652'
+  Longitude: '-73.3552462'
+  ModifyDate: Mar 30th, 2022
+  Name: Howling Flats Farm
+  Pinterest: ''
+  Products: Poultry/fowl meat and products
+  State: Connecticut
+  Street: 19 Raymond Ave
+  Twitter: ''
+  Type: on-farm market
+  Website: www.howlingflatsfarm.com
+  Youtube: ''
+  Zip: 06018
+- Address: 33 Branford rd., North Branford, Connecticut 06471
+  Blog: null
+  City: North Branford
+  ContactEmail: roseorchardsfarm.com
+  ContactName: Tyler Rose
+  ContactPhone: 203-488-7996
+  Dates: .nan
+  Description: null
+  Facebook: https://www.facebook.com/roseorchardsfarm/
+  Image: default-onfarmmarket-4-3.jpg
+  Instagram: null
+  Latitude: '41.3078192'
+  ListingID: '701375'
+  Longitude: '-72.771086'
+  ModifyDate: Nov 30th, 2016
+  Name: Rose Orchards
+  Pinterest: null
+  Products: ''
+  State: Connecticut
+  Street: 33 Branford rd.
+  Twitter: null
+  Type: on-farm market
+  Website: roseorchardsfarm.com
+  Youtube: null
+  Zip: '06471'
+- Address: 46 Lake Hayward Town Road, Colchester, Connecticut 06415
+  Blog: null
+  City: Colchester
+  ContactEmail: commongroundcsa@gmail.com
+  ContactName: Jessica & Jeffrey
+  ContactPhone: 860-316-8368
+  Dates: .nan
+  Description: null
+  Facebook: https://www.facebook.com/commongroundcsa
+  Image: default-onfarmmarket-4-3.jpg
+  Instagram: null
+  Latitude: '41.519525'
+  ListingID: '700157'
+  Longitude: '-72.337980'
+  ModifyDate: Oct 15th, 2014
+  Name: Common Ground CSA
+  Pinterest: null
+  Products: ''
+  State: Connecticut
+  Street: 46 Lake Hayward Town Road
+  Twitter: null
+  Type: on-farm market
+  Website: www.commongroundcsa.com
+  Youtube: null
+  Zip: '06415'
+- Address: ', East Haddam, Connecticut 06423'
+  Blog: null
+  City: East Haddam
+  ContactEmail: coldspringfarm@icloud.com
+  ContactName: Jessica & Jeffrey
+  ContactPhone: 860-316-8368
+  Dates: .nan
+  Description: null
+  Facebook: null
+  Image: default-onfarmmarket-4-3.jpg
+  Instagram: null
+  Latitude: '41.5034351'
+  ListingID: '701138'
+  Longitude: '-72.475776'
+  ModifyDate: Oct 15th, 2014
+  Name: COLD SPRING FARM at Lake Hayward
+  Pinterest: null
+  Products: ''
+  State: Connecticut
+  Street: null
+  Twitter: null
+  Type: on-farm market
+  Website: null
+  Youtube: null
+  Zip: '06423'
+- Address: 54 Joy Road, Woodstock, Connecticut 6281
+  Blog: null
+  City: Woodstock
+  ContactEmail: devonpointfarm@gmail.com
+  ContactName: Patty Taylor
+  ContactPhone: 860-974-9004
+  Dates: .nan
+  Description: null
+  Facebook: null
+  Image: default-onfarmmarket-4-3.jpg
+  Instagram: null
+  Latitude: '41.955761'
+  ListingID: '700494'
+  Longitude: '-71.986364'
+  ModifyDate: Sep 14th, 2014
+  Name: Devon Point Farm
+  Pinterest: null
+  Products: ''
+  State: Connecticut
+  Street: 54 Joy Road
+  Twitter: null
+  Type: on-farm market
+  Website: http://www.devonpointfarm.com
+  Youtube: null
+  Zip: '6281'
+- Address: 113 Khourie Road, Scotland, Connecticut 06264
+  Blog: null
+  City: Scotland
+  ContactEmail: lmsmith@snet.net
+  ContactName: ROBERT BRAUTIGAM
+  ContactPhone: (860) 456-3333
+  Dates: .nan
+  Description: null
+  Facebook: null
+  Image: default-onfarmmarket-4-3.jpg
+  Instagram: null
+  Latitude: '41.684190'
+  ListingID: '700683'
+  Longitude: '-72.077528'
+  ModifyDate: Sep 16th, 2014
+  Name: Oak Haven Farm
+  Pinterest: null
+  Products: ''
+  State: Connecticut
+  Street: 113 Khourie Road
+  Twitter: null
+  Type: on-farm market
+  Website: lmsmith@snet.net
+  Youtube: null
+  Zip: '06264'
+- Address: 45 Turkey Plain RD, Bethel, Connecticut 06801
+  Blog: null
+  City: Bethel
+  ContactEmail: jwong1817@gmail.com
+  ContactName: Jessica Wong
+  ContactPhone: 203-979-1817
+  Dates: .nan
+  Description: null
+  Facebook: https://www.facebook.com/pages/Holbrook-Farm/201052823263981?ref=br_tf
+  Image: default-onfarmmarket-4-3.jpg
+  Instagram: null
+  Latitude: '41.3462840'
+  ListingID: '701092'
+  Longitude: '-73.416749'
+  ModifyDate: Sep 23rd, 2014
+  Name: Holbrook Farm Market and Bakery
+  Pinterest: null
+  Products: ''
+  State: Connecticut
+  Street: 45 Turkey Plain RD
+  Twitter: null
+  Type: on-farm market
+  Website: http://holbrookfarm.net/index.html
+  Youtube: null
+  Zip: 06801
+- Address: 94 Mallory Rd, Roxbury, Connecticut 06783
+  Blog: www.mikesbeehives.com
+  City: Roxbury
+  ContactEmail: mikesbeehives@gmail.com
+  ContactName: Mike\'s Beehives LLC
+  ContactPhone: '2036482942'
+  Dates: .nan
+  Description: null
+  Facebook: Mike\'s Beehives LLC
+  Image: default-onfarmmarket-4-3.jpg
+  Instagram: null
+  Latitude: '41.516591'
+  ListingID: '701103'
+  Longitude: '-73.291478'
+  ModifyDate: Sep 27th, 2014
+  Name: Mike's Beehives LLC
+  Pinterest: null
+  Products: ''
+  State: Connecticut
+  Street: 94 Mallory Rd
+  Twitter: Mike\'s  Beehives
+  Type: on-farm market
+  Website: www.mikesbeehives.com
+  Youtube: null
+  Zip: 06783
+- Address: 116 Crary Rd., Griswold, Connecticut 06351
+  Blog: null
+  City: Griswold
+  ContactEmail: stonebridgealpacas@ct.metrocast.net
+  ContactName: Denise Curran
+  ContactPhone: 860-376-5027
+  Dates: .nan
+  Description: null
+  Facebook: https://www.facebook.com/stonebridgealpacas
+  Image: default-onfarmmarket-4-3.jpg
+  Instagram: null
+  Latitude: '41.568413'
+  ListingID: '700222'
+  Longitude: '-71.950160'
+  ModifyDate: Sep 30th, 2014
+  Name: Stone Bridge Farm Alpacas
+  Pinterest: null
+  Products: ''
+  State: Connecticut
+  Street: 116 Crary Rd.
+  Twitter: null
+  Type: on-farm market
+  Website: http://www.stonebridgealpacas.com/
+  Youtube: null
+  Zip: '06351'
