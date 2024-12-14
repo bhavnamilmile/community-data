@@ -1,1 +1,451 @@
-data: []
+data:
+- Address: 1692 18th Road, Washington, Kansas 66968
+  Blog: null
+  City: Washington
+  ContactEmail: terespenning@gmail.com
+  ContactName: Teresa Penning
+  ContactPhone: 785-541-0095
+  Dates: .nan
+  Description: null
+  Facebook: null
+  Image: default-onfarmmarket-4-3.jpg
+  Instagram: null
+  Latitude: '39.828054'
+  ListingID: '701247'
+  Longitude: '-97.068195'
+  ModifyDate: Apr 21st, 2015
+  Name: 4K Ranch
+  Pinterest: null
+  Products: ''
+  State: Kansas
+  Street: 1692 18th Road
+  Twitter: null
+  Type: on-farm market
+  Website: null
+  Youtube: null
+  Zip: '66968'
+- Address: 418 W DIEL ST, Otis, Kansas 67565
+  Blog: null
+  City: Otis
+  ContactEmail: rhinos@gbta.net
+  ContactName: Kent Reinhardt
+  ContactPhone: '17853871846'
+  Dates: .nan
+  Description: null
+  Facebook: null
+  Image: default-onfarmmarket-4-3.jpg
+  Instagram: null
+  Latitude: '38.532400'
+  ListingID: '701609'
+  Longitude: '-99.195495'
+  ModifyDate: Aug 18th, 2021
+  Name: Brannan & Reinhardt Polled Herefords
+  Pinterest: null
+  Products: ''
+  State: Kansas
+  Street: 418 W DIEL ST
+  Twitter: null
+  Type: on-farm market
+  Website: http://www.kansaspolledherefords.org/bandr/
+  Youtube: null
+  Zip: '67565'
+- Address: 21733 Iliff Rd, Parker , Kansas 66072
+  Blog: http://www.synergisticacres.com/blog/
+  City: Parker
+  ContactEmail: jeffhamons@gmail.com
+  ContactName: Jeff Hamons
+  ContactPhone: '9137354769'
+  Dates: .nan
+  Description: null
+  Facebook: www.facebook.com/synergisticacres
+  Image: default-onfarmmarket-4-3.jpg
+  Instagram: null
+  Latitude: '38.341665'
+  ListingID: '700898'
+  Longitude: '-94.917233'
+  ModifyDate: Aug 23rd, 2014
+  Name: Synergistic Acres Pasture Raised Meats
+  Pinterest: null
+  Products: ''
+  State: Kansas
+  Street: 21733 Iliff Rd
+  Twitter: null
+  Type: on-farm market
+  Website: www.synergisticares.com
+  Youtube: null
+  Zip: '66072'
+- Address: 6800 W 201st Terr, Bucyrus, Kansas 66013
+  Blog: null
+  City: Bucyrus
+  ContactEmail: mark@tubbyfruits.com
+  ContactName: Mark Angermayer
+  ContactPhone: 913-851-7414
+  Dates: .nan
+  Description: null
+  Facebook: null
+  Image: default-onfarmmarket-4-3.jpg
+  Instagram: null
+  Latitude: '38.7631410'
+  ListingID: '700918'
+  Longitude: '-94.664151'
+  ModifyDate: Aug 24th, 2014
+  Name: Tubby Fruits Orchard
+  Pinterest: null
+  Products: ''
+  State: Kansas
+  Street: 6800 W 201st Terr
+  Twitter: null
+  Type: on-farm market
+  Website: www.tubbyfruits.com
+  Youtube: null
+  Zip: '66013'
+- Address: 2300 lower silver lake rd., topeka, Kansas 66618
+  Blog: null
+  City: topeka
+  ContactEmail: farmer325@aol.com
+  ContactName: lenny meier jr
+  ContactPhone: '7852203335'
+  Dates: .nan
+  Description: null
+  Facebook: null
+  Image: default-onfarmmarket-4-3.jpg
+  Instagram: null
+  Latitude: '39.076619'
+  ListingID: '700990'
+  Longitude: '-95.692525'
+  ModifyDate: Aug 29th, 2014
+  Name: Meier's Market
+  Pinterest: null
+  Products: ''
+  State: Kansas
+  Street: 2300 lower silver lake rd.
+  Twitter: null
+  Type: on-farm market
+  Website: null
+  Youtube: null
+  Zip: '66618'
+- Address: 774 Stafford Road, Pomona, Kansas 66076
+  Blog: null
+  City: Pomona
+  ContactEmail: WVFarm@outlook.com
+  ContactName: Sonja Wood
+  ContactPhone: '7852554445'
+  Dates: .nan
+  Description: null
+  Facebook: Woodlandvalleyfarm-Kansas
+  Image: default-onfarmmarket-4-3.jpg
+  Instagram: null
+  Latitude: '38.709147'
+  ListingID: '701444'
+  Longitude: '-95.439204'
+  ModifyDate: Feb 28th, 2018
+  Name: WVFarm, LLC
+  Pinterest: null
+  Products: ''
+  State: Kansas
+  Street: 774 Stafford Road
+  Twitter: Twitter.com/wvfarm
+  Type: on-farm market
+  Website: Woodlandvalleyfarm.info
+  Youtube: null
+  Zip: '66076'
+- Address: 3873 NE 4th, El Dorado, Kansas 67042
+  Blog: null
+  City: El Dorado
+  ContactEmail: billy.fanska@gmail.com
+  ContactName: Billy Fanska
+  ContactPhone: '3163239326'
+  Dates: .nan
+  Description: null
+  Facebook: https://www.facebook.com/FanskaFarms/
+  Image: default-onfarmmarket-4-3.jpg
+  Instagram: null
+  Latitude: '37.8297640'
+  ListingID: '701441'
+  Longitude: '-96.769746'
+  ModifyDate: Jan 28th, 2018
+  Name: Fanska Farms
+  Pinterest: null
+  Products: ''
+  State: Kansas
+  Street: 3873 NE 4th
+  Twitter: null
+  Type: on-farm market
+  Website: www.FanskaFarms.com
+  Youtube: null
+  Zip: '67042'
+- Address: 8 Bentgrass Dr., Hesston, Kansas 67062
+  Blog: null
+  City: Hesston
+  ContactEmail: info@KalayaEmuEstate.com
+  ContactName: Betty Augustine
+  ContactPhone: 620-327-4124
+  Dates: .nan
+  Description: null
+  Facebook: null
+  Image: default-onfarmmarket-4-3.jpg
+  Instagram: null
+  Latitude: '38.1314260'
+  ListingID: '700318'
+  Longitude: '-97.410670'
+  ModifyDate: Jul 26th, 2014
+  Name: Kalaya Emu Estates
+  Pinterest: null
+  Products: ''
+  State: Kansas
+  Street: 8 Bentgrass Dr.
+  Twitter: null
+  Type: on-farm market
+  Website: www.KalayaEmuEstate.com
+  Youtube: null
+  Zip: '67062'
+- Address: 187 21st Ave, Moundridge, Kansas 67107
+  Blog: null
+  City: Moundridge
+  ContactEmail: lynn@underhillfarms.com
+  ContactName: Lynn Kaufman
+  ContactPhone: 620-345-8415
+  Dates: .nan
+  Description: null
+  Facebook: null
+  Image: default-onfarmmarket-4-3.jpg
+  Instagram: null
+  Latitude: '38.2014760'
+  ListingID: '700274'
+  Longitude: '-97.538240'
+  ModifyDate: Jul 27th, 2014
+  Name: Underhill Farms
+  Pinterest: null
+  Products: ''
+  State: Kansas
+  Street: 187 21st Ave
+  Twitter: null
+  Type: on-farm market
+  Website: null
+  Youtube: null
+  Zip: '67107'
+- Address: 4772 SW 60th Street, El Dorado, Kansas 67042
+  Blog: null
+  City: El Dorado
+  ContactEmail: info@boondockerfarms.com
+  ContactName: Steve Finley
+  ContactPhone: 316-350-7785
+  Dates: .nan
+  Description: null
+  Facebook: https://www.facebook.com/pages/Boondocker-Farms/213960995309803
+  Image: default-onfarmmarket-4-3.jpg
+  Instagram: null
+  Latitude: '37.738005'
+  ListingID: '700080'
+  Longitude: '-96.932121'
+  ModifyDate: Jul 28th, 2014
+  Name: Boondocker Farms
+  Pinterest: null
+  Products: ''
+  State: Kansas
+  Street: 4772 SW 60th Street
+  Twitter: null
+  Type: on-farm market
+  Website: www.boondockerfarms.com
+  Youtube: null
+  Zip: '67042'
+- Address: 3230 McDowell Creek Road, Manhattan, Kansas 66502
+  Blog: http://christysfarm.org/christysfarmblog/
+  City: Manhattan
+  ContactEmail: christy@christysfarm.org
+  ContactName: Christy O\'Neal
+  ContactPhone: 785-477-2480
+  Dates: .nan
+  Description: null
+  Facebook: https://www.facebook.com/Christy\'sFarm
+  Image: default-onfarmmarket-4-3.jpg
+  Instagram: null
+  Latitude: '39.123231'
+  ListingID: '700161'
+  Longitude: '-96.582717'
+  ModifyDate: Jul 28th, 2014
+  Name: Christy's Farm
+  Pinterest: null
+  Products: ''
+  State: Kansas
+  Street: 3230 McDowell Creek Road
+  Twitter: null
+  Type: on-farm market
+  Website: http://www.christysfarm.org/
+  Youtube: null
+  Zip: '66502'
+- Address: 916 Pennsylvania St, Lawrence , Kansas 66044
+  Blog: null
+  City: Lawrence
+  ContactEmail: maseualkuallifarms@gmail.com
+  ContactName: Pantaleon Florez III
+  ContactPhone: 785-221-8008
+  Dates: .nan
+  Description: null
+  Facebook: null
+  Image: default-onfarmmarket-4-3.jpg
+  Instagram: null
+  Latitude: '39.000706'
+  ListingID: '701604'
+  Longitude: '-95.229148'
+  ModifyDate: Jul 2nd, 2021
+  Name: Maseualkualli Farms
+  Pinterest: null
+  Products: ''
+  State: Kansas
+  Street: 916 Pennsylvania St
+  Twitter: null
+  Type: on-farm market
+  Website: www.masefarm.org
+  Youtube: null
+  Zip: '66044'
+- Address: 1001 East 26th Ave., Manhattan, Kansas 66502
+  Blog: null
+  City: Manhattan
+  ContactEmail: parkspasturepork@gmail.com
+  ContactName: Darrell Parks
+  ContactPhone: 785-770-2835
+  Dates: .nan
+  Description: null
+  Facebook: null
+  Image: default-onfarmmarket-4-3.jpg
+  Instagram: null
+  Latitude: '39.153204'
+  ListingID: '701003'
+  Longitude: '-96.492305'
+  ModifyDate: Mar 24th, 2015
+  Name: Parks Farm
+  Pinterest: null
+  Products: ''
+  State: Kansas
+  Street: 1001 East 26th Ave.
+  Twitter: null
+  Type: on-farm market
+  Website: null
+  Youtube: null
+  Zip: '66502'
+- Address: 5830 West 167th Street, Stilwell, Kansas 66085
+  Blog: null
+  City: Stilwell
+  ContactEmail: sfrisse@kc.rr.com
+  ContactName: Suzanne Frisse
+  ContactPhone: '9136815004'
+  Dates: .nan
+  Description: null
+  Facebook: https://www.facebook.com/pages/Meadowlark-Acres/298419166130?ref=hl
+  Image: default-onfarmmarket-4-3.jpg
+  Instagram: null
+  Latitude: '38.826238'
+  ListingID: '701173'
+  Longitude: '-94.653190'
+  ModifyDate: Nov 21st, 2014
+  Name: Meadowlark Acres
+  Pinterest: null
+  Products: ''
+  State: Kansas
+  Street: 5830 West 167th Street
+  Twitter: null
+  Type: on-farm market
+  Website: www.meadowlarkacres.com
+  Youtube: null
+  Zip: '66085'
+- Address: 3762 51st Rd., Udall, Kansas 67146
+  Blog: null
+  City: Udall
+  ContactEmail: bsmart3762@gmail.com
+  ContactName: Billy Y. Smart
+  ContactPhone: '6207829638'
+  Dates: .nan
+  Description: null
+  Facebook: null
+  Image: default-onfarmmarket-4-3.jpg
+  Instagram: null
+  Latitude: '37.437208'
+  ListingID: '701135'
+  Longitude: '-97.060063'
+  ModifyDate: Oct 12th, 2014
+  Name: B Smart Apiaries
+  Pinterest: null
+  Products: ''
+  State: Kansas
+  Street: 3762 51st Rd.
+  Twitter: null
+  Type: on-farm market
+  Website: null
+  Youtube: null
+  Zip: '67146'
+- Address: 11249 SW 160th St, Rose Hill, Kansas 67133
+  Blog: null
+  City: Rose Hill
+  ContactEmail: tom@themeadowlarkfarm.com
+  ContactName: Tom Brown
+  ContactPhone: 316-518-8907
+  Dates: .nan
+  Description: null
+  Facebook: https://www.facebook.com/meadowlarkfarm
+  Image: default-onfarmmarket-4-3.jpg
+  Instagram: null
+  Latitude: '37.591739'
+  ListingID: '700101'
+  Longitude: '-97.044939'
+  ModifyDate: Sep 16th, 2014
+  Name: Meadowlark Farm, LLC
+  Pinterest: null
+  Products: ''
+  State: Kansas
+  Street: 11249 SW 160th St
+  Twitter: null
+  Type: on-farm market
+  Website: www.themeadowlarkfarm.com
+  Youtube: null
+  Zip: '67133'
+- Address: 29050 W 127th Street, Olathe , Kansas 66061
+  Blog: null
+  City: Olathe
+  ContactEmail: rwn45@embarqmail.com
+  ContactName: Rick Newson
+  ContactPhone: 913-884-6374
+  Dates: .nan
+  Description: null
+  Facebook: www.facebook.com/campcreekfarms
+  Image: default-onfarmmarket-4-3.jpg
+  Instagram: null
+  Latitude: '38.9001530'
+  ListingID: '701078'
+  Longitude: '-94.922090'
+  ModifyDate: Sep 16th, 2014
+  Name: Camp Creek Farms
+  Pinterest: null
+  Products: ''
+  State: Kansas
+  Street: 29050 W 127th Street
+  Twitter: null
+  Type: on-farm market
+  Website: null
+  Youtube: null
+  Zip: '66061'
+- Address: 22722 E 800 Rd, Pleasanton, Kansas 66075
+  Blog: null
+  City: Pleasanton
+  ContactEmail: GodsAcre@ckt.net
+  ContactName: Sheri Noffke
+  ContactPhone: 913-352-8727
+  Dates: .nan
+  Description: null
+  Facebook: Skyview Farm
+  Image: default-onfarmmarket-4-3.jpg
+  Instagram: null
+  Latitude: '38.140017'
+  ListingID: '701094'
+  Longitude: '-94.681721'
+  ModifyDate: Sep 24th, 2014
+  Name: Skyview Farm and Creamery
+  Pinterest: null
+  Products: ''
+  State: Kansas
+  Street: 22722 E 800 Rd
+  Twitter: null
+  Type: on-farm market
+  Website: skyviewfarm.net
+  Youtube: null
+  Zip: '66075'
