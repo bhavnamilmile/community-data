@@ -82,36 +82,6 @@ data:
   Website: null
   Youtube: null
   Zip: '88042'
-- Address: 777 1st street SW, Albuquerque, New Mexico 87102
-  Blog: null
-  City: Albuquerque
-  ContactEmail: railyardsmarket@gmail.com
-  ContactName: null
-  ContactPhone: '5056001109'
-  Dates: May to October
-  Description: null
-  Facebook: https://www.facebook.com/RailYardsMarket/
-  Image: farmersmarket_301576_11025_20230608192737.png
-  Instagram: null
-  Latitude: '35.075615'
-  ListingID: '301576'
-  Longitude: '-106.64902'
-  ModifyDate: Jun 8th, 2023
-  Name: Rail Yards Market
-  Pinterest: null
-  Products: Fresh fruits, Fresh vegetables, Baked goods, Bedding plants, Canned or
-    preserved fruits/vegetables, Coffee/tea, Crafts/woodworking items, Cut flowers,
-    Dairy products., Dry beans, Eggs, Fresh/dried herbs, Grains/flour, Honey, Juices/non-alcoholic
-    ciders, Mushrooms, Nursery stock, Nuts, Pet food, Poultry/fowl meat and products,
-    Prepared foods, Red/other non-poultry meat and products, Soap/body care products,
-    Wild harvested forest products
-  State: New Mexico
-  Street: 777 1st street SW
-  Twitter: null
-  Type: farmers market
-  Website: www.railyardsmarket.org
-  Youtube: null
-  Zip: '87102'
 - Address: 1987 White Sands Blvd., Alamogordo, NM, 88310
   Blog: null
   City: Alamogordo
@@ -889,6 +859,38 @@ data:
   Website: http://www.meetatthemarket.com
   Youtube: null
   Zip: '87107'
+- Address: 777 1st street SW, Albuquerque, New Mexico 87102
+  Blog: ''
+  City: Albuquerque
+  ContactEmail: railyardsmarket@gmail.com
+  ContactName: ''
+  ContactPhone: '5056001109'
+  Dates: May to October
+  Description: "A Farmers' Market with Food, Art, Music. For the Community, by the\
+    \ Community.\r\n\r\nOpen 10am-2pm Sundays May-Oct\r\n\r\nSpecial markets in Dec\
+    \ & Feb"
+  Facebook: https://www.facebook.com/RailYardsMarket/
+  Image: farmersmarket_301576_11025_20240501210924.png
+  Instagram: https://www.instagram.com/railyardsmarket.abq/
+  Latitude: '35.075615'
+  ListingID: '301576'
+  Longitude: '-106.64902'
+  ModifyDate: May 1st, 2024
+  Name: Rail Yards Market
+  Pinterest: ''
+  Products: Fresh fruits, Fresh vegetables, Baked goods, Bedding plants, Canned or
+    preserved fruits/vegetables, Coffee/tea, Crafts/woodworking items, Cut flowers,
+    Dairy products., Dry beans, Eggs, Fresh/dried herbs, Grains/flour, Honey, Juices/non-alcoholic
+    ciders, Mushrooms, Nursery stock, Nuts, Pet food, Poultry/fowl meat and products,
+    Prepared foods, Red/other non-poultry meat and products, Soap/body care products,
+    Wild harvested forest products
+  State: New Mexico
+  Street: 777 1st street SW
+  Twitter: ''
+  Type: farmers market
+  Website: www.railyardsmarket.org
+  Youtube: ''
+  Zip: '87102'
 - Address: 901 N Pope ST, Silver City, New Mexico 88061
   Blog: null
   City: Silver City

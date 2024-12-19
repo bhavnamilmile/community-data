@@ -5523,33 +5523,6 @@ data:
   Website: https://wingspread.farm/farmstand/
   Youtube: null
   Zip: '33596'
-- Address: 8611 47th Drive, Live Oak, Florida 32060
-  Blog: ''
-  City: Live Oak
-  ContactEmail: billie.rooney@gmail.com
-  ContactName: Scott & Billie Rooney
-  ContactPhone: 386-590-9053
-  Dates: .nan
-  Description: Rooney\'s Front Porch Farm\'s season is June to mid July.  We offer
-    U-Pick blueberries, blackberries and sunflowers.  There is ample parking and a
-    clean restroom.  Fun for the whole family.  Check our website for lots of pictures.
-  Facebook: https://www.facebook.com/rooneysfarm
-  Image: onfarmmarket_700625_13410_20220427192656.png
-  Instagram: ''
-  Latitude: '30.294693'
-  ListingID: '700625'
-  Longitude: '-82.843306'
-  ModifyDate: Apr 27th, 2022
-  Name: Rooney's Front Porch Farm
-  Pinterest: ''
-  Products: ''
-  State: Florida
-  Street: 8611 47th Drive
-  Twitter: ''
-  Type: on-farm market
-  Website: https://www.rooneyfarm.com
-  Youtube: ''
-  Zip: '32060'
 - Address: 1615 U.s. Highway 92 East, Seffner, Florida 33584
   Blog: null
   City: Seffner
@@ -7025,6 +6998,33 @@ data:
   Website: null
   Youtube: null
   Zip: '33031'
+- Address: 8611 47th Drive, Live Oak, Florida 32060
+  Blog: ''
+  City: Live Oak
+  ContactEmail: billie.rooney@gmail.com
+  ContactName: Scott & Billie Rooney
+  ContactPhone: 386-590-9053
+  Dates: May to July
+  Description: Rooney\'s Front Porch Farm\'s season is June to mid July.  We offer
+    U-Pick blueberries, blackberries and sunflowers.  There is ample parking and a
+    clean restroom.  Fun for the whole family.  Check our website for lots of pictures.
+  Facebook: https://www.facebook.com/rooneysfarm
+  Image: onfarmmarket_700625_13410_20220427192656.png
+  Instagram: ''
+  Latitude: '30.294693'
+  ListingID: '700625'
+  Longitude: '-82.843306'
+  ModifyDate: May 24th, 2024
+  Name: Rooney's Front Porch Farm
+  Pinterest: ''
+  Products: Fresh fruits, Canned or preserved fruits/vegetables, Cut flowers
+  State: Florida
+  Street: 8611 47th Drive
+  Twitter: ''
+  Type: on-farm market
+  Website: https://www.rooneyfarm.com
+  Youtube: ''
+  Zip: '32060'
 - Address: 252 Wakulla Springs Road, Crawfordville, Florida 32327
   Blog: null
   City: Crawfordville
