@@ -29,36 +29,6 @@ data:
   Website: troymarket.org
   Youtube: ''
   Zip: '12180'
-- Address: Memorial Plaza (next to the train station), Pleasantville, New York 10570
-  Blog: null
-  City: Pleasantville
-  ContactEmail: steven@pleasantvillefarmersmarket.org
-  ContactName: Steven Bates
-  ContactPhone: '9142054545'
-  Dates: April to November
-  Description: null
-  Facebook: https://www.facebook.com/PvilleFarmMarket
-  Image: default-farmersmarket-4-3.jpg
-  Instagram: null
-  Latitude: '41.135051'
-  ListingID: '301497'
-  Longitude: '-73.793652'
-  ModifyDate: Apr 28th, 2021
-  Name: Pleasantville Farmers Market - Outdoor
-  Pinterest: null
-  Products: Fresh fruits, Fresh vegetables, Baked goods, Canned or preserved fruits/vegetables,
-    Coffee/tea, Crafts/woodworking items, Dairy products., Eggs, Fish/seafood, Fresh/dried
-    herbs, Grains/flour, Honey, Juices/non-alcoholic ciders, Maple products, Mushrooms,
-    Pet food, Poultry/fowl meat and products, Prepared foods, Red/other non-poultry
-    meat and products, Soap/body care products, Wild harvested forest products, Wine,
-    spirits, beer, hard cider
-  State: New York
-  Street: Memorial Plaza
-  Twitter: null
-  Type: farmers market
-  Website: https://www.pleasantvillefarmersmarket.org/
-  Youtube: null
-  Zip: '10570'
 - Address: 20 West Park Row, Clinton, New York 13323
   Blog: null
   City: Clinton
@@ -9930,6 +9900,36 @@ data:
   Website: https://grownyc.org/
   Youtube: null
   Zip: '10007'
+- Address: Memorial Plaza (next to the train station), Pleasantville, New York 10570
+  Blog: null
+  City: Pleasantville
+  ContactEmail: steven@pleasantvillefarmersmarket.org
+  ContactName: Steven Bates
+  ContactPhone: '9142054545'
+  Dates: April to November
+  Description: null
+  Facebook: https://www.facebook.com/PvilleFarmMarket
+  Image: default-farmersmarket-4-3.jpg
+  Instagram: null
+  Latitude: '41.135051'
+  ListingID: '301497'
+  Longitude: '-73.793652'
+  ModifyDate: Mar 31st, 2025
+  Name: Pleasantville Farmers Market - Outdoor
+  Pinterest: null
+  Products: Fresh fruits, Fresh vegetables, Baked goods, Canned or preserved fruits/vegetables,
+    Coffee/tea, Crafts/woodworking items, Dairy products., Eggs, Fish/seafood, Fresh/dried
+    herbs, Grains/flour, Honey, Juices/non-alcoholic ciders, Maple products, Mushrooms,
+    Pet food, Poultry/fowl meat and products, Prepared foods, Red/other non-poultry
+    meat and products, Soap/body care products, Wild harvested forest products, Wine,
+    spirits, beer, hard cider
+  State: New York
+  Street: Memorial Plaza (next to the train station)
+  Twitter: null
+  Type: farmers market
+  Website: https://www.pleasantvillefarmersmarket.org/
+  Youtube: null
+  Zip: '10570'
 - Address: 4th Street at 5th Avenue, Park Slope, New York 11215
   Blog: null
   City: Park Slope
