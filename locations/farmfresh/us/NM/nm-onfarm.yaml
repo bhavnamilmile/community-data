@@ -864,18 +864,21 @@ data:
   City: Albuquerque
   ContactEmail: railyardsmarket@gmail.com
   ContactName: ''
-  ContactPhone: '5056001109'
+  ContactPhone: 505-600-1109
   Dates: May to October
-  Description: "A Farmers' Market with Food, Art, Music. For the Community, by the\
-    \ Community.\r\n\r\nOpen 10am-2pm Sundays May-Oct\r\n\r\nSpecial markets in Dec\
-    \ & Feb"
+  Description: "Rail Yards Market is a vibrant community market held Sundays 10am\u2013\
+    2pm, May through October, in Albuquerque\u2019s historic Barelas Rail Yards. We\
+    \ feature 175+ local vendors offering fresh produce, food, and art, plus live\
+    \ music and family fun. We also host special events including a Holiday Market\
+    \ in December and a Valentine Market in February. Free entry, ADA accessible,\
+    \ SNAP/EBT/WIC welcome!"
   Facebook: https://www.facebook.com/RailYardsMarket/
   Image: farmersmarket_301576_11025_20240501210924.png
   Instagram: https://www.instagram.com/railyardsmarket.abq/
   Latitude: '35.075615'
   ListingID: '301576'
   Longitude: '-106.64902'
-  ModifyDate: May 1st, 2024
+  ModifyDate: May 8th, 2025
   Name: Rail Yards Market
   Pinterest: ''
   Products: Fresh fruits, Fresh vegetables, Baked goods, Bedding plants, Canned or
@@ -888,7 +891,7 @@ data:
   Street: 777 1st street SW
   Twitter: ''
   Type: farmers market
-  Website: www.railyardsmarket.org
+  Website: https://railyardsmarket.org/
   Youtube: ''
   Zip: '87102'
 - Address: 901 N Pope ST, Silver City, New Mexico 88061

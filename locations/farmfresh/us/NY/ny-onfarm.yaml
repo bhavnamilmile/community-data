@@ -29,6 +29,46 @@ data:
   Website: troymarket.org
   Youtube: ''
   Zip: '12180'
+- Address: Memorial Plaza (next to the train station), Pleasantville, New York 10570
+  Blog: ''
+  City: Pleasantville
+  ContactEmail: steven@pleasantvillefarmersmarket.org
+  ContactName: Steven Bates
+  ContactPhone: '9142054545'
+  Dates: April to November
+  Description: "The largest weekly, year-round farmers market in the county, voted\
+    \ \"Best of Westchester\" in 2014 - 2024, eleven years in a row! With over 60\
+    \ vendors, 9 nearby parking lots, live music, culinary demos, kids events, and\
+    \ nutritional talks, the Market is located in Memorial Plaza, in the heart of\
+    \ the historic Village of Pleasantville. Please note the Market is a dog-free\
+    \ environment.\r\nSNAP benefits are doubled (up to $20) at Pleasantville Farmers\
+    \ Market. Redeem $20 in benefits, get $40 to spend, thanks to a generous grant\
+    \ from our local hospitals, Phelps Hospital and Northern Westchester Hospital,\
+    \ both part of the Market's Lead Sponsor Northwell Health. WIC & Seniors Farmers\
+    \ Market Nutrition Program checks can also be used to purchase fruit and vegetables\
+    \ at the Market. Stop by the Managers Tent for assistance.\r\n"
+  Facebook: https://www.facebook.com/PvilleFarmMarket
+  Image: default-farmersmarket-4-3.jpg
+  Instagram: ''
+  Latitude: '41.135051'
+  ListingID: '301497'
+  Longitude: '-73.793652'
+  ModifyDate: Apr 17th, 2025
+  Name: Pleasantville Farmers Market - Outdoor
+  Pinterest: ''
+  Products: Fresh fruits, Fresh vegetables, Baked goods, Canned or preserved fruits/vegetables,
+    Coffee/tea, Crafts/woodworking items, Dairy products., Eggs, Fish/seafood, Fresh/dried
+    herbs, Grains/flour, Honey, Juices/non-alcoholic ciders, Maple products, Mushrooms,
+    Pet food, Poultry/fowl meat and products, Prepared foods, Red/other non-poultry
+    meat and products, Soap/body care products, Wild harvested forest products, Wine,
+    spirits, beer, hard cider
+  State: New York
+  Street: Memorial Plaza (next to the train station)
+  Twitter: ''
+  Type: farmers market
+  Website: https://www.pleasantvillefarmersmarket.org/
+  Youtube: ''
+  Zip: '10570'
 - Address: 20 West Park Row, Clinton, New York 13323
   Blog: null
   City: Clinton
@@ -395,94 +435,6 @@ data:
   Website: PO Box 567
   Youtube: null
   Zip: '10538'
-- Address: Thomas Paine Cottage Museum, New Rochelle, New York 10804
-  Blog: null
-  City: New Rochelle
-  ContactEmail: info@downtoearthmarkets.com
-  ContactName: Down to Earth Markets
-  ContactPhone: '9149234837'
-  Dates: June to November
-  Description: null
-  Facebook: https://www.facebook.com/newrochellefarmersmarket/
-  Image: default-farmersmarket-4-3.jpg
-  Instagram: null
-  Latitude: '40.933570'
-  ListingID: '300329'
-  Longitude: '-73.791017'
-  ModifyDate: Jan 25th, 2021
-  Name: Down to Earth New Rochelle Farmers Market
-  Pinterest: null
-  Products: Fresh fruits, Fresh vegetables, Baked goods, Bedding plants, Canned or
-    preserved fruits/vegetables, Coffee/tea, Cut flowers, Dry beans, Eggs, Fish/seafood,
-    Fresh/dried herbs, Grains/flour, Honey, Juices/non-alcoholic ciders, Maple products,
-    Mushrooms, Nuts, Poultry/fowl meat and products, Prepared foods, Red/other non-poultry
-    meat and products, Wine, spirits, beer, hard cider
-  State: New York
-  Street: Thomas Paine Cottage Museum
-  Twitter: https://twitter.com/DowntoEarthMkts
-  Type: farmers market
-  Website: PO Box 567
-  Youtube: null
-  Zip: '10804'
-- Address: Parking lot off Theodore Fremd Ave., Rye, New York 10580
-  Blog: null
-  City: Rye
-  ContactEmail: info@downtoearthmarkets.com
-  ContactName: Down to Earth Markets
-  ContactPhone: '9149234837'
-  Dates: May to December
-  Description: null
-  Facebook: https://www.facebook.com/ryefarmersmarket
-  Image: default-farmersmarket-4-3.jpg
-  Instagram: null
-  Latitude: '40.983895'
-  ListingID: '300330'
-  Longitude: '-73.686043'
-  ModifyDate: Jan 25th, 2021
-  Name: Down to Earth Rye Farmers Market
-  Pinterest: null
-  Products: Fresh fruits, Fresh vegetables, Baked goods, Bedding plants, Canned or
-    preserved fruits/vegetables, Coffee/tea, Crafts/woodworking items, Cut flowers,
-    Dairy products., Dry beans, Eggs, Fish/seafood, Fresh/dried herbs, Grains/flour,
-    Honey, Juices/non-alcoholic ciders, Maple products, Mushrooms, Nuts, Pet food,
-    Poultry/fowl meat and products, Prepared foods, Red/other non-poultry meat and
-    products, Soap/body care products, Wine, spirits, beer, hard cider
-  State: New York
-  Street: Parking lot off Theodore Fremd Ave.
-  Twitter: twitter.com/DowntoEarthMkts
-  Type: farmers market
-  Website: PO Box 567
-  Youtube: null
-  Zip: '10580'
-- Address: At the center of the park, Brooklyn, New York 11222
-  Blog: null
-  City: Brooklyn
-  ContactEmail: info@downtoearthmarkets.com
-  ContactName: Down to Earth Markets
-  ContactPhone: '9149234837'
-  Dates: March to December
-  Description: null
-  Facebook: https://www.facebook.com/mcgolrickparkfarmersmarket
-  Image: default-farmersmarket-4-3.jpg
-  Instagram: null
-  Latitude: '40.724358'
-  ListingID: '300331'
-  Longitude: '-73.943291'
-  ModifyDate: Jan 25th, 2021
-  Name: Down to Earth McGolrick Park Farmers Market
-  Pinterest: null
-  Products: Fresh fruits, Fresh vegetables, Baked goods, Bedding plants, Canned or
-    preserved fruits/vegetables, Coffee/tea, Cut flowers, Dairy products., Eggs, Fish/seafood,
-    Fresh/dried herbs, Honey, Juices/non-alcoholic ciders, Maple products, Mushrooms,
-    Poultry/fowl meat and products, Prepared foods, Red/other non-poultry meat and
-    products, Tofu/non-animal protein, Wine, spirits, beer, hard cider
-  State: New York
-  Street: At the center of the park
-  Twitter: https://twitter.com/DowntoEarthMkts
-  Type: farmers market
-  Website: PO Box 567
-  Youtube: null
-  Zip: '11222'
 - Address: 110th Street and Manhattan Avenue, Manhattan, New York 10026
   Blog: null
   City: Manhattan
@@ -9900,36 +9852,65 @@ data:
   Website: https://grownyc.org/
   Youtube: null
   Zip: '10007'
-- Address: Memorial Plaza (next to the train station), Pleasantville, New York 10570
+- Address: Parking lot off Theodore Fremd Ave., Rye, New York 10580
   Blog: null
-  City: Pleasantville
-  ContactEmail: steven@pleasantvillefarmersmarket.org
-  ContactName: Steven Bates
-  ContactPhone: '9142054545'
-  Dates: April to November
+  City: Rye
+  ContactEmail: info@downtoearthmarkets.com
+  ContactName: Down to Earth Markets
+  ContactPhone: '9149234837'
+  Dates: May to December
   Description: null
-  Facebook: https://www.facebook.com/PvilleFarmMarket
+  Facebook: https://www.facebook.com/ryefarmersmarket
   Image: default-farmersmarket-4-3.jpg
   Instagram: null
-  Latitude: '41.135051'
-  ListingID: '301497'
-  Longitude: '-73.793652'
-  ModifyDate: Mar 31st, 2025
-  Name: Pleasantville Farmers Market - Outdoor
+  Latitude: '40.983895'
+  ListingID: '300330'
+  Longitude: '-73.686043'
+  ModifyDate: May 20th, 2025
+  Name: Down to Earth Rye Farmers Market
   Pinterest: null
-  Products: Fresh fruits, Fresh vegetables, Baked goods, Canned or preserved fruits/vegetables,
-    Coffee/tea, Crafts/woodworking items, Dairy products., Eggs, Fish/seafood, Fresh/dried
-    herbs, Grains/flour, Honey, Juices/non-alcoholic ciders, Maple products, Mushrooms,
-    Pet food, Poultry/fowl meat and products, Prepared foods, Red/other non-poultry
-    meat and products, Soap/body care products, Wild harvested forest products, Wine,
-    spirits, beer, hard cider
+  Products: Fresh fruits, Fresh vegetables, Baked goods, Bedding plants, Canned or
+    preserved fruits/vegetables, Coffee/tea, Crafts/woodworking items, Cut flowers,
+    Dairy products., Eggs, Fish/seafood, Fresh/dried herbs, Honey, Maple products,
+    Mushrooms, Pet food, Poultry/fowl meat and products, Prepared foods, Red/other
+    non-poultry meat and products, Soap/body care products, Wine, spirits, beer, hard
+    cider
   State: New York
-  Street: Memorial Plaza (next to the train station)
-  Twitter: null
+  Street: Parking lot off Theodore Fremd Ave.
+  Twitter: twitter.com/DowntoEarthMkts
   Type: farmers market
-  Website: https://www.pleasantvillefarmersmarket.org/
+  Website: PO Box 567
   Youtube: null
-  Zip: '10570'
+  Zip: '10580'
+- Address: At the center of the park, Brooklyn, New York 11222
+  Blog: null
+  City: Brooklyn
+  ContactEmail: info@downtoearthmarkets.com
+  ContactName: Down to Earth Markets
+  ContactPhone: '9149234837'
+  Dates: Year-round
+  Description: null
+  Facebook: https://www.facebook.com/mcgolrickparkfarmersmarket
+  Image: default-farmersmarket-4-3.jpg
+  Instagram: null
+  Latitude: '40.724358'
+  ListingID: '300331'
+  Longitude: '-73.943291'
+  ModifyDate: May 20th, 2025
+  Name: Down to Earth McGolrick Park Farmers Market
+  Pinterest: null
+  Products: Fresh fruits, Fresh vegetables, Baked goods, Bedding plants, Canned or
+    preserved fruits/vegetables, Coffee/tea, Cut flowers, Dairy products., Eggs, Fish/seafood,
+    Fresh/dried herbs, Honey, Maple products, Mushrooms, Poultry/fowl meat and products,
+    Prepared foods, Red/other non-poultry meat and products, Soap/body care products,
+    Wine, spirits, beer, hard cider
+  State: New York
+  Street: At the center of the park
+  Twitter: https://twitter.com/DowntoEarthMkts
+  Type: farmers market
+  Website: PO Box 567
+  Youtube: null
+  Zip: '11222'
 - Address: 4th Street at 5th Avenue, Park Slope, New York 11215
   Blog: null
   City: Park Slope
