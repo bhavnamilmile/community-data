@@ -6898,31 +6898,6 @@ data:
   Website: localharvest.org/greenmeadowsfarm
   Youtube: null
   Zip: '32344'
-- Address: 124 Diamond Lake Lane, Crescent City, Florida 32112
-  Blog: null
-  City: Crescent City
-  ContactEmail: allisonfamilyfarm@gmail.com
-  ContactName: Virgil Allison
-  ContactPhone: 904-591-1515
-  Dates: .nan
-  Description: null
-  Facebook: null
-  Image: default-onfarmmarket-4-3.jpg
-  Instagram: null
-  Latitude: '29.422782'
-  ListingID: '700648'
-  Longitude: '-81.577329'
-  ModifyDate: Mar 23rd, 2015
-  Name: Allison Family Farm LLC.
-  Pinterest: null
-  Products: ''
-  State: Florida
-  Street: 124 Diamond Lake Lane
-  Twitter: null
-  Type: on-farm market
-  Website: http://allisonfamilyfarm.com/
-  Youtube: null
-  Zip: '32112'
 - Address: 2102 N Shannon Ave, Plant City, Florida 33563
   Blog: null
   City: Plant City
@@ -7365,7 +7340,7 @@ data:
   ListingID: '700536'
   Longitude: '-81.501306'
   ModifyDate: Sep 30th, 2014
-  Name: Brook Hollow Hydroponics Strawberry Farm
+  Name: Brook Hollow Farm
   Pinterest: null
   Products: ''
   State: Florida

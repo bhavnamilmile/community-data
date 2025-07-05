@@ -2653,31 +2653,6 @@ data:
   Website: https://lickskillet.farm/
   Youtube: null
   Zip: '37820'
-- Address: 2842 Nashville Hwy1, Lewisburg, Tennessee 37091
-  Blog: null
-  City: Lewisburg
-  ContactEmail: Newcombfamilyfarm@gmail.com
-  ContactName: Shelly Newcomb
-  ContactPhone: '9317979161'
-  Dates: .nan
-  Description: null
-  Facebook: https://m.facebook.com/108685953854665/
-  Image: default-onfarmmarket-4-3.jpg
-  Instagram: null
-  Latitude: '35.512638'
-  ListingID: '701607'
-  Longitude: '-86.711984'
-  ModifyDate: Aug 9th, 2021
-  Name: Newcomb Family Farm
-  Pinterest: null
-  Products: ''
-  State: Tennessee
-  Street: 2842 Nashville Hwy1
-  Twitter: null
-  Type: on-farm market
-  Website: null
-  Youtube: null
-  Zip: '37091'
 - Address: 4333 Kingston Hwy, Loudon, Tennessee 37774
   Blog: null
   City: Loudon
@@ -3108,10 +3083,10 @@ data:
   City: Lewisburg
   ContactEmail: Newcombfamilyfarm@gmail.com
   ContactName: Shelly Newcomb
-  ContactPhone: '9317979161'
+  ContactPhone: 931-797-9161
   Dates: .nan
   Description: null
-  Facebook: null
+  Facebook: https://m.facebook.com/108685953854665/
   Image: default-onfarmmarket-4-3.jpg
   Instagram: null
   Latitude: '35.512247'

@@ -1695,31 +1695,6 @@ data:
   Website: wishwellfarms.com
   Youtube: null
   Zip: '43311'
-- Address: 16618 SR 33 East, Wapakoneta , Ohio 45895
-  Blog: null
-  City: Wapakoneta
-  ContactEmail: hilltopharvestfarm@live.com
-  ContactName: Tammy Brown
-  ContactPhone: '4197383991'
-  Dates: .nan
-  Description: null
-  Facebook: Hilltop Harvest Farm
-  Image: default-onfarmmarket-4-3.jpg
-  Instagram: null
-  Latitude: '40.555566'
-  ListingID: '701390'
-  Longitude: '-84.134766'
-  ModifyDate: Feb 21st, 2017
-  Name: Hilltop Harvest Farm Self Serve Market
-  Pinterest: null
-  Products: ''
-  State: Ohio
-  Street: 16618 SR 33 East
-  Twitter: null
-  Type: on-farm market
-  Website: www.hilltopharvestfarm.com
-  Youtube: null
-  Zip: '45895'
 - Address: 11275 Lovers Lane, Mount Vernon, Ohio 43050
   Blog: null
   City: Mount Vernon
@@ -2795,31 +2770,6 @@ data:
   Website: null
   Youtube: null
   Zip: '44402'
-- Address: 16618 US 33 East , Wapakoneta , Ohio 45895
-  Blog: null
-  City: Wapakoneta
-  ContactEmail: Hilltopharvestfarm@live.com
-  ContactName: Tammy Brown
-  ContactPhone: 419-738-3991
-  Dates: .nan
-  Description: null
-  Facebook: Hilltop Harvest Farm
-  Image: default-onfarmmarket-4-3.jpg
-  Instagram: null
-  Latitude: '40.555154'
-  ListingID: '701567'
-  Longitude: '-84.134815'
-  ModifyDate: Nov 24th, 2020
-  Name: Hilltop Harvest Farm Self Serve Market
-  Pinterest: null
-  Products: ''
-  State: Ohio
-  Street: 16618 US 33 East
-  Twitter: null
-  Type: on-farm market
-  Website: www.hilltopharvestfarm@live.com
-  Youtube: null
-  Zip: '45895'
 - Address: 16618 US 33, Wapakoneta, Ohio 45895
   Blog: null
   City: Wapakoneta
@@ -2910,7 +2860,7 @@ data:
   ListingID: '700388'
   Longitude: '-82.531771'
   ModifyDate: Oct 25th, 2015
-  Name: Charlie's Apples at Windy Hill Apple Farm
+  Name: Windy Hill Apple Farm
   Pinterest: null
   Products: ''
   State: Ohio
