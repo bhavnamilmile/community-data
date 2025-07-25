@@ -1,41 +1,4 @@
 data:
-- Address: 1769 West Ash Street, Columbia, Missouri 65203
-  Blog: ''
-  City: Columbia
-  ContactEmail: manager@columbiafarmersmarket.org
-  ContactName: Corrina Smith
-  ContactPhone: '5738236889'
-  Dates: April to October
-  Description: "Experience the taste of mid-Missouri at Columbia Farmers Market, voted\
-    \ the #1 People\u2019s Choice farmers market in the nation! Columbia Farmers Market\
-    \ is a year-round producer-only farmers market. Shop local, with everything produced\
-    \ within a 50-mile radius of Columbia! Over the past few years, the Columbia Farmers\
-    \ Market has experienced tremendous growth. With the opening of Columbia's Agriculture\
-    \ Park, Saturday customer counts regularly surpassed 4,000, and the vendor membership\
-    \ expanded to 85 local farmers, producers, and artisans. The market is deeply\
-    \ involved in the community, regularly hosting musicians, artisans, non-profit\
-    \ groups, educational opportunities, and many other special events."
-  Facebook: https://www.facebook.com/ColumbiaFarmersMarket
-  Image: farmersmarket_301051_11374_20220414220506.png
-  Instagram: https://www.instagram.com/columbiafarmersmarket/
-  Latitude: '38.958293'
-  ListingID: '301051'
-  Longitude: '-92.364624'
-  ModifyDate: Apr 14th, 2022
-  Name: Columbia Farmers Market
-  Pinterest: ''
-  Products: Fresh fruits, Fresh vegetables, Baked goods, Bedding plants, Canned or
-    preserved fruits/vegetables, Coffee/tea, Crafts/woodworking items, Cut flowers,
-    Eggs, Fresh/dried herbs, Honey, Mushrooms, Nursery stock (trees), Nuts, Poultry/fowl
-    meat and products, Prepared foods, Red/other non-poultry meat and products, Soap/body
-    care products, Wild harvested forest products
-  State: Missouri
-  Street: 1769 West Ash Street
-  Twitter: https://twitter.com/comofarmers
-  Type: farmers market
-  Website: columbiafarmersmarket.org
-  Youtube: https://www.youtube.com/channel/UCZ0xFKgsZ8_RDMFQz6wmvCg
-  Zip: '65203'
 - Address: 106 East Tracy Street, Webb City, Missouri 64870
   Blog: null
   City: Webb City
@@ -327,40 +290,42 @@ data:
   Website: https://downtownjoplin.com/joplin-empire-market/
   Youtube: null
   Zip: '64801'
-- Address: 300 N Holden Street; Warrensburg, MO 64093
+- Address: 1769 West Ash Street, Columbia, Missouri 65203
   Blog: ''
-  City: Warrensburg
-  ContactEmail: farmersmarket@warrensburgmainstreet.org
-  ContactName: Monica Mitcheltree
-  ContactPhone: 660-429-3988
-  Dates: 04/30/2022 to 10/01/2022
-  Description: The Warrensburg Farmers' Market strives to promote a sense of community
-    and support for local farmers, bakers, craftsmen, and artists. There will be a
-    wide variety of LOCAL homegrown vegetables, fruits, flowers, and food plants for
-    sale. Pastured raised meats, eggs, baked sweets & breads, granola, and honey are
-    also for sale at the market. Join us every Sat., 8AM-Noon, May-Sept around the
-    JOCO Courthouse Square in Downtown Warrensburg, MO.
-  Facebook: https://www.facebook.com/warrensburgfarmersmarket
-  Image: farmersmarket_301743_14219_20220718141324.png
-  Instagram: https://www.instagram.com/wburgfarmersmarket/
-  Latitude: '38.7650818'
-  ListingID: '301743'
-  Longitude: '-93.7430397'
-  ModifyDate: Jul 18th, 2022
-  Name: Warrensburg Farmers' Market
-  Pinterest: https://www.pinterest.com/wburgfarmersmarket/
+  City: Columbia
+  ContactEmail: manager@columbiafarmersmarket.org
+  ContactName: Corrina Smith
+  ContactPhone: '5738236889'
+  Dates: April to October
+  Description: Experience the vibrant flavor of mid-Missouri at Columbia Farmers Market,
+    a beloved community hub for fresh, locally-sourced produce and goods. Open year-round,
+    our producer-only market features items grown or made within a 50-mile radius
+    of Columbia. Over the years, the market has grown significantly, especially with
+    the opening of Columbia's Agriculture Park, where Saturday attendance often exceeds
+    6,000 visitors. We proudly serve a community that includes 85 farmers, producers,
+    and artisans, and we host a variety of events such as live music, arts & crafts,
+    educational programs, and nonprofit initiatives to foster community involvement.
+  Facebook: https://www.facebook.com/ColumbiaFarmersMarket
+  Image: farmersmarket_301051_11374_20220414220506.png
+  Instagram: https://www.instagram.com/columbiafarmersmarket/
+  Latitude: '38.958293'
+  ListingID: '301051'
+  Longitude: '-92.364624'
+  ModifyDate: Jul 11th, 2025
+  Name: Columbia Farmers Market
+  Pinterest: ''
   Products: Fresh fruits, Fresh vegetables, Baked goods, Bedding plants, Canned or
     preserved fruits/vegetables, Coffee/tea, Crafts/woodworking items, Cut flowers,
-    Dairy products., Eggs, Fresh/dried herbs, Honey, Juices/non-alcoholic ciders,
-    Maple products, Mushrooms, Nursery stock (trees), Nuts, Pet food, Poultry/fowl
-    meat and products, Prepared foods, Soap/body care products
+    Eggs, Fresh/dried herbs, Honey, Mushrooms, Nursery stock (trees), Nuts, Poultry/fowl
+    meat and products, Prepared foods, Red/other non-poultry meat and products, Soap/body
+    care products, Wild harvested forest products
   State: Missouri
-  Street: 300 N Holden Street
-  Twitter: https://twitter.com/WBurgFarmersMkt
+  Street: 1769 West Ash Street
+  Twitter: https://twitter.com/comofarmers
   Type: farmers market
-  Website: https://warrensburgmainstreet.org/farmers-market/
-  Youtube: ''
-  Zip: '64093'
+  Website: columbiafarmersmarket.org
+  Youtube: https://www.youtube.com/channel/UCZ0xFKgsZ8_RDMFQz6wmvCg
+  Zip: '65203'
 - Address: Albany, Missouri 64402
   Blog: null
   City: Albany
