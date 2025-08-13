@@ -1,34 +1,4 @@
 data:
-- Address: 7th Street behind the CVS between Grant Ave & Novato Blvd , Novato , California
-    94947
-  Blog: ''
-  City: Novato
-  ContactEmail: agriculturalcommunityevents@gmail.com
-  ContactName: Kelly Smith
-  ContactPhone: '4159995635'
-  Dates: May to September
-  Description: ''
-  Facebook: https://www.facebook.com/DowntownNovatoCommunityFarmersMarket/
-  Image: farmersmarket_300562_12265_20220414151711.png
-  Instagram: ''
-  Latitude: '38.107536'
-  ListingID: '300562'
-  Longitude: '-122.57874'
-  ModifyDate: Apr 14th, 2022
-  Name: Downtown Novato Community Farmers Market
-  Pinterest: ''
-  Products: Fresh fruits, Fresh vegetables, Baked goods, Bedding plants, Canned or
-    preserved fruits/vegetables, Coffee/tea, Crafts/woodworking items, Cut flowers,
-    Dairy products., Dry beans, Eggs, Fish/seafood, Fresh/dried herbs, Grains/flour,
-    Honey, Juices/non-alcoholic ciders, Mushrooms, Nursery stock, Nuts, Prepared foods,
-    Soap/body care products, Tofu/non-animal protein, Wine, spirits, beer, hard cider
-  State: California
-  Street: 7th Street behind the CVS between Grant Ave & Novato Blvd
-  Twitter: ''
-  Type: farmers market
-  Website: www.ilovefarmersmarkets.org
-  Youtube: ''
-  Zip: '94947'
 - Address: 142 Bolinas Road, Fairfax, California 94930, USA
   Blog: null
   City: Fairfax
@@ -86,63 +56,6 @@ data:
   Website: www.ilovefarmersmarkets.org
   Youtube: null
   Zip: '95476'
-- Address: 1501 Farmers Lane , Santa Rosa , California 95404
-  Blog: ''
-  City: Santa Rosa
-  ContactEmail: agriculturalcommunityevents@gmail.com
-  ContactName: Kelly Smith
-  ContactPhone: 415-999-5635
-  Dates: Year-round
-  Description: ''
-  Facebook: https://www.facebook.com/santarosacommunityfarmersmarket/
-  Image: farmersmarket_300565_12265_20220414152738.png
-  Instagram: ''
-  Latitude: '38.434379'
-  ListingID: '300565'
-  Longitude: '-122.68939'
-  ModifyDate: Apr 14th, 2022
-  Name: Santa Rosa Community Farmers Market at the Veterans Building
-  Pinterest: ''
-  Products: Fresh fruits, Fresh vegetables, Baked goods, Bedding plants, Canned or
-    preserved fruits/vegetables, Coffee/tea, Crafts/woodworking items, Cut flowers,
-    Dairy products., Dry beans, Eggs, Fish/seafood, Fresh/dried herbs, Grains/flour,
-    Honey, Juices/non-alcoholic ciders, Mushrooms, Nursery stock, Nuts, Pet food,
-    Poultry/fowl meat and products, Prepared foods, Red/other non-poultry meat and
-    products, Soap/body care products, Tofu/non-animal protein
-  State: California
-  Street: 1501 Farmers Lane
-  Twitter: ''
-  Type: farmers market
-  Website: www.ilovefarmersmarkets.org
-  Youtube: ''
-  Zip: '95404'
-- Address: 175 Fairgrounds Drive, Petaluma, California 94952, USA
-  Blog: ''
-  City: Petaluma
-  ContactEmail: agriculturalcommunityevents@gmail.com
-  ContactName: Kelly Smith
-  ContactPhone: 415-999-5635
-  Dates: June to August
-  Description: ''
-  Facebook: https://www.facebook.com/PetalumaFarmersMarket/
-  Image: farmersmarket_300566_12265_20220414154741.png
-  Instagram: ''
-  Latitude: '38.2420797'
-  ListingID: '300566'
-  Longitude: '-122.6302082'
-  ModifyDate: Apr 14th, 2022
-  Name: Petaluma Evening Farmers' Market
-  Pinterest: ''
-  Products: Fresh fruits, Fresh vegetables, Baked goods, Canned or preserved fruits/vegetables,
-    Coffee/tea, Cut flowers, Fresh/dried herbs, Pet food, Prepared foods, Soap/body
-    care products, Tofu/non-animal protein, Wine, spirits, beer, hard cider
-  State: California
-  Street: 175 Fairgrounds Drive
-  Twitter: ''
-  Type: farmers market
-  Website: www.ilovefarmersmarkets.org
-  Youtube: ''
-  Zip: '94952'
 - Address: Petaluma Blvd S and D St, Petaluma , California 94952
   Blog: ''
   City: Petaluma
@@ -483,6 +396,67 @@ data:
   Website: www.cffma.com
   Youtube: null
   Zip: '93730'
+- Address: Sherman Ave between Grant Ave & DeLong Ave , Novato , California 94947
+  Blog: ''
+  City: Novato
+  ContactEmail: info@ilovefarmersmarkets.org
+  ContactName: Kelly Smith
+  ContactPhone: '4159995635'
+  Dates: May to September
+  Description: 'Weekly farmers'' market located on Sherman Ave in the beautiful Downtown
+    Shopping District of Novato '
+  Facebook: https://www.facebook.com/NovatoFarmersMarkets/
+  Image: farmersmarket_300562_12265_20250811194301.png
+  Instagram: ''
+  Latitude: '38.107536'
+  ListingID: '300562'
+  Longitude: '-122.578749'
+  ModifyDate: Aug 11th, 2025
+  Name: Downtown Novato Community Farmers Market
+  Pinterest: ''
+  Products: Fresh fruits, Fresh vegetables, Baked goods, Bedding plants, Canned or
+    preserved fruits/vegetables, Coffee/tea, Crafts/woodworking items, Cut flowers,
+    Dairy products., Dry beans, Eggs, Fish/seafood, Fresh/dried herbs, Grains/flour,
+    Honey, Juices/non-alcoholic ciders, Mushrooms, Nursery stock, Nuts, Prepared foods,
+    Soap/body care products, Tofu/non-animal protein, Wine, spirits, beer, hard cider
+  State: California
+  Street: 7th Street behind the CVS between Grant Ave & Novato Blvd
+  Twitter: ''
+  Type: farmers market
+  Website: www.ilovefarmersmarkets.org
+  Youtube: ''
+  Zip: '94947'
+- Address: 1501 Farmers Lane , Santa Rosa , California 95404
+  Blog: ''
+  City: Santa Rosa
+  ContactEmail: info@ilovefarmersmarkets.org
+  ContactName: Kelly Smith
+  ContactPhone: 415-999-5635
+  Dates: Year-round
+  Description: 'The perfect farmers'' market located at Farmers Lane Plaza every Saturday
+    8:30-1 and Wednesday 9-1 '
+  Facebook: https://www.facebook.com/santarosacommunityfarmerslanefarmersmarket
+  Image: farmersmarket_300565_12265_20250811194647.png
+  Instagram: www.instagram.com/ilovesantarosafarmersmarket
+  Latitude: '38.434379'
+  ListingID: '300565'
+  Longitude: '-122.68939'
+  ModifyDate: Aug 11th, 2025
+  Name: Santa Rosa Community Farmers Market at the Veterans Building
+  Pinterest: ''
+  Products: Fresh fruits, Fresh vegetables, Baked goods, Bedding plants, Canned or
+    preserved fruits/vegetables, Coffee/tea, Crafts/woodworking items, Cut flowers,
+    Dairy products., Dry beans, Eggs, Fish/seafood, Fresh/dried herbs, Grains/flour,
+    Honey, Juices/non-alcoholic ciders, Mushrooms, Nursery stock, Nuts, Pet food,
+    Poultry/fowl meat and products, Prepared foods, Red/other non-poultry meat and
+    products, Soap/body care products, Tofu/non-animal protein
+  State: California
+  Street: 1501 Farmers Lane
+  Twitter: ''
+  Type: farmers market
+  Website: www.ilovefarmersmarkets.org
+  Youtube: ''
+  Zip: '95404'
 - Address: 1947 Center St., Berkeley, California 94704
   Blog: null
   City: Berkeley
